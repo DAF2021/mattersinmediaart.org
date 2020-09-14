@@ -12,5 +12,5 @@ Unless otherwise noted, all Matters in Media Art content is licensed under the [
 ## Contributing
 We welcome input, feedback, and contributions to Matter in Media Art from anyone with a passionate interest in the topic of collecting, and preseving media art. All issues and pull requests will be considered.
 
-##中文化測試
+## 中文化測試
 目前測試中
