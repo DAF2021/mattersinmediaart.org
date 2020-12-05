@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Documenting Media Art"
+title: "媒體藝術文件化"
 ---
 
 
 <span class="flow-text">
-Media artworks often require complex, cross-disciplinary documentation, challenging traditional cataloging systems. Curators, registrars, exhibition technicians, IT specialists, intellectual property managers, conservators, outside experts and artists contribute to compiling a multi-voice record for each work of art.
+媒體藝術通常需要複雜、跨領域的紀錄存檔，這對傳統的編目系統來說是種挑戰。策展人、保存記錄人員、展覽技術人員、資訊科技專員、智慧財產管理人員、保存人員、外部專家與藝術家都為作品提供各自的說法及立場以供紀錄。
 </span>
 
 <br>
@@ -13,42 +13,49 @@ Media artworks often require complex, cross-disciplinary documentation, challeng
 ![](img/IMG_4848_2.jpg)
 
 <span class="img-caption" markdown="1">
-Aebhric Coleman from the NAT and Steve Dye from SFMOMA documenting _TV Buddha_ (1989) by Nam June Paik. Photo: San Francisco Museum of Modern Art.</span>
+新藝術信託的艾柏莉克‧柯爾曼（Aebhric Coleman）和舊金山現代藝術博物館的史提夫‧戴（Steve Dye）正在紀錄白南準（Nam June Paik）1989年之作品〈電視佛陀〉（TV Buddha）。照片提供：舊金山現代藝術博物館</span>
 
 
-<div id="post-acq-slider-1" class="liquid-slider">
+<div id="post-acq-slider-1" class="liquid-slider"> <!-- start of slider -->
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Catalogue artwork</h2>
-Enter detailed information about the artwork gathered during the acquisition process into collections database, minimally including:
+<h2>典藏作品資料彙整</h2>
+將作品入藏過程中所取得的詳細資訊，輸入至典藏資料庫中，應至少包括以下資訊：
 
-* Artist, title, creation date, display dimensions, edition number
-* Media format, duration
-* Display equipment, sculptural components
-* Provenance, exhibition history
-* Accession/collection number
-* Valuation, vendor cost
-* Credit line
+* 藝術家、作品名稱、創作年代、展出尺寸、版次
+* 媒體格式、作品時間長度
+* 展示設備、雕塑組件
+* 來源、展覽經歷
+* 登錄／典藏編號
+* 估價、購藏價格
+* 作品／來源附註
 
-Additional information collected in the object file may be uploaded into the database or simply tracked and kept as hard copy.
+作品文件中列出的其他相關資訊，可以在資料庫中更新，或是以影印文件的方式做保存和簡易的追蹤。
+
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Inventory and label artwork components</h2>
-* Media: e.g. video, audio, film, slides, hard-disk drives.
-* Useful websites: [EAI Online Resource Guide](http://www.eai.org/resourceguide/formats.html); [Texas Commission Videotape Identification and Assessment Guide](http://www.arts.state.tx.us/video/); [IMAP Cataloguing Project](http://www.imappreserve.org/cat_proj/)
-* Dedicated display equipment: (e.g. screens, monitors, projectors, speakers, playback equipment, lights, cameras). Record manufacturer and model numbers; collect product manuals for all equipment
-* Useful website: [Mona Jimenez: Artist Instrumentation Database](http://www.fondation-langlois.org/html/e/page.php?NumPage=708)
-* Sculptural components: measure and record all objects to be installed.
+<h2>作品組件的盤點及標籤</h2>
+
+* 媒材：例如錄像、聲音、電影、幻燈片、硬碟。
+
+* 有效網站：[EAI線上資源指南]、[德州委員會錄影帶識別及評估指南]、[獨立媒體藝術保存（IMAP）編目計畫]。(http://www.arts.state.tx.us/video/); [IMAP Cataloguing Project](http://www.imappreserve.org/cat_proj/)
+
+* 專用的展示設備：（例如螢幕、顯示器、投影機、喇叭、重播  設備、燈光、相機）。記錄廠商名稱及型號編號，並收集所有設備的產品使用手冊。
+
+* 有用網站：[Mona Jimenez：藝術家儀器資料庫](http://www.fondation-langlois.org/html/e/page.php?NumPage=708)
+
+* 雕塑組件：測量並記錄所有的安裝物件。
+
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Organize collected information</h2>
-Create object files, or binder, from the acquisition process
+<h2>典藏作品資料彙整</h2>
+由作品購藏過程，創建物品檔案及紀錄文件
 
-These files will grow as the work is exhibited, loaned, and conserved. Most institutions create separate files for different purposes such as acquisition, curatorial, conservation and registration. Most of this information will be stored electronically as well, in collections databases, text documents, and digital images.
+這些檔案將隨著作品的展出、借展及修復而增加。大多數的機構會為不同目的製作各別文件，例如購藏、策展、修復和資料登錄。這些訊息大部分也會以電子檔案方式儲存在典藏作品資料庫、文字檔案和數位影像。
 </div>
 
 
@@ -56,111 +63,127 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 
 
 <section id="cataloging" class="section scrollspy" markdown="1">
-## Cataloging Media Art
-Records for media installations hold a great deal of information which can be difficult to manage.
-Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+## 媒體藝術編目
+
+供媒體裝置使用的媒體藝術編目紀錄，可以保存原本被視為難以管理的大量資訊。以下的指南提供媒體藝術的紀錄，並提供整理資訊至文件各個部分的建議方式。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header">Artwork</div>
+  <div class="collapsible-header">作品</div>
   <div class="collapsible-body" markdown="1">
- * Accession Number
- * Artist
- * Title
- * Medium
- * Description
- * Dimensions
- * Duration
- * Image size (max / min)
- * Room size
+
+ * 入藏編號
+ * 藝術家
+ * 作品名稱
+ * 媒材
+ * 作品說明
+ * 作品尺寸
+ * 作品時間長度
+ * 影像尺寸（最大／最小）
+ * 展示空間尺寸
+
 </div>
 </li>
 <li>
-  <div class="collapsible-header">Acquisition and registration</div>
+  <div class="collapsible-header">購藏與登錄</div>
   <div class="collapsible-body" markdown="1">
- * Incoming receipt
-* Bill of sale
-* Purchase agreement / Deed of gift
-* In some cases you might have a commissioning agreement or a co-ownership agreement note to introduction to legal documents
-* Curatorial proposal
-* Copy of the Certificate of authenticity or the original
-* Copyright agreement
-* Acquisition correspondence
-* Original inventory of media/ display equipment/ sculptural components which are part of the acquisition
-* Cost assessment
-* Acquisition assessment
+
+* 點交憑據
+* 銷售單據
+* 購買同意書／贈與契據
+* 在某些情況中，你需要一份委託同意書或共同持有同意書作為法律文件
+* 策展提案
+* 原版作品證明書或證明書副本
+* 作品版權授權同意書
+* 購藏信函
+* 原始媒材／展示設備／雕塑組件清單亦是作品購藏的一部分
+* 費用評估
+* 購藏評估
+
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Dedicated component information</div>
+  <div class="collapsible-header">作品專用組件資訊</div>
   <div class="collapsible-body" markdown="1">
-* Media
-* Diagram or list of media components which shows the format, when it was made, what it was made from and what it is used for.
-* Display equipment
-* List of dedicated equipment which came as part of the purchase (say why it is dedicated)
-* Manuals
-* Sculptural components
+
+* 媒體
+* 顯示媒體組件格式的圖表或清單，需記錄其製作完成之時間、材料和用途
+* 展示設備
+* 購藏專用設備清單（請詳列專用之處）
+* 操作手冊
+* 雕塑組件
+
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Display specifications</div>
+  <div class="collapsible-header">作品展示規格需求</div>
   <div class="collapsible-body" markdown="1">
-* Installation specifications
-* Additional floor plans and wiring diagrams etc.
+
+* 安裝規格需求
+* 平面圖和佈線圖等等
+
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Display history</div>
+  <div class="collapsible-header">作品展出經歷</div>
   <div class="collapsible-body" markdown="1">
- * List of prior displays
- * Information about displays and other editions of the work
- * Photographs relating to prior displays
- * Texts relating to prior displays
- * Display summary, including equipment used, logs of minor incidents reported during display, display maintenance procedures, budgets, installation plans, notes about exhibition formats made for the display, photographs, correspondence.
- * Loan documents  
+
+ * 過往展出紀錄列表
+ * 展出資訊及其他作品版本之相關資訊
+ * 過往展出圖片紀錄
+ * 過往展出文字紀錄
+ * 展示摘要，包含使用設備、展示期間狀況紀錄、展示維護步驟、預算、作品安裝配置、展覽用格式需求說明、照片紀錄及相關通聯信函。
+ * 借展文件
+
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Artist information</div>
+  <div class="collapsible-header">藝術家資訊</div>
   <div class="collapsible-body" markdown="1">
- * Artist and gallery contact sheet
- * Correspondence with the artist
- * Artist recommended technical specifications
- * Artist’s statement
-* Artist’s interview
+
+ * 藝術家和代理畫廊的聯絡資訊
+ * 與藝術家的通聯紀錄
+ * 藝術家建議之技術規格說明
+ * 創作自述
+ * 相關訪談
+
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Art historical research / context</div>
+  <div class="collapsible-header">藝術史研究資料／脈絡</div>
   <div class="collapsible-body" markdown="1">
- * Documents relating to the artwork, including other editions
- * Exhibition reviews
+ * 作品的相關文件，包含作品的其他版本
+ * 展覽評論
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Structure and condition assessments</div>
+  <div class="collapsible-header">作品結構和狀況評估</div>
   <div class="collapsible-body" markdown="1">
-* Structure and condition report(s)
+
+  * 結構及狀況報告書
+
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Ongoing care</div>
+  <div class="collapsible-header">常態維護</div>
   <div class="collapsible-body" markdown="1">
- * Media migration record
- * Template
- * Conservation treatment reports/ treatment photographs
- * Major damage reports
- * Storage guidelines
- * Disaster plan recommendations
-* Scientific analysis reports
- * Guidelines for packing and transport
+
+ * 媒體轉置紀錄
+ * 範本
+ * 修復處理報告／照片紀錄
+ * 重大損害紀錄
+ * 保存及儲藏指示說明
+ * 損害處理建議
+ * 科學檢測報告
+ * 包裝及運輸指示說明
+
 </div>
 </li>
 </ul>
@@ -171,54 +194,58 @@ Below is a guide to the type of material you might find in a record for a media 
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Document installed artwork</h2>
-Review documentation from artist/vendor/donor. Is it sufficient for long-term care and future installation?
+<h2>作品安裝文件建檔</h2>
+請檢閱藝術家／賣家／捐贈者所提供之文件紀錄，確保資料足夠提供長期保存維護及未來展示之用。
 
-* Documenting media art includes recording the work in its existing state as it enters the collection:
-* Photograph the installation and its individual components
-* Videotape the initial installation
-* Archive installation plans and specifications for display
+* 為媒體藝術進行檔案建置，需記錄作品入藏時的狀況：
+* 以平面攝影記錄各別作品組件
+* 以動態攝影記錄首次安裝過程
+* 將安裝計畫存檔及展示規格需求予以建檔
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Conduct artist interviews</h2>
-The artist interviews may actually include communications with the artist, technicians, owners, gallery staff and others familiar with the artwork. The goal of these interviews is to gather information about technical history, exhibition requirements, artist intent, and technological obsolescence.
+<h2>安排藝術家訪談</h2>
+藝術家訪談可能包含與藝術家、技術人員、作品所有人、美術館館員和其他熟悉作品相關人員的對話。訪談目標為蒐集作品過往的維修紀錄、展覽需求、藝術家創作動機和技術性過時及淘汰等資訊。
 
-(Guidelines for artist interviews may be found on the [INCCA website](http://www.incca.org/))
+(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網網站](http://www.incca.org/))
 
-Create archival transcripts of the interviews. If they can be shared and may benefit colleagues, consider joining INCCA and entering abstracts of the interviews on the [INCCA Artists Archives Database](http://www.incca.org/)
+建立訪談檔案紀錄。若此紀錄可以公開分享，有利於其他同業參考，可考量加入國際當代藝術保存網（INCCA），並將訪談摘要保存於 [INCCA藝術家檔案資料庫中](http://www.incca.org/)
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Develop conservation plan</h2>
-The conservation plan anticipates:
+<h2>規劃保存維護計畫</h2>
+保存維護計畫旨在於規劃下述內容：
 
-* Installation equipment: maintenance requirements and future equipment replacement
-* Media migration cycle
-* Storage specifications
-* Future conservation strategies and costs
+* 作品裝置設備：作品維護需求及未來可供替換之設備
+* 媒體轉置週期
+* 儲存需求規格
+* 未來保存維護策略及預估費用
 
-Additional information about conserving media works may be found at the following websites:
+關於保存媒體作品的相關資訊，可參考以下網站：
 
-* [EAI Online Resource Guide for Exhibiting, Collecting, and Preserving Media Art](http://www.eai.org/resourceguide/)
-* [IMAP Preservation 101](http://www.imappreserve.org/pres_101/index.html)
+* [EAI線上資源指南—媒體藝術的展示、收藏及保存](http://www.eai.org/resourceguide/)
+* [獨立媒體藝術保存（IMAP）Preservation 101](http://www.imappreserve.org/pres_101/index.html)
+
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Prepare for future display</h2>
-* Make media exhibition copies as needed
-* Project costs for future exhibition
+<h2>未來展示準備工作</h2>
+
+* 視展覽需求製作展示用副本
+* 未來展覽之相關費用估算
+
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Pack and store artwork</h2>
-* Proper archival storage and packing is crucial to the longevity of the artwork.
-* A brief summary of storage concerns for media may be found in [<a href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP’s Preservation 101 section on Storage</a>).
+<h2>作品包裝及儲存</h2>
+
+* 適當的儲存及包裝有助於延長作品壽命。
+* 媒體儲存需考量之處可參考 <a href="http://www.imappreserve.org/pres_101/index.html#storage">Preservation 101</a> 針對作品儲存之說明。
 </div>
 
 
@@ -227,9 +254,9 @@ Additional information about conserving media works may be found at the followin
 </section>
 <section id="post-templates" class="section scrollspy" markdown="1">
 
-## Condition Report Templates
+## 作品狀況報告書範本
 
-When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art. In addition to the example reports below, please also refer to the website Time-based Media Conservation by Joanna Phillips, Time-based Media Conservator at the Solomon R. Guggenheim Museum http://www.guggenheim.org/conservation/time-based-media
+在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書可以提供未來作品點檢的基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，其創作媒材可能為較易取得，並可供替換之材料。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容而定義其價值。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯的撰文 [時基媒體修復](http://www.guggenheim.org/conservation/time-based-media)
 
 <!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
@@ -343,52 +370,50 @@ When assessing media art, aim to extend existing condition reporting practices t
 
 </section>
 <section id="assessing" class="section scrollspy" markdown="1">
-## Assessing Digital Video
+## 數位錄像檔案檢測
 
 
 ![](img/peter-assessing.jpg)
 <span class="img-caption" markdown="1">
-Peter Oleksik assessing _Boomerang_ by Nancy Holt and Richard Serra (1974).   
+彼得‧奧萊克希克（Peter Oleksik）檢測理查‧賽拉（Richard Serra）及南西‧霍特（Nancy Holt）之作品《迴旋鏢》（Boomerang, 1974）  
 
-Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole.
+檢測數位錄像媒體，是作品入藏相當重要的步驟。這不僅有助於理解檔案的技術層面和可能的異常狀況，也提供了作品的基準狀態，以供日後點檢之參考，並讓我們更進一步了解每件作品以及所有典藏作品。
 
-
-Video files are assessed and condition checked both visually and aurally with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
-
+使用適當的工具，來評估並檢查錄像檔案的畫面及聲音播放是否正常。本節內容包含相關工作環境的設計需求、對檔案進行首次技術分析的方法，以及影像品質與音質的技術評估及建檔記錄。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header"><i class="material-icons">visibility</i>Visual Assessment</div>
+  <div class="collapsible-header"><i class="material-icons">visibility</i>視覺評估</div>
   <div class="collapsible-body">
   	<p>
-  		luminance, chrominance, color space and gamma,  are the key characteristics to visually asses
+  		亮度、色度、色彩空間和伽瑪校正都是影像品質評估的關鍵特點
   	</p>
-    <strong> Tools for Visual Assessment</strong>
+    <strong>影像品質檢測工具</strong>
    <ul>
-    <li>Reference monitor (SD vs HD)</li>
-    <li>Oscilloscopes</li>
-    <li>Playback Software</li>
+    <li>監看顯示器（SD標準畫質v.s. HD高畫質）</li>
+    <li>示波器</li>
+    <li>重播軟體</li>
    </ul>
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">hearing</i>Aural Assessment </div>
-  <div class="collapsible-body"><p>Key characteristics for aural assessment: Levels (db/VU), phase</p>
-   <ul>Tools for Aural Assessment
-    <li>Meters (digital)</li>
-    <li>Phase Oscilloscope</li>
-    <li>Monitors</li>
-    <li>Waveform visualization</li>
+  <div class="collapsible-header"><i class="material-icons">hearing</i>聽覺評估</div>
+  <div class="collapsible-body"><p>聽覺評估的關鍵特點為電平值（分貝與音量單位）、相位</p>
+   <ul>聽覺檢測工具
+    <li>分貝計（數位）</li>
+    <li>相位示波器</li>
+    <li>顯示器</li>
+    <li>波形視覺化</li>
    </ul>
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">warning</i>Visual and Aural Artifacts</div>
+  <div class="collapsible-header"><i class="material-icons">warning</i>視覺與聽覺假象</div>
   <div class="collapsible-body">
    <ul>
-    <li>Analogue artifacts</li>
-    <li>Digital artifacts</li>
-    <li>Identifying cause / original – A/V Artifact Atlas</li>
+    <li>類比假象</li>
+    <li>數位假象</li>
+    <li>辨識成因／原作—A/V假象圖冊</li>
    </ul>
   </div>
 </li>
@@ -396,176 +421,177 @@ Video files are assessed and condition checked both visually and aurally with th
 
 </section>
 <section id="workstation" class="section scrollspy" markdown="1">
-###	 Assessment Workstation
 
-To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition (SD) and high definition (HD) video systems. If you are working exclusively with either SD or HD material, you could make savings by acquiring just the tools for your specific needs. The following aspects are the 7 key components relevant to all digital video assessment workstations.  
+### 評估工作環境
+
+為了要檢測檔案、控管品質及記錄數位錄像作品檔案狀況，你可能需要依照需求，打造一個專為檔案檢測之用的工作環境。以下我們根據不同預算、不同層級的品質控管需求，列出三種工作環境範例。這三個層次的範例，皆支援SD標準畫質及HD高畫質的影像系統。如果你的檢測檔案僅限SD標準畫質或HD高畫質其中一種規格，那購買符合你特殊需求的設備即可，也可省下一筆預算。下列是與數位錄像檢測工作環境有關的七個關鍵要素。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header"><i class="material-icons">settings_input_composite</i>Connection Types</div>
+  <div class="collapsible-header"><i class="material-icons">settings_input_composite</i>連結端子類型</div>
   <div class="collapsible-body">
   	<p>
-  		Since the signal connections of your devices will play an important role in the playback of your video files, these will be briefly described together with their commonly associated formats. It is important to note that many analog formats only support 1 signal type and therefore outputting them on a “better” (or more recent) signal type can actually change the authenticity of the signal. Keeping the signal native is has been referred to as transparent migration.
+  		由於設備的訊號連接在播放錄像作品時扮演相當重要的角色，在此將簡要介紹這些常見的格式。需要注意的是，許多類比格式只支援單一訊號類型，若要將訊號輸出至「較佳」（或較新）的訊號類型，可能會改變原始訊號導致失真。讓訊號維持原樣輸出的技術，則被稱為透明轉置。
   	</p>
   	<p>
-  		Composite Video [analog connection, SD]: All the information that composes the signal, luminance, chrominance, blanking and synchronization (CVBS), is merged together into one signal. Composite video is a single connection type (either BNC or RCA). Analog formats that utilize a composite signal output and are recorded using a composite signal include ½” open-reel, ¾” U-matic, laser disc and VHS.
+  		複合視訊（類比連接、SD標準畫質）：所有包含訊號、亮度、色度、空白和同步的訊息（CVBS）都被合併到同一個訊號之中。複合視訊為單連接類型（僅BNC或RCA）。使用複合訊號輸出的類比格式，並用複合訊號錄製而成的，包括1/2英吋盤式錄影帶、3/4英吋U-matic錄影帶、LD雷射影碟和VHS錄影帶。
   	</p>
   	<p>
-  		S-Video or Y/C [analog connection, SD]: As opposed to the composite signal, S-Video separates the luminance (Y) and the chrominance (C) into two different channels. Thereby it is a step up in quality from the composite video. It is transmitted by a distinctive looking, 4-pin connector. Formats that allowed for Y/C include VHS and DVD.
+  		S視訊或亮度／色度（類比連接、SD標準畫質）：與複合訊號相反，S視訊將光亮度（Y；luminance）和色度（C；chrominance）訊號分別以獨立線路傳送。因此，此畫質又比複合視訊較為提升。S視訊透過外觀特殊的四針腳接頭傳輸，而支援亮度／色度的格式包含VHS錄影帶及DVD光碟。
   	</p>
   	<p>
-  		Component Video [analog connection, SD]: Component video is the best quality connection to transmit analog video signals. The signal is separated into three channels: Y (luminance), Pb (Blue minus L) and Pr (Red minus L). The green is derived using the pythagorean theorem. Component video comes as three adjoined plugs, sometimes color-coded to green (Y), blue (Pb) and red (Pr). This connection should be used on analog Betacam and Betacam SP.
+  		色差視訊（類比連接、SD標準畫質）：色差視訊是類比視訊中，傳輸品質最佳的連接端子。此訊號分為三種訊號：亮度、Pb色差訊號（藍）、Pr色差訊號（紅）。綠色則以畢氏定理推導。色差視訊有三個相鄰的公端子，端子顏色有時候會與訊號分別以顏色相對應，綠色代表明度、藍色代表Pb色差訊號、紅色則代表Pr色差訊號。色差視訊應使用在類比的Betacam和Betacam SP錄影帶格式。
   	</p>
   	<p>
-  		Serial Digital Interface [SDI, SD or HD]. The SDI signal is a digital bit stream that can be used to transmit analog and digital video signals, and has also been used to by digital formats to record the signal to tape (Digital Betacam). SD-SDI is a signal connection type, using the BNC connection type, that packages the video, aural, and any ancillary data (timecode, closed captioning, etc) into a signal bit stream for transmission. SD-SDI is a 4:2:2 YUV system of video transmission. HD-SDI uses the same principal but splits the signal amongst multiple connections to increase the bandwidth necessary for transmission of High Definition material.
+  		SDI串列數位介面（SDI、SD或HD）。SDI訊號是一種數位位元串流，可用於類比及數位影像訊號之傳輸，亦透過SDI訊號（數位Betacam）將數位訊號錄製到磁帶上。SD-SDI是一種訊號連接種類，使用BNC接頭以進行，並將影像、音訊和輔助資訊（如時間碼、隱藏字幕等等）以訊號位元串流的封包形式進行傳輸。SD-SDI以4:2:2的YUV色彩編碼系統進行影像傳輸；HD-SDI使用相同的原理，但將訊號由一分為多個訊號傳輸，以增加頻寬傳輸高畫質訊號。
   	</p>
   	<p>
-  		High Definition Multimedia Interface [HDMI]: HDMI is typically used in the connection of monitors and other devices together in the transmission of high definition material.
+  		HDMI高畫質多媒體介面（HDMI）：HDMI通常用於高畫質訊號傳輸，連接顯示器及其他設備。
   	</p>
 
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">settings_overscan</i>Monitor</div>
+  <div class="collapsible-header"><i class="material-icons">settings_overscan</i>顯示器</div>
   <div class="collapsible-body">
   	<p>
-  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a Cathode Ray Tube (CRT) monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you with an authentic display of the video signal. CRT monitors are no longer manufactured, however they can be found through appropriate web platforms (e.g. eBay) or forums who post when Broadcast studios sell off their equipment. Make sure the video inputs fit your system before you buy it, and calibration is recommended when setting up.
+    對於SD標準畫質影像檔案，例如經由SD磁帶轉檔的錄像來說，透過陰極射線管（CRT）顯示器觀看是很關鍵的，因為只有這類型的顯示器，才能同時顯示隔行掃描的影像內容，並真實呈現影像訊號。CRT顯示器已不再生產，但可以透過網購平台（如eBay）或有播音室出售二手設備時，可在相關論壇購得。在購買前請確認其影像輸入系統是否和你使用的系統相容，也建議在安裝時進行校準。
   	</p>
   	<p>
-  	Viewing interlaced video files on a computer monitor is problematic because these monitors cannot display interlaced footage and will attempt to merge the fields together into discrete frames. Certain errors, e.g. a head clog from a tape digitization, can only affect one field and lead to a complete area of image loss, which you would not see on a computer monitor.</p>
+  	透過電腦顯示器觀看隔行掃描的影像檔案，可能會產生問題。因為這類型的顯示器無法顯示隔行掃描的影格，也會將圖場合併為獨立的影格。這些包含因磁帶數位化而造成的磁頭堵塞等等的錯誤，會影響圖場並導致整個區域的影像遺失，但這些錯誤是無法從電腦顯示器上看到的。</p>
   	<p>
-  	With the advent of high definition video, the term progressive entered the video world. Progressive means that a video –just like film– contains full discrete frames, as opposed to the two-fields interlaced. Progressive video content is often indicated by a lower case p, for example 720p. These videos can be quality-controlled easily on a computer monitor. A more advanced approach for viewing these kinds of files would be a color-calibrated, LCD studio monitor.
+  	隨著高畫質影像的出現，逐行掃描一詞進入影像世界。逐行掃描的意思是相對於分為兩個圖場的隔行掃描，影像如同膠卷，包含了一個完整的影格。逐行掃描的影像通常以小寫p表示，例如720p。這些影像的畫質，可以輕易地透過電腦顯示器控制。有一種進階的方法，來觀看這種逐行掃描的影像，就是透過經色彩校準的專業液晶顯示器觀賞。
     </p>
 
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">settings</i>Computer</div>
+  <div class="collapsible-header"><i class="material-icons">settings</i>電腦</div>
   <div class="collapsible-body">
-  	<p>Watching digital videos, especially uncompressed or high data rate, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
+  	<p>對舊型或一般「桌上型電腦」來說，觀看數位影像，尤其是未壓縮或高數據傳輸率的影像，可能是一大挑戰。你的工作環境需要一個相對高效率的電腦，至少需要幾GB的隨機存取記憶體（RAM）。如果直接從外接硬碟播放的話，取決於連接介面，若是透過伺服器播放則取決於網速，上述兩種方式皆會使大部分的影像出現遲滯的情形。因此最好直接存在電腦主機中播放，以便在你的電腦上估算需要的儲存容量。或者，你也可以考慮具高速傳輸連接介面的外接硬碟或容錯式磁碟陣列（RAID）。無論你選擇Mac或PC個人電腦平台，皆取決於你使用的軟體種類—Final Cut Pro只能在Mac上使用，Adobe Premiere則皆能在兩種系統上操作。請依照你所使用的軟體、硬體需求及相容性，來選擇你操作的電腦。</p>
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">input</i>A/D converter</div>
+  <div class="collapsible-header"><i class="material-icons">input</i>類比數位轉換器</div>
   <div class="collapsible-body">
-  	<p>An Analog to Digital converter is necessary to process both standard definition material from your computer to a CRT monitor as well as provides connection types for connecting external HD monitors and scopes.</p>
+  	<p>當你用電腦運算SD標準畫質影像素材時，不論是將檔案傳輸至CRT顯示器，或是連接外部HD高畫質顯示器和示波器，皆需要類比數位轉換器。</p>
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">track_changes</i>Scopes</div>
+  <div class="collapsible-header"><i class="material-icons">track_changes</i>示波器</div>
   <div class="collapsible-body">
-  	<p>Monitors, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
+  	<p>即便經過校準，顯示器在表現視覺訊息時，仍有其固有之主觀性。示波器則以提供亮度及色度的電子訊息來保持影像傳遞之客觀性。評估類比及數位影像的兩種重要示波器，為波形監視器及向量示波器。
     <br><br>
-Waveform Monitor:
-The waveform monitor measures the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the blacks are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
+波形監視器：
+波形監視器測量影像訊號的亮度（黑白）訊息，使用網格圖形來繪製訊息，並可檢視黑色訊號是否過低（在類比系統中可能會造成訊息同步處理之干擾），或白色訊號是否過高（這會造成白色區域過曝或超過100 IRE）。
 <br><br>
-Vectorscope: The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
+向量示波器：向量示波器為360度的色輪，用來測量影像訊號中色彩訊息中的色相和飽和度。可使用如膚色及天藍色等已知參考顏色，來判斷色度訊息是否忠實表現。</p>
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">perm_device_information</i>Software</div>
+  <div class="collapsible-header"><i class="material-icons">perm_device_information</i>軟體</div>
   <div class="collapsible-body">
-  	<p>Software is crucial in the assessment of your digital video material. It is important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as <a href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> also allow for in-depth assessment of your video files and have been developed for the archiving community.</p>
+  	<p>檢測數位影像素材的另一個關鍵，就是你所使用的軟體。最重要的是對所用之軟體有基本概念，理解如何運用其功能來播放影像檔案，並如實呈現檔案內容。一般的影像擷取和編輯軟體如Blackmagic的Media Express、Adobe Premiere和Final Cut Pro X，可以用來分析影像素材的每個部份，並深入評估其基本特性（亮度、色度和音訊）。其他免費工具如 <a href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> 也提供影像素材的深入分析，其開發亦是為了檔案保存社群使用。</p>
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">volume_up</i>Audio</div>
+  <div class="collapsible-header"><i class="material-icons">volume_up</i>音訊</div>
   <div class="collapsible-body">
-  	<p>Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in <a href="http://www.sweetwater.com/insync/phase-2/">phase</a> or not.</p>
+  	<p>檢視影像素材時，也必須有高階音頻監測器和測聽器。建議使用一對錄音室等級、近音場音響的喇叭，來檢視作品。此外，使用分貝（dB）或音量單位（VU）做為測量方法，來檢測其音訊是否經裁剪、壓縮或其他失真狀況、以及 <a href="http://www.sweetwater.com/insync/phase-2/">相位</a> 是否一致，都相當有用。</p>
   </div>
 </li>
 </ul>
 
 <br>
 
-####	Set-ups for Assessment Workstations
+####	評估工作環境之設置
 
 
 <table class="assessment bordered highlight">
         <thead>
           <tr>
               <th data-field="id"></th>
-              <th data-field="name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-              <th data-field="price">&nbsp;&nbsp;Advanced&nbsp;&nbsp;</th>
-              <th data-field="price">Professional</th>
+              <th data-field="name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;初階&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+              <th data-field="price">&nbsp;&nbsp;進階&nbsp;&nbsp;</th>
+              <th data-field="price">專業</th>
           </tr>
         </thead>
 
         <tbody>
           <tr>
-            <td>Analog-to-digital video card</td>
+            <td>類比轉數位顯示卡</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Computer</td>
+            <td>電腦</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Video editing software</td>
+            <td>影像編輯軟體</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Video playback software</td>
+            <td>影像重播軟體</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Assessment software</td>
+            <td>檢測軟體</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT monitor with SDI video input</td>
+            <td>含SDI影像輸入孔的陰極射線管顯示器</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT Monitor with composite video input</td>
+            <td>含複合視訊輸入孔的陰極射線管顯示器</td>
             <td></td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Audio monitors</td>
+            <td>音訊顯示器</td>
             <td></td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Audio meter</td>
+            <td>測聽器</td>
             <td></td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Analog waveform monitor/vectorscope</td>
+            <td>類比波形監視器／向量示波器</td>
             <td></td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Digital waveform monitor/vectorscope</td>
+            <td>數位波形監視器／向量示波器</td>
             <td></td>
             <td></td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Sync generator with colorbars/1Khz tone</td>
+            <td>含色條信號／1Khz tone的同步產生器</td>
             <td></td>
             <td></td>
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT monitor with component video input</td>
+            <td>含色差訊號輸入插孔的陰極射線管顯示器</td>
             <td></td>
             <td></td>
             <td class="yes">✓</td>
@@ -575,49 +601,49 @@ Vectorscope: The vectorscope is a 360 degree color wheel that measures the hue a
 
 </section>
 <section id="analysis" class="section scrollspy" markdown="1">
-###	Initial Technical Analysis
-The amount of technical information that you might receive with a digital video artwork will vary depending on the artist.
+###	初步技術分析
+你收到的數位錄像作品的技術資訊量，端看藝術家提供的資料內容。
 
 <div id="main-slider" class="liquid-slider">
 
 
 <div>
 <h2 class="title"></h2>
-<h2>File Characteristics</h2>
-<p>These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should examined on receiving the files:</p>
+<h2>檔案特徵</h2>
+<p>下列關鍵的檔案特徵是你在收到數位檔案之前，最好事先就取得的資訊。如果無法事先取得，那收到檔案時，應就以下列出的各個要點予以檢查：</p>
 <ul>
-<li>What is the file wrapper? e.g. mov, mp4, avi, etc.</li>
-<li>What is your codec? e.g Apple Pro Res 4:2:2, Uncompressed, H.264</li>
-<li>What is the video resolution? e.g 1080 x 1920, 480 x 720, 576 x 720, etc.</li>
-<li>What is the aspect ratio? 16:9, 4:3, etc.</li>
-<li>What timecode is present?</li>
-<li>What is the duration?</li>
-<li>What is the pixel aspect ratio? Square vs non-square</li>
-<li>What is the chroma subsampling?: e.g. 422, 4444, etc.</li>
-<li>Is the file interlaced or progressive?</li>
-<li>What is the audio codec? e.g. PCM, AAC, etc.</li>
-<li>How are the audio channels arranged? e.g. channel count, assignment</li>
-<li>Are any subtitles present?</li>
+<li>副檔名為何？例如：mov、mp4、avi等等。</li>
+<li>你使用哪種編解碼器？例如：Apple Pro Res 4：2：2、未壓縮、H.264。</li>
+<li>影片解析度為何？例如：1080×1920、480×720、576×720等等。</li>
+<li>畫面比例為何？16：9、4：3等等。</li>
+<li>出現什麼時間碼？</li>
+<li>時間長度為何？</li>
+<li>像素外觀比例為何？正方形或非正方形。</li>
+<li>色彩取樣為何？例如：422、4444等等。</li>
+<li>檔案為隔行掃描還是逐行掃描？</li>
+<li>音訊的編解碼器為何？例如：PCM、AAC等等。</li>
+<li>聲道有怎樣的配置嗎？例如：頻道數量、分配。</li>
+<li>有字幕嗎？</li>
 </ul>
 </div>
 
 <div>
 <h2 class="title"></h2>
-<h2>Environment Characteristics</h2>
-<p>When assessing digital video files, it is incredibly helpful to have a good understanding of the environment the file was created in, i.e. the software and hardware systems used for production of the video. These can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future. The following information is useful to receive from the artist upon acquisition:</p>
+<h2>環境特徵</h2>
+<p>在檢測數位錄像檔案時，若能清楚掌握錄像製作的環境，會對檢測過程相當有幫助，例如製作錄像所使用的軟體和硬體系統。這在評估確認和／或錯誤診斷時非常有用。這些資訊也能夠讓評估檢測結果更為精準，也能幫助我們理解未來最佳的維護方式。以下資訊建議在購藏作品時，即向藝術家取得：</p>
 <ul>
-<li>How was the work shot, or what were the sources?</li>
-<li>How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC</li>
-<li>If possible, could you provide your project file or XML output of it?</li>
-<li>What playback environment did you use when viewing your piece? e.g. Mac Pro running OS X 10.9, PC Tower running Windows 8, etc.</li>
-<li>What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.</li>
+<li>作品是怎麼拍攝的，或是使用什麼來源？</li>
+<li>作品是怎麼剪輯的？例如：Final Cut Pro 7.0.7、Adobe Premiere Pro CC</li>
+<li>如果可能的話，請藝術家提供其專案檔或是XML輸出檔。</li>
+<li>藝術家是透過哪種播放環境觀看作品呢？例如：在Mac Pro使用OS X 10.9系統、在PC Tower使用Windows 8系統等等。</li>
+<li>藝術家在檢查／觀看檔案時，有特別使用哪種軟體嗎？例如：Quicktime 7、Quicktime X、VLC等等。</li>
 </ul>
 </div>
 
 <div>
 <h2 class="title"></h2>
-<h2>Display Characteristics</h2>
-<p>As with any media-based artwork, it is useful to review an artists display specifications, if possible.
+<h2>展示特徵</h2>
+<p>只要是媒體藝術作品，在可能的情況下，最好都能仔細檢閱藝術家提供的展示規格。
 </p>
 </div>
 </div>
@@ -673,24 +699,24 @@ Depending on your workflow you may carry out a technical assessment before you c
 
 </section>
 <section id="assessing-files" class="section scrollspy" markdown="1">
-### Assessing Files
+### 檢測檔案
 
-* Confirm that the content is as expected.
-* Ensure that there are no technical problems with the streams.
-* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
-* That this is not an of absence of key information in the streams and the wrapper.
-* Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration.
+* 確認檔案內容與原本預期的內容相符。
+* 確保串流沒有技術問題。
+* 在串流和檔案包裝之間沒有衝突的訊息。舉例來說，一個特定組合的串流和檔案包裝對於解碼來說，其提供的指令可能過於模糊，以致於使用不同的播放器時，有可能會造成影像串流重播的方式有所差異。若是這種情況，可能的話，向藝術家或其代理人確認細節是很有幫助的。
+* 在串流和檔案包裝之間沒有缺少關鍵訊息。
+* 確認基本的設定內容與從藝術家取得的資訊相符，例如編解碼器、檔案包裝、音訊採樣率和位元深度、部份取樣、影格頻率和時間長度。
 
 <br>
 
-#### Assessing Files: How to
+#### 檢測檔案：怎麼做？
 
-* Run <a href="https://en.wikipedia.org/wiki/MediaInfo">MediaInfo</a> on your file(s) to expose the technical metadata for analysis:
+* 在你的檔案中運作 <a href="https://en.wikipedia.org/wiki/MediaInfo">MediaInfo</a> 以公開技術詮釋資料來做分析：
 
-MAC Users:
+MAC使用者：
 
-* Open Terminal
-* Run MediaInfo on the video files you are about to assess with the command: mediainfo -f [path to input file]
+* 開啟 Terminal
+* 輸入命令mediainfo -f [path to input file] ，在你要檢測的錄像檔案中操作MediaInfo。
 
 <!--* It will look something like this:
 
@@ -700,23 +726,23 @@ PC Users:
 
 <br>
 
-#### Assessing files: Identifying Technical Problems
+#### 檢測檔案：辨識技術問題
 
-##### Integrity  
-This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below:
+##### 完整性 
+這個步驟是確認檔案的完整性，沒有其他明顯不完整或毀損的跡象。檢查檔案完整性的第一種方法，是透過檔案的校驗和 來確認（若藝術家在送件時有提供），並在檔案傳送或轉置到你的儲存設備時啟用。若校驗和 檢測無法通過，那就表示檔案中出現了技術性的變化。第二個檢查檔案完整性的方法，則是分析MediaInfo的檢測報告，藉由明確的資料判讀來找出技術問題。檢測出的技術問題可能很多元，但可舉一例，若一個檔案無法由任何播放器開啟，那MediaInfo的報告可能會如下圖所示：
 
 ![](img/mediainfoerror.jpg)
 
-When analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
+在分析這份報告時，明顯可見這個檔案是不完整的，且我們可以從MediaInfo報告上缺少的視訊或音訊串流技術詮釋資料看出，這個檔案缺少了重播所需的視訊和音訊串流。這份文件也明顯顯示，這個資料不存在於檔案中，並且是無法播放的原因。這就表示檔案出現關鍵的錯誤，並且必須更換。
 
-##### Conflicts in Wrapper versus Streams
+##### 檔案包裝和串流的衝突
 
-Problems might arise in the consistent playback of a video stream with regards to aspect ratio and color interpretation if there is conflicting metadata held in the wrapper and the stream. For example as demonstrated in the "Video" section of this MediaInfo report:
+如果檔案包裝和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份MediaInfo報告中的「影像」類別所顯示：
 <div class="row">
 <div class="col s12 m12">
   <div class="card grey lighten-3">
     <div class="card-content grey lighten-3 text">
-      <span class="card-title"> <font color="#00e676"> Mediainfo report</font></span>
+      <span class="card-title"> <font color="#00e676"> Mediainfo 報告</font></span>
       <p>
        Video<br><br>
        ID/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : 1<br>
@@ -755,13 +781,13 @@ Problems might arise in the consistent playback of a video stream with regards t
 </div>
 
 
-In this example, the 3 fields to look at are:
+在這個例子中，有三個地方要注意的是：
 
-* color primaries
-* transfer_characteristics
-* matrix_coefficients
+* color primaries（色彩原色）
+* transfer_characteristics（傳輸特性）
+* matrix_coefficients（矩陣係數）
 
-There is a conflict in the subsampling between the “color_primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces, BT.709 and BT.601. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
+在「色彩原色」和「矩陣係數」之間的二次取樣時發生衝突，檔案包含了與兩個色彩空間BT.709和BT.601有關的解碼資訊。這個衝突會在用Quicktime重播檔案的時候發生，系統會使用預設的BT.601，但BT.601在此並不是正確的色彩空間。
 
 <!-- not sure where this should link to -MH
 ####	Assessment Documentation
