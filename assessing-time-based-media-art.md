@@ -5,7 +5,7 @@ title: "媒體藝術文件化"
 
 
 <span class="flow-text">
-媒體藝術通常需要複雜、跨領域的紀錄存檔，這對傳統的編目系統來說是種挑戰。策展人、保存記錄人員、展覽技術人員、資訊科技專員、智慧財產管理人員、保存人員、外部專家與藝術家都為作品提供各自的說法及立場以供紀錄。
+媒體藝術作品通常需要複雜、跨領域的文件紀錄形式，這對傳統的編目系統來說是種挑戰。策展人、研究人員、登錄人員、展覽技術布展人員、資訊科技專家、智慧財產管理人員、修復人員、外部專家與藝術家更使每件藝術作品有著多元角度和聲音的紀錄。
 </span>
 
 <br>
@@ -20,7 +20,7 @@ title: "媒體藝術文件化"
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>典藏作品資料彙整</h2>
-將作品入藏過程中所取得的詳細資訊，輸入至典藏資料庫中，應至少包括以下資訊：
+將作品入藏過程中所取得的詳細資訊，輸入至藏品資料庫中，應至少包括以下資訊：
 
 * 藝術家、作品名稱、創作年代、展出尺寸、版次
 * 媒體格式、作品時間長度
@@ -30,21 +30,20 @@ title: "媒體藝術文件化"
 * 估價、購藏價格
 * 作品／來源附註
 
-作品文件中列出的其他相關資訊，可以在資料庫中更新，或是以影印文件的方式做保存和簡易的追蹤。
-
+作品檔案的其他相關資訊可以到資料庫，或是以硬拷貝形式單純地追蹤與保存。
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>作品組件的盤點及標籤</h2>
+<h2>藝術作品組件的清單及標籤</h2>
 
-* 媒材：例如錄像、聲音、電影、幻燈片、硬碟。
+* 媒體：例如錄像、聲音、電影、幻燈片、硬碟。
 
-* 有效網站：[EAI線上資源指南]、[德州委員會錄影帶識別及評估指南]、[獨立媒體藝術保存（IMAP）編目計畫]。(http://www.arts.state.tx.us/video/); [IMAP Cataloguing Project](http://www.imappreserve.org/cat_proj/)
+* 實用網站：[EAI線上資源指南]、[德州委員會錄影帶識別及檢視指南]、[獨立媒體藝術保存（IMAP）編目計畫]。：[EAI線上資源指南]、[德州委員會錄影帶識別及評估指南]、[獨立媒體藝術保存（IMAP）編目計畫]。(http://www.arts.state.tx.us/video/); [IMAP Cataloguing Project](http://www.imappreserve.org/cat_proj/)
 
 * 專用的展示設備：（例如螢幕、顯示器、投影機、喇叭、重播  設備、燈光、相機）。記錄廠商名稱及型號編號，並收集所有設備的產品使用手冊。
 
-* 有用網站：[Mona Jimenez：藝術家儀器資料庫](http://www.fondation-langlois.org/html/e/page.php?NumPage=708)
+* 實用網站：[Mona Jimenez：藝術家儀器資料庫](http://www.fondation-langlois.org/html/e/page.php?NumPage=708)
 
 * 雕塑組件：測量並記錄所有的安裝物件。
 
@@ -52,10 +51,10 @@ title: "媒體藝術文件化"
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>典藏作品資料彙整</h2>
+<h2>彙整所收集之資訊</h2>
 由作品購藏過程，創建物品檔案及紀錄文件
 
-這些檔案將隨著作品的展出、借展及修復而增加。大多數的機構會為不同目的製作各別文件，例如購藏、策展、修復和資料登錄。這些訊息大部分也會以電子檔案方式儲存在典藏作品資料庫、文字檔案和數位影像。
+這些檔案將隨著作品的展出、借展及維護而增加。大多數的機構會為不同目的製作各別檔案，例如購藏、策展、維護和資料登錄。這些訊息大部分也會以電子檔案方式儲存在藏品資料庫、文字文件和數位影像。
 </div>
 
 
@@ -63,16 +62,17 @@ title: "媒體藝術文件化"
 
 
 <section id="cataloging" class="section scrollspy" markdown="1">
+
 ## 媒體藝術編目
 
-供媒體裝置使用的媒體藝術編目紀錄，可以保存原本被視為難以管理的大量資訊。以下的指南提供媒體藝術的紀錄，並提供整理資訊至文件各個部分的建議方式。
+供媒體裝置使用的媒體藝術編目紀錄，包含了龐大且可能較難以管理的資訊。透過以下的指南說明，你可以在媒體藝術作品的紀錄中找到其材料類型，以及獲得如何在你的檔案及資料夾裡進行資料管理和分類的建議方式。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
   <div class="collapsible-header">作品</div>
   <div class="collapsible-body" markdown="1">
 
- * 入藏編號
+ * 存取編號
  * 藝術家
  * 作品名稱
  * 媒材
@@ -85,7 +85,7 @@ title: "媒體藝術文件化"
 </div>
 </li>
 <li>
-  <div class="collapsible-header">購藏與登錄</div>
+  <div class="collapsible-header">入藏與登錄</div>
   <div class="collapsible-body" markdown="1">
 
 * 點交憑據
@@ -96,21 +96,21 @@ title: "媒體藝術文件化"
 * 原版作品證明書或證明書副本
 * 作品版權授權同意書
 * 購藏信函
-* 原始媒材／展示設備／雕塑組件清單亦是作品購藏的一部分
+* 媒體／展示設備／雕塑組件原始清單亦是作品購藏的一部分
 * 費用評估
-* 購藏評估
+* 入藏評估
 
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">作品專用組件資訊</div>
+  <div class="collapsible-header">專用組件資訊</div>
   <div class="collapsible-body" markdown="1">
 
 * 媒體
-* 顯示媒體組件格式的圖表或清單，需記錄其製作完成之時間、材料和用途
+* 媒體組件的圖表或清單顯示其格式與製作完成之時間、材料和用途
 * 展示設備
-* 購藏專用設備清單（請詳列專用之處）
+* 隨作品入藏的專用設備清單（請詳列專用之處）
 * 操作手冊
 * 雕塑組件
 
@@ -118,7 +118,7 @@ title: "媒體藝術文件化"
 </li>
 
 <li>
-  <div class="collapsible-header">作品展示規格需求</div>
+  <div class="collapsible-header">展示規格需求</div>
   <div class="collapsible-body" markdown="1">
 
 * 安裝規格需求
@@ -128,7 +128,7 @@ title: "媒體藝術文件化"
 </li>
 
 <li>
-  <div class="collapsible-header">作品展出經歷</div>
+  <div class="collapsible-header">展出經歷</div>
   <div class="collapsible-body" markdown="1">
 
  * 過往展出紀錄列表
@@ -179,7 +179,7 @@ title: "媒體藝術文件化"
  * 範本
  * 修復處理報告／照片紀錄
  * 重大損害紀錄
- * 保存及儲藏指示說明
+ * 儲藏指示說明
  * 損害處理建議
  * 科學檢測報告
  * 包裝及運輸指示說明
@@ -198,17 +198,17 @@ title: "媒體藝術文件化"
 請檢閱藝術家／賣家／捐贈者所提供之文件紀錄，確保資料足夠提供長期保存維護及未來展示之用。
 
 * 為媒體藝術進行檔案建置，需記錄作品入藏時的狀況：
-* 以平面攝影記錄各別作品組件
+* 以平面攝影記錄裝置與其各別組件
 * 以動態攝影記錄首次安裝過程
-* 將安裝計畫存檔及展示規格需求予以建檔
+* 將安裝計畫及展示規格需求予以建檔
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>安排藝術家訪談</h2>
-藝術家訪談可能包含與藝術家、技術人員、作品所有人、美術館館員和其他熟悉作品相關人員的對話。訪談目標為蒐集作品過往的維修紀錄、展覽需求、藝術家創作動機和技術性過時及淘汰等資訊。
+藝術家訪談可能包含與藝術家、技術人員、作品所有權人、美術館館員和其他熟悉作品相關人員的對話。訪談目標為蒐集作品過往的技術資料、展覽需求、藝術家創作動機和技術過時等資訊。
 
-(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網網站](http://www.incca.org/))
+(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網INCCA網站](http://www.incca.org/))
 
 建立訪談檔案紀錄。若此紀錄可以公開分享，有利於其他同業參考，可考量加入國際當代藝術保存網（INCCA），並將訪談摘要保存於 [INCCA藝術家檔案資料庫中](http://www.incca.org/)
 </div>
@@ -245,7 +245,7 @@ title: "媒體藝術文件化"
 <h2>作品包裝及儲存</h2>
 
 * 適當的儲存及包裝有助於延長作品壽命。
-* 媒體儲存需考量之處可參考 <a href="http://www.imappreserve.org/pres_101/index.html#storage">Preservation 101</a> 針對作品儲存之說明。
+* 媒體儲存需考量之處可參考 <a href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP Preservation 101</a> 針對作品儲存之說明。
 </div>
 
 
@@ -256,7 +256,7 @@ title: "媒體藝術文件化"
 
 ## 作品狀況報告書範本
 
-在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書可以提供未來作品點檢的基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，其創作媒材可能為較易取得，並可供替換之材料。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容而定義其價值。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯的撰文 [時基媒體修復](http://www.guggenheim.org/conservation/time-based-media)
+在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書為未來的作品檢視提供了對照基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，因其部分組件可能較易取得，並可以替換。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容就予以定義。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯的專文 [時基媒體修復](http://www.guggenheim.org/conservation/time-based-media)
 
 <!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
@@ -377,28 +377,28 @@ title: "媒體藝術文件化"
 <span class="img-caption" markdown="1">
 彼得‧奧萊克希克（Peter Oleksik）檢測理查‧賽拉（Richard Serra）及南西‧霍特（Nancy Holt）之作品《迴旋鏢》（Boomerang, 1974）  
 
-檢測數位錄像媒體，是作品入藏相當重要的步驟。這不僅有助於理解檔案的技術層面和可能的異常狀況，也提供了作品的基準狀態，以供日後點檢之參考，並讓我們更進一步了解每件作品以及所有典藏作品。
+檢視數位錄像媒體，是作品入藏相當重要的步驟。這不僅有助於你理解檔案的技術層面和可能會發生的異常狀況，它也提供了作品的基準狀態，以供你日後檢視之參考，並讓你更了解每件作品以及典藏品的整體狀況。
 
 使用適當的工具，來評估並檢查錄像檔案的畫面及聲音播放是否正常。本節內容包含相關工作環境的設計需求、對檔案進行首次技術分析的方法，以及影像品質與音質的技術評估及建檔記錄。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header"><i class="material-icons">visibility</i>視覺評估</div>
+  <div class="collapsible-header"><i class="material-icons">visibility</i>視覺檢測</div>
   <div class="collapsible-body">
   	<p>
   		亮度、色度、色彩空間和伽瑪校正都是影像品質評估的關鍵特點
   	</p>
-    <strong>影像品質檢測工具</strong>
+    <strong>視覺檢測工具</strong>
    <ul>
     <li>監看顯示器（SD標準畫質v.s. HD高畫質）</li>
     <li>示波器</li>
-    <li>重播軟體</li>
+    <li>播放軟體</li>
    </ul>
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">hearing</i>聽覺評估</div>
-  <div class="collapsible-body"><p>聽覺評估的關鍵特點為電平值（分貝與音量單位）、相位</p>
+  <div class="collapsible-header"><i class="material-icons">hearing</i>聽覺檢測</div>
+  <div class="collapsible-body"><p>聽覺檢測的關鍵特點為：電平值（分貝與音量單位）、相位</p>
    <ul>聽覺檢測工具
     <li>分貝計（數位）</li>
     <li>相位示波器</li>
@@ -422,9 +422,9 @@ title: "媒體藝術文件化"
 </section>
 <section id="workstation" class="section scrollspy" markdown="1">
 
-### 評估工作環境
+### 檢測工作站
 
-為了要檢測檔案、控管品質及記錄數位錄像作品檔案狀況，你可能需要依照需求，打造一個專為檔案檢測之用的工作環境。以下我們根據不同預算、不同層級的品質控管需求，列出三種工作環境範例。這三個層次的範例，皆支援SD標準畫質及HD高畫質的影像系統。如果你的檢測檔案僅限SD標準畫質或HD高畫質其中一種規格，那購買符合你特殊需求的設備即可，也可省下一筆預算。下列是與數位錄像檢測工作環境有關的七個關鍵要素。
+為了要檢視檔案、控管品質及記錄數位錄像作品檔案狀況，你可能需要依照需求，打造一個專為檔案檢視之用的工作環境。以下根據不同預算、不同層級的品質控管需求，列出三種工作環境範例。這三個層次的範例，皆支援SD標準畫質及HD高畫質的影像系統。如果你的檢測檔案僅限SD標準畫質或HD高畫質其中一種規格，那購買符合你特殊需求的設備即可，也可省下一筆預算。下列是與數位錄像檢測工作站有關的七個關鍵要素。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
@@ -455,10 +455,11 @@ title: "媒體藝術文件化"
   <div class="collapsible-header"><i class="material-icons">settings_overscan</i>顯示器</div>
   <div class="collapsible-body">
   	<p>
-    對於SD標準畫質影像檔案，例如經由SD磁帶轉檔的錄像來說，透過陰極射線管（CRT）顯示器觀看是很關鍵的，因為只有這類型的顯示器，才能同時顯示隔行掃描的影像內容，並真實呈現影像訊號。CRT顯示器已不再生產，但可以透過網購平台（如eBay）或有播音室出售二手設備時，可在相關論壇購得。在購買前請確認其影像輸入系統是否和你使用的系統相容，也建議在安裝時進行校準。
+    對於SD標準畫質影像檔案，例如經由SD磁帶轉檔的錄像來說，透過陰極射線管（CRT）顯示器觀看是很關鍵的，因為只有這類型的顯示器，才能同時顯示隔行掃描的影像內容，並真實呈現影像訊號。CRT顯示器已不再生產，但可以透過網購平台（如eBay）或相關論壇可在有播音室出售二手設備時購得。在購買前請確認其影像輸入系統是否和你使用的系統相容，也建議在安裝時進行校準。
   	</p>
   	<p>
-  	透過電腦顯示器觀看隔行掃描的影像檔案，可能會產生問題。因為這類型的顯示器無法顯示隔行掃描的影格，也會將圖場合併為獨立的影格。這些包含因磁帶數位化而造成的磁頭堵塞等等的錯誤，會影響圖場並導致整個區域的影像遺失，但這些錯誤是無法從電腦顯示器上看到的。</p>
+  	透過電腦顯示器觀看隔行掃描的影像檔案，可能會產生問題。因為這類型的顯示器無法顯示隔行掃描的影格，也會將圖場合併為獨立的影格。那些包含因磁帶數位化而造成的磁頭堵塞等等的錯誤，會影響圖場並導致整個區域的影像遺失，但這些錯誤是無法從電腦顯示器上看到的。
+    </p>
   	<p>
   	隨著高畫質影像的出現，逐行掃描一詞進入影像世界。逐行掃描的意思是相對於分為兩個圖場的隔行掃描，影像如同膠卷，包含了一個完整的影格。逐行掃描的影像通常以小寫p表示，例如720p。這些影像的畫質，可以輕易地透過電腦顯示器控制。有一種進階的方法，來觀看這種逐行掃描的影像，就是透過經色彩校準的專業液晶顯示器觀賞。
     </p>
@@ -482,10 +483,10 @@ title: "媒體藝術文件化"
   <div class="collapsible-body">
   	<p>即便經過校準，顯示器在表現視覺訊息時，仍有其固有之主觀性。示波器則以提供亮度及色度的電子訊息來保持影像傳遞之客觀性。評估類比及數位影像的兩種重要示波器，為波形監視器及向量示波器。
     <br><br>
-波形監視器：
-波形監視器測量影像訊號的亮度（黑白）訊息，使用網格圖形來繪製訊息，並可檢視黑色訊號是否過低（在類比系統中可能會造成訊息同步處理之干擾），或白色訊號是否過高（這會造成白色區域過曝或超過100 IRE）。
-<br><br>
-向量示波器：向量示波器為360度的色輪，用來測量影像訊號中色彩訊息中的色相和飽和度。可使用如膚色及天藍色等已知參考顏色，來判斷色度訊息是否忠實表現。</p>
+    波形監視器：
+    波形監視器測量影像訊號的亮度（黑白）訊息，使用網格圖形來繪製訊息，並可檢視黑色訊號是否過低（在類比系統中可能會造成訊息同步處理之干擾），或白色訊號是否過高（這會造成白色區域過曝或超過100 IRE）。
+    <br><br>
+    向量示波器：向量示波器為360度的色輪，用來測量影像訊號中色彩訊息中的色相和飽和度。可使用如膚色及天藍色等已知參考顏色，來判斷色度訊息是否忠實表現。</p>
   </div>
 </li>
 <li>
@@ -497,14 +498,14 @@ title: "媒體藝術文件化"
 <li>
   <div class="collapsible-header"><i class="material-icons">volume_up</i>音訊</div>
   <div class="collapsible-body">
-  	<p>檢視影像素材時，也必須有高階音頻監測器和測聽器。建議使用一對錄音室等級、近音場音響的喇叭，來檢視作品。此外，使用分貝（dB）或音量單位（VU）做為測量方法，來檢測其音訊是否經裁剪、壓縮或其他失真狀況、以及 <a href="http://www.sweetwater.com/insync/phase-2/">相位</a> 是否一致，都相當有用。</p>
+  	<p>檢視影像素材時，也必須有高階音頻監測器和分貝器。建議使用一對錄音室等級、近音場音響的喇叭，來檢視作品。此外，使用分貝（dB）或音量單位（VU）做為測量方法，來檢測其音訊是否經裁剪、壓縮或其他失真狀況、以及相位是否一致，都相當有用。</p>
   </div>
 </li>
 </ul>
 
 <br>
 
-####	評估工作環境之設置
+#### 評估工作環境之設置
 
 
 <table class="assessment bordered highlight">
@@ -516,7 +517,6 @@ title: "媒體藝術文件化"
               <th data-field="price">專業</th>
           </tr>
         </thead>
-
         <tbody>
           <tr>
             <td>類比轉數位顯示卡</td>
@@ -537,7 +537,7 @@ title: "媒體藝術文件化"
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>影像重播軟體</td>
+            <td>影像播放軟體</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
@@ -567,7 +567,7 @@ title: "媒體藝術文件化"
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>測聽器</td>
+            <td>音訊分貝器</td>
             <td></td>
             <td class="yes">✓</td>
             <td class="yes">✓</td>
@@ -591,7 +591,7 @@ title: "媒體藝術文件化"
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>含色差訊號輸入插孔的陰極射線管顯示器</td>
+            <td>含色差訊號輸入插孔的陰極射線管(CRT)顯示器</td>
             <td></td>
             <td></td>
             <td class="yes">✓</td>
@@ -612,10 +612,10 @@ title: "媒體藝術文件化"
 <h2>檔案特徵</h2>
 <p>下列關鍵的檔案特徵是你在收到數位檔案之前，最好事先就取得的資訊。如果無法事先取得，那收到檔案時，應就以下列出的各個要點予以檢查：</p>
 <ul>
-<li>副檔名為何？例如：mov、mp4、avi等等。</li>
+<li>檔案包裝(Wrapper)為何？例如：mov、mp4、avi等等。</li>
 <li>你使用哪種編解碼器？例如：Apple Pro Res 4：2：2、未壓縮、H.264。</li>
 <li>影片解析度為何？例如：1080×1920、480×720、576×720等等。</li>
-<li>畫面比例為何？16：9、4：3等等。</li>
+<li>畫面比例為何？16：9 、4：3等等。</li>
 <li>出現什麼時間碼？</li>
 <li>時間長度為何？</li>
 <li>像素外觀比例為何？正方形或非正方形。</li>
@@ -623,14 +623,14 @@ title: "媒體藝術文件化"
 <li>檔案為隔行掃描還是逐行掃描？</li>
 <li>音訊的編解碼器為何？例如：PCM、AAC等等。</li>
 <li>聲道有怎樣的配置嗎？例如：頻道數量、分配。</li>
-<li>有字幕嗎？</li>
+<li>是否有字幕？</li>
 </ul>
 </div>
 
 <div>
 <h2 class="title"></h2>
-<h2>環境特徵</h2>
-<p>在檢測數位錄像檔案時，若能清楚掌握錄像製作的環境，會對檢測過程相當有幫助，例如製作錄像所使用的軟體和硬體系統。這在評估確認和／或錯誤診斷時非常有用。這些資訊也能夠讓評估檢測結果更為精準，也能幫助我們理解未來最佳的維護方式。以下資訊建議在購藏作品時，即向藝術家取得：</p>
+<h2>錄像製作環境特徵</h2>
+<p>在檢視數位錄像檔案時，若能清楚掌握錄像製作的環境，會對檢視過程相當有幫助，例如製作錄像所使用的軟體和硬體系統。這在評估確認和／或錯誤診斷時非常有用。這些資訊也能夠讓評估檢測結果更為精準，幫助我們理解未來最佳的維護方式。以下資訊建議在作品入藏時，即向藝術家取得：</p>
 <ul>
 <li>作品是怎麼拍攝的，或是使用什麼來源？</li>
 <li>作品是怎麼剪輯的？例如：Final Cut Pro 7.0.7、Adobe Premiere Pro CC</li>
@@ -699,13 +699,14 @@ Depending on your workflow you may carry out a technical assessment before you c
 
 </section>
 <section id="assessing-files" class="section scrollspy" markdown="1">
+
 ### 檢測檔案
 
 * 確認檔案內容與原本預期的內容相符。
 * 確保串流沒有技術問題。
-* 在串流和檔案包裝之間沒有衝突的訊息。舉例來說，一個特定組合的串流和檔案包裝對於解碼來說，其提供的指令可能過於模糊，以致於使用不同的播放器時，有可能會造成影像串流重播的方式有所差異。若是這種情況，可能的話，向藝術家或其代理人確認細節是很有幫助的。
-* 在串流和檔案包裝之間沒有缺少關鍵訊息。
-* 確認基本的設定內容與從藝術家取得的資訊相符，例如編解碼器、檔案包裝、音訊採樣率和位元深度、部份取樣、影格頻率和時間長度。
+* 在串流和檔案包裝(Wrapper)之間沒有衝突的訊息。舉例來說，一個特定組合的串流和檔案包裝對於解碼來說，其提供的指令可能過於模糊，以致於使用不同的播放器時，有可能會造成影像串流重播的方式有所差異。若是這種情況，可能的話，向藝術家或其代理人確認細節是很有幫助的。
+* 在串流和檔案包裝(Wrapper)之間沒有缺少關鍵訊息。
+* 確認基本的設定內容與從藝術家取得的資訊相符，例如編解碼器、檔案包裝(Wrapper)、音訊採樣率和位元深度、部份取樣、影格頻率和時間長度。
 
 <br>
 
@@ -729,51 +730,51 @@ PC Users:
 #### 檢測檔案：辨識技術問題
 
 ##### 完整性 
-這個步驟是確認檔案的完整性，沒有其他明顯不完整或毀損的跡象。檢查檔案完整性的第一種方法，是透過檔案的校驗和 來確認（若藝術家在送件時有提供），並在檔案傳送或轉置到你的儲存設備時啟用。若校驗和 檢測無法通過，那就表示檔案中出現了技術性的變化。第二個檢查檔案完整性的方法，則是分析MediaInfo的檢測報告，藉由明確的資料判讀來找出技術問題。檢測出的技術問題可能很多元，但可舉一例，若一個檔案無法由任何播放器開啟，那MediaInfo的報告可能會如下圖所示：
+這個步驟是確認檔案的完整性，沒有其他明顯不完整或毀損的跡象。檢查檔案完整性的第一種方法，是透過檔案的校驗和(checksum)來確認，若藝術家在送件時有提供，要在檔案傳送或轉置到你的儲存設備時啟用。若校驗和檢測無法通過，那就表示檔案中出現了技術性的變化。第二個檢查檔案完整性的方法，則是分析MediaInfo的檢測報告，藉由明確的資料判讀來找出技術問題。檢測出的技術問題可能很多元，但可舉一例，若一個檔案無法由任何播放器開啟，那MediaInfo的報告可能會如下圖所示：
 
 ![](img/mediainfoerror.jpg)
 
 在分析這份報告時，明顯可見這個檔案是不完整的，且我們可以從MediaInfo報告上缺少的視訊或音訊串流技術詮釋資料看出，這個檔案缺少了重播所需的視訊和音訊串流。這份文件也明顯顯示，這個資料不存在於檔案中，並且是無法播放的原因。這就表示檔案出現關鍵的錯誤，並且必須更換。
 
-##### 檔案包裝和串流的衝突
+##### 檔案包裝(Wrapper)和串流的衝突
 
-如果檔案包裝和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份MediaInfo報告中的「影像」類別所顯示：
+如果檔案包裝(Wrapper)和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份MediaInfo報告中的「影像」類別所顯示：
 <div class="row">
 <div class="col s12 m12">
   <div class="card grey lighten-3">
     <div class="card-content grey lighten-3 text">
       <span class="card-title"> <font color="#00e676"> Mediainfo 報告</font></span>
       <p>
-       Video<br><br>
-       ID/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : 1<br>
-       Format&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  : AVC<br>
-       Format/Info&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : Advanced Video Codec<br>
-       Format_Profile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      : Main@L4.0<br>
-       Format_Settings_CABAC/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           : No<br>
-       Format_Settings_RefFrames/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        : 2 frames<br>
-       Format_Settings_GOP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: M=1, N=50<br>
-       CodecID &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: avc1<br>
-       CodecID/Info  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Advanced Video Coding<br>
-       Duration/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 2mn 57s<br>
-       BitRate/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 4 925 Kbps<br>
-       Width/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : 1 920 pixels<br>
-       Height/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : 1 080 pixels<br>
-       DisplayAspectRatio/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               : 16:9<br>
-       FrameRate_Mode/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   : Constant<br>
-       FrameRate/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 25.000 fps<br>
-       ColorSpace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : YUV<br>
-       ChromaSubsampling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 4:2:0<br>
+       影像<br><br>
+       識別字  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : 1<br>
+       格式&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  : AVC<br>
+       格式／相關資訊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : Advanced Video Codec<br>
+       格式類型&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      : Main@L4.0<br>
+       格式設定_CABAC/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           : No<br>
+       格式設定_RefFrames/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        : 2 frames<br>
+       格式設定_GOP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: M=1, N=50<br>
+       編解碼器識別字 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: avc1<br>
+       編解碼器識別字/Info  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Advanced Video Coding<br>
+       時間長度/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 2mn 57s<br>
+       流量/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 4 925 Kbps<br>
+       畫面寬度/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : 1 920 pixels<br>
+       畫面高度/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : 1 080 pixels<br>
+       顯示長寬比例/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               : 16:9<br>
+       影格頻率模式/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   : Constant<br>
+       影格頻率/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 25.000 fps<br>
+       色彩空間&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : YUV<br>
+       掃描型態&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 4:2:0<br>
        BitDepth/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          : 8 bits<br>
-       ScanType/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Progressive<br>
-       Bits (Pixel*Frame)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 : 0.095<br>
-       StreamSize/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      : 104 MiB (98%)<br>
-       Language/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : English<br>
-       Encoded_Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : UTC 2014-03-27 11:47:51<br>
-       Tagged_Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : UTC 2014-03-27 11:55:51<br>
-       <strong>colour_primaries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : BT.709</strong><br>
-       <strong>transfer_characteristics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              : BT.709</strong><br>
-       <strong>matrix_coefficients&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     : BT.601</strong><br>
-       colour_range&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : Limited<br>
+       掃描型態/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Progressive<br>
+       位元 (像素*影格)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 : 0.095<br>
+       串流大小/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      : 104 MiB (98%)<br>
+       語系/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : English<br>
+       編碼日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : UTC 2014-03-27 11:47:51<br>
+       標記日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : UTC 2014-03-27 11:55:51<br>
+       <strong>色彩原色&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : BT.709</strong><br>
+       <strong>傳輸特性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              : BT.709</strong><br>
+       <strong>矩陣係數&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     : BT.601</strong><br>
+       色域&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : Limited<br>
       </p>
     </div>
   </div>
