@@ -1,36 +1,35 @@
 ---
 layout: default
-title: Sustaining Media Art
+title: 永續維護媒體藝術
 published: true
 ---
 
 <span class="flow-text">
-Since this project started in 2005, media arts have predominantly shifted to the digital realm. Digital collections and legacy works that have been digitized require appropriate storage. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems.
+自2005年本計畫執行以來，媒體藝術已主要屬於數位領域。數位典藏作品與已經數位化的傳統作品需要適當的儲存環境。此篇範式內容將著重在為數位藝術藏品建立儲存系統和將數位藏品移入這些系統的挑戰。
 </span>
 
 ![](img/Mengbo.jpg)
 <span class="img-caption" markdown="1">
-Feng Mengbo _Long March: Restart_ (2008). Video game (color, sound), custom computer software, and wireless game controller. Dimensions and duration variable. The Museum of Modern Art, New York. Given anonymously, 2008. © 2015 Feng Mengbo. Installation view, Scenes for a New Heritage: Contemporary Art From the Collection, The Museum of Modern Art, New York (March 7, 2015 - April 10, 2016). Digital image © 2015 The Museum of Modern Art, New York. Photo: Thomas Griesel.
+圖說：馮夢波，《長征：重啟》（2008）。Video game (color, sound),電視遊戲（彩色，有聲），訂製電腦軟體和無線遊戲控制器。尺寸和時間長度視場地調整。紐約現代現代藝術博物館。匿名提供，2008。©2015馮夢波。展示圖，新遺產之場景：館藏當代藝術展，紐約現代藝術博物館（2015年3月7日至2016年4月10日）。數位圖像©2015紐約現代藝術博物館。攝影：Thomas Griesel。
 </span>
 
 <br>
-Our aim is to provide information that is useful to anyone who is caring for their own collection of video artworks in small, medium or large organizations as well as outside of an institution. Core principles are accentuated and you will find different approaches for different collection requirements highlighted throughout the text as quotes. We invite you to fill out a [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), which will act as a tool to help you outline the needs of your collection. The results will form the basis for an overall preservation system design.
-
+我們的目標是提供有用的資訊給任何關注錄像藝術藏品的小型、中型或大型組織和外部機構。在文中強調了核心原則，也將在文中以引述標示不同藏品需求的不同處理方法。我們邀請你填寫一份問卷，這個動作會幫你初步了解藏品的需求，其結果將構成整體保存系統設計的基礎。
 <br>
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 
 <div class="card grey lighten-3">
   <div class="card-content grey lighten-3 text">
-    <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
+    <span class="card-title"> <font color="#00e676"> 核心原則</font></span>
      <br>
      <p>
       <ul>
-       <li> Do to digital works as you would to any artwork: identify, catalog, describe, treat, document and track </li>
-       <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
-       <li> Build storage for your present collection but lay groundwork for the future </li>
-       <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
-       <li>Digital collections require active maintenance and will not survive passive storage</li>
+       <li> 對待數位作品如同一般藝術品一樣：辨別、編目、描述、維護處理、記錄和追蹤 </li>
+       <li> 做好變通的準備：必要的技能會不斷地演變且不限於既有專業範圍 </li>
+       <li> 為現有的藏品建立儲存空間，並為未來打下基礎 </li>
+       <li> 建置藏品儲存空間的預算須同時包含維運費用</li>  
+       <li> 數位藏品需要主動去維護，不適合被動式的儲存</li>
      </ul>
      </p>
 </div>
@@ -46,21 +45,21 @@ Our aim is to provide information that is useful to anyone who is caring for the
 
 <section id="Know-Your-Collection" class="section scrollspy" markdown="1">
 
-## Know your Collection
+## 了解你的收藏
 
-The first step to planning what you need is understanding what you have. And how it might grow. This will form the basis to any further decisions regarding your infrastructure, staffing needs and budget. To help you with this initial assessment, we created a survey to gather all the core information.
+首先要了解你擁有什麼？以及它將如何增長？這將是與基礎架構、人員需求和預算有關的進一步決策基礎。為了協助你進行初步評估，我們創建了一個收集所有核心資料的問卷。
 
 
 
 <a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
   <div class="card grey lighten-3">
     <div class="card-content grey lighten-3 text">
-      <span class="card-title"><font color="#00e676">Survey: Scoping Your Digital Collection</font></span>
-      <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video, the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems, for example the needs for storage.</p>
+      <span class="card-title"><font color="#00e676">調查：界定你的數位藏品範圍</font></span>
+      <p>這項調查旨在幫助你了解數位藏品的大致狀況，儘管這幾頁僅涉及數位錄像的需求，但其他類型的數位藝術作品或數位組件的存在也會影響既有系統的決策，例如儲存需求。</p>
     </div> <!-- end of card-content -->
     <div class="col s12">
     <a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
-      <div class="chip"><i class="large material-icons">play_for_work</i>Collection Survey
+      <div class="chip"><i class="large material-icons">play_for_work</i>藏品調查
         </div>
         </a>
         </div>
@@ -75,59 +74,59 @@ The first step to planning what you need is understanding what you have. And how
 
 
 <br><br>
-In order to plan for the storage and management of your collection, it is useful to define the categories of collection items and associated documentation that you hold. This might include the following:
+為了規劃藏品的儲存和管理，定義藏品類別和相關文件紀錄會很有幫助，這可能包括以下內容：
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header">Masters</div>
+  <div class="collapsible-header">母檔案 (Masters)</div>
   <div class="collapsible-body" markdown="1">
-Master material as provided by the artist, gallery, or donor. This may be a digital file, tape, film reel, disc or other.
+母帶由藝術家、藝廊或捐贈者提供，可以是數位檔案、磁帶、膠卷、光碟或其他。
 </div>
 </li>
 <li>
-  <div class="collapsible-header">Preservation Masters</div>
+  <div class="collapsible-header">保存母檔案 (Preservation Masters) </div>
   <div class="collapsible-body" markdown="1">
-Clones or derivatives of the artist’s master material made by your institution or a gallery for preservation purposes. This includes master files made through tape to file transfers.
+由機構或藝廊為保存目的而製作的藝術家母帶的副本或衍生品。這包含從母帶轉檔為母檔案。
 </div>
 </li>
 <li>
-  <div class="collapsible-header">Exhibition and Research Copies</div>
+  <div class="collapsible-header">展示和研究用副本</div>
   <div class="collapsible-body" markdown="1">
-Derivatives of the master material created either by the artist or by your institution for access, exhibition or loan.
+由藝術家或機構為了存取、展覽或出借作品時，而製作的衍生品。
 </div>
 </li>
 <li>
-  <div class="collapsible-header">Ancillary Material</div>
+  <div class="collapsible-header">輔助性資料</div>
   <div class="collapsible-body" markdown="1">
-Documentation created or received relating to the creation process and intended display of the artwork. This can include the artist’s installation instructions and exhibition documentation.
+即建立或來自與藝術品創作過程和預期展示有關的文件紀錄，這包含了藝術家的安裝說明書和展示文件紀錄
 </div>
 </li>
 </ul>
 <br>
 
 
-You will then need to decide what level of preservation is needed for each category and how the various objects need to be linked to each other. Depending on your needs, you may want to keep all of this information together in one place, or you may wish to keep it in different locations or systems which are interconnected.
+你需要決定每個類別要以什麼級別來保存，以及藏品間必須的連結方式。根據你的需求，你可能會希望將所有資料集中，或者將其保存在彼此相連的不同位置或系統中。
 
 <div id="collection-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Simple </font> </h2>
 <h2> <font color="#00e676"> ______________________ </font> </h2>
-“I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format, if I have the master.”
+「我專注於將母檔案保存在稱之為我的『典藏(archive)』的硬碟上，我並不會有條理的保留自己為其他用途製作的衍生性檔案。 有時它們沒有被放到硬碟中，但是我認為只要擁有母檔案，我就可以做出任何格式。」
 <h2> <font color="#00e676"> ______________________ </font> </h2>
 </div>
 
 <div markdown="1">
 <h2 class="title"><font color="#40c4ff"> Medium </font> </h2>
 <h2><font color="#40c4ff"> ______________________ </font> </h2>
-“We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.”
+「通常我們會接收所有藝術家提供給我們的東西，儘管我們一直在努力去獲取母檔案。 大部分數位藏品的播放檔案格式是H.264 .mov和ProRes，或當我們能夠直接從藝術家或藝廊處取得的未壓縮母檔案。此外，我們一直在積極地將類比磁帶資料轉錄成數位母檔案。」
 <h2><font color="#40c4ff"> ______________________ </font> </h2>
 </div>
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Complex </font></h2>
 <h2> <font color="ef5350"> ______________________ </font></h2>
-“We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
+「我們會保留從藝術家處收到的所有檔案。當我們為保存、展覽、借展等目的去創建衍生性檔案時，每個新檔案都會在我們的藏品管理系統中獲得一個組件編號，並且與創建這些檔案的相關詳細資料一起存在資料庫中。我們會有一個能進入數位資產管理系統(DAM)中的可存取副本，以便我們的員工可以直接查看藏品，而不需直接進入數位檔案資料庫。」
 <h2> <font color="ef5350"> ______________________ </font></h2>
 </div>
 
@@ -144,49 +143,49 @@ You will then need to decide what level of preservation is needed for each categ
 
 <section id="Assess-Your-Skills" class="section scrollspy" markdown="1">
 
-## Assess your Skills
+## 評估你的技能
 
 ![](img/image for community resources.jpg)
 
 <span class="img-caption" markdown="1">
-Expert meeting of media conservators and archivists on digital repositories and user needs hosted by the Museum of Modern Art, New York. Digital image © 2014 The Museum of Modern Art, New York.
+由紐約現代藝術博物館主辦之數位檔案資料庫和使用者需求的媒體保存維護師和檔案管理員專家會議。數位圖像©2014紐約現代藝術博物館。
 </span>
 
 
-Caring for digital files is not fundamentally different from caring for art objects in other media, and the steps needed have parallels to the ones in more traditional conservation specializations.
+照護數位檔案和其他媒體的藝術品本質上沒有區別，所需步驟亦與多數傳統保存維護之專業步驟相似。
 
-For example, if a collection acquires a painting it will likely collect information about its creation, history, and condition, define and maintain the best conditions to store it, and ensure that handling and exhibition are appropriately managed. Museums and other institutions have become very good at ensuring that all these things happen to an agreed standard, and have highly developed teams dedicated to that end. It is just as relevant to understand what a digital file is, how it was created, its history and condition, and ensure that storage and display are appropriately managed.
+例如，當入藏一幅畫作時，會收集該作品的創作、歷史和狀況的資訊，去釐清並保持最佳狀況來典藏作品，而且確保管理與展示能妥善處理。博物館和其他機構已非常擅長確保這些事務都達到標準，並且有專業團隊專責處理。了解此數位檔案為何？其創作過程、歷史和狀態為何？並確立適當的保存與展示也是如此。
 
-If you are taking care of your own work or if you are in a small organization, relationships with external providers may be a key way of accessing those who have the necessary skills.
+如果你是親自維護作品，或是服務於小型組織中，那麼與外部專家的關係會掌握所需技術人員的關鍵方式。
 
-To enhance or acquire the skills needed to care for your collection, consider the following:
+為了增進或取得保存維護藏品所需的技能，請考慮以下事項：
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header">Collaboration</div>
+  <div class="collapsible-header">合作</div>
   <div class="collapsible-body" markdown="1">
-Not everyone will be able to acquire _all_ of the necessary skills, so collaboration is crucial to the successful care of your digital collection. This includes working with external specialists and facilities in the required fields, for example in video migration, but also connecting across an institution, or even sharing resources among institutions with similar requirements.
+並非每個人都能掌握所有必需技能，因此，合作對於成功維護數位藏品是至關重要的。這包括與外部專家和機構合作，以影片轉置為例，也包含跨機構連接，甚至在有類似需求的機構之間的資源共享。
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Conferences and Workshops</div>
+  <div class="collapsible-header">研討會與工作坊</div>
   <div class="collapsible-body" markdown="1">
-Attending related conferences is a good way to keep abreast of developments, and can also be used to help existing members of staff develop the skills needed. A more targeted way of developing those skills can be to attend or organize workshops about a specific subject.
+參加相關研討會是與時俱進的好方法，也可幫助成員發展所需技能，參加或組織特定主題的工作坊是一種有效培養技能的方式。
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Professional Networks</div>
+  <div class="collapsible-header">專業人員網絡</div>
   <div class="collapsible-body" markdown="1">
-Participation in professional networks and leveraging community resources can be a very helpful way to exchanging one's experience and connecting with colleagues who are facing similar challenges.
+參與專業人員網絡和利用社群資源有助於彼此的經驗交流，以及與面臨類似問題的夥伴間之聯繫。
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header">Hiring New Staff</div>
+  <div class="collapsible-header">僱用新員工</div>
   <div class="collapsible-body" markdown="1">
-Depending on the size of your collection it may be necessary to create new roles or hire new staff to ensure the expertise is created and shared.
+根據藏品的規模，可能有必要建立新職務或僱用新員工以確保專業知識的建立與共享。
 </div>
 </li>
 </ul>
@@ -197,20 +196,18 @@ Depending on the size of your collection it may be necessary to create new roles
 
 <div markdown="1">
 <h2 class="title"></h2>
->“I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.”
+「我具備編目和複製檔案製作備份的能力，我可以使用自己的磁帶卡座進行磁帶轉檔，當原始檔案有問題或沒有磁帶卡座時，我會去找專家處理。我與專業剪輯人員一起進行數位影片的轉碼或重製，因為我並不了解所有種類，這樣會無法達到想要的品質。你可能會花費大量時間而無法獲得想要的結果，或者你之後才會發現，如果以其他方式進行操作會更好。」
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
-
-“We have a full time manager of the collection who oversees all aspects of the acquisition, lending and general care of the art material. In addition, we have a support staff of part-time employees who specialize in cataloguing, art handling and general care/maintenance of the collection. As we have acquire more digital material, we have hired consultants to get us up to speed and adapt our collection management software to accommodate this material and set us up with the cloud storage and workflow for backing everything up.”
+「我們有一位全職的藏品管理員，負責監管藝術作品入藏、借展和一般維護的各個層面。此外，我們還有一位兼職員工，專門負責編目和藏品的基礎維護。隨著購入更多的數位媒材，我們聘請了顧問來加快速度並調整我們的藏品管理系統以容納這種媒材，還設置了備份用的雲端儲存和工作流程。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-“We have a full-time Media Conservator, Assistant Media Conservator, and a Digital Repository Manager, supported by our IT department. Our AV department handles the installation and maintenance of display equipment. We also have several staff members dedicated to the management of TMS, our collection management database.”
-
+「在資訊工程部門的協助下，我們擁有全職的媒體藝術保存維護師、助理媒體保存維護師和數位檔案資料庫經理。我們的影音技術部門負責展示設備的安裝和維護，我們還有幾位專門負責博物館系統TMS ，也就是藏品資料庫管理的工作人員。」
 </div>
 </div>
 
@@ -224,77 +221,75 @@ Depending on the size of your collection it may be necessary to create new roles
 
 <section id="Calculate-Your-Budget" class="section scrollspy" markdown="1">
 
-## Calculate your Budget
+## 衡量你的預算
 
-No matter if you are a private collector or a large institution, significant costs are involved in collecting and maintaining digital artworks. When calculating a budget, there are two different types of costs to consider: capital costs (one-time purchases of fundamental infrastructure or tools that will in theory last several years) and ongoing or recurring costs that will become part of a regular operating budget and may increase as your collection grows.
+無論你是私人收藏家還是大型機構，收藏和維護數位藝術都涉及了大量成本。在衡量預算時，要考慮兩種不同類型的成本：資金成本（一次性購買基本的基礎設施或工具，理論上將持續使用數年）以及持續性或經常性成本，這將成為經常性營運預算的一部分，可能會隨著你收藏的增長而增加。
 
-Drawing from the results of the [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing costs for a robust repository supported by IT staff.
-In order to be able to establish a budget you will need to have gathered the following:
+根據 [調查結果]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), 你可以開始規劃所需的儲藏空間和估算數位保存、基礎設施和支援的成本，成本範圍從編列硬碟預算到讓資訊工程師開發強大的檔案資料庫。
 
+為了要制訂預算，你將會需要收集以下內容：
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header">Information about your Collection</div>
+  <div class="collapsible-header">有關你的藏品資訊</div>
   <div class="collapsible-body">
     <ul>
-      <li>What formats are present in your collection?</li>
-      <li>How much material will you need to store?</li>
-      <li>What is the total size of the files, if the material is stored as digital files?</li>
-      <li>What is the duration of the material, if it is on tape?</li>
-      <li>In what timeframe are you planning on migrating your tapes to file?</li>
-      <li>How fast is your collection growing?</li>
+      <li>你的收藏目前有哪些格式？</li>
+      <li>你需要儲存多少資料？</li>
+      <li>如果資料是以數位檔案的方式儲存，總計的檔案大小是多少？</li>
+      <li>如果是在磁帶上，檔案的時間長度是？</li>
+      <li>你打算在什麼時間點將磁帶轉置成數位檔案？</li>
+      <li>你的收藏增長有多快？</li>
       <br>
     </ul>
   </div>
 </li>
 <li>
-  <div class="collapsible-header">Influencing Decisions</div>
+  <div class="collapsible-header">影響決策</div>
   <div class="collapsible-body">
     <ul>
-      <li> Will you keep all the copies of an artwork (i.e. artist supplied masters, archival masters, retired masters, exhibition copies, access copies)?</li>
-      <li> Will you keep each component stored on its own with its own metadata or will you keep all the artwork's components together?</li>
-      <li> What type of metadata and documentation will you keep with your components and what will be kept elsewhere?</li>
+      <li> 你是否會保留藝術作品的所有副本（例如：藝術家提供的、封存的、除役的母檔案、展示用副本、存取用副本）？</li>
+      <li> 你是否會將每個組件與其詮釋資料單獨儲存，還是將藝術作品所有的組件放在一起？</li>
+      <li> 你會將什麼類型的詮釋資料和紀錄與組件放在一起，哪些又將存放在其他地方？</li>
       <br>
-        </ul>
-         </li>
     </ul>  
   </div>
 </li>
 <li>
-  <div class="collapsible-header">People and Facilities</div>
+  <div class="collapsible-header">人員和設施</div>
   <div class="collapsible-body">
     <ul>
-      <li>Will you be working with external facilities and contractors?<br>
-      Will you hire new staff?</li>
+      <li>你會與外部設施和承包商合作嗎？<br>
+      你會僱用新員工嗎？</li>
       <br>
     </ul>
   </div>
 </li>
     <li>
-    <div class="collapsible-header">Consumables</div>
+    <div class="collapsible-header">消耗品</div>
     <div class="collapsible-body">  
       <ul>
-        <li>Details about the cost of any consumables</li>
+        <li>任何消耗品花費的詳細資料</li>
         <br>
       </ul>
     </div>
    </li>
    <li>
-    <div class="collapsible-header">Processing & Implementation Times</div>
+    <div class="collapsible-header">處理和實施時間</div>
     <div class="collapsible-body">
       <ul>
-        <li> Information about how long processes will take of someone’s hands-on time (some processes might take many hours of computer time to process but they only need to be monitored occasionally). These processes may include:</li>
+        <li> 有關人員將有多長動手時間的資訊（某些過程可能需要數小時的電腦運算時間來處理，但只需偶爾對其進行監測），這些過程可能包括：</li>
         <br>
 
-        <li>- Initial assessment of material</li>
-        <li>- Cataloguing and documentation</li>
-        <li>- Migration from analog to digital</li>
-        <li>- Preparing your files for ingest or transfer to storage</li>
-        <li>- Ingest or transfer to storage</li>
+        <li>- 材料的初步評估</li>
+        <li>- 編目和文件化</li>
+        <li>- 從類比轉置到數位</li>
+        <li>- 準備好提取資料或轉移到儲存空間</li>
+        <li>- 提取或轉移到儲存空間</li>
 <br>
-        <li>It is also important to estimate a timeframe for implementation. It can be helpful to determine how long it will take to complete the process from start to finish for a single item and extrapolate from there.</li>
+        <li>估算執行時間表也很重要，有助於判斷從頭到尾完成單一項目所需時間，再從那裡延伸推斷。</li>
 <br>
-        <li>If you want your budget to link to planning you might also want to know how long it will take to complete the process from start to finish for a single item.</li>
+        <li>如果你希望預算與計畫連動，那麼你可能還要知道一個項目從開始到完成所需的時間。</li>
         <br>
        </li>
       </ul>
@@ -304,10 +299,10 @@ In order to be able to establish a budget you will need to have gathered the fol
 
 <br>
 
-We created an excel sheet for you into which you can enter your costs and calculate total amounts, illustrated by graphs over time:
+我們建立了一個excel工作表單，讓你可以輸入開銷並計算總額，且以時間圖表的形式呈現：
 <div class="col s12">
 <a href="{{ site.url }}/downloads/MMA_budget_template.xlsx">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Budget calculator</div>
+  <div class="chip"><i class="large material-icons">play_for_work</i>預算計算器</div>
     </a>
     </div>
 
@@ -316,42 +311,40 @@ We created an excel sheet for you into which you can enter your costs and calcul
 
 <br>
 
-Below are three examples of different budgets and the necessary considerations to develop these budgets:
+以下有三個不同的預算範例，以及制訂這些預算的必要注意事項：
 
 <div id="budget-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"></h2>
->“We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.”
+「我們有專門的預算用於員工和數位藏品維護，還有預算用於建置和維護儲存設施，隨著藏品增長變化的可能性，每年都會重新審查預算。」
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
->“We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.”
+「我們確實有個預算主要用於儲存和適度保存維護的評估和開銷，該預算最初是為儲存實體物件而設計的，但從那時起我們將其擴充以涵括數位儲存的預算編列。我們有一個持續支出的雲端儲存費用[在此插入Amazon雲端成本]，並將其他所有內容備份到LTO磁帶。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
->“What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.”
+「什麼預算？我沒有預算，因此編目和儲存上的所有投資都讓我感到艱難。但我確實意識到我必須追蹤自己的作品和注重儲存，否則我可能會失去我的作品。當沒怎麼賺錢時，很難分配經費來保存我的作品備份，可是通過讓事情簡單化，我認為我已經能夠以合理的成本支付基本費用。」
 </div>
 </div>
 
 
-### Estimate your storage costs
+### 估算你的儲存成本
 
-For each storage option, and depending on the size of your collection, you may need to consider:
+對於每個儲存的可能選擇和取決於藏品的檔案大小，你可能需要考慮：
 
-* The __initial cost__ to set up your digital storage
+* 設置數位儲存的 __初始費用__
 
-* The __ongoing cost__ of sustaining your digital storage - depending on the option you choose this may include annual maintenance fees as well as incremental expansion costs
+* 永續維護數位儲存的 __持續成本__ 根據你的選擇，這可能包括每年的維護費和遞增擴展成本
 
-* The __staff and vendor time__ involved to establish and maintain the system
+* 建立和維護系統所需的 __員工和供應商時間__
 
 
-
-A budget can be set annually or in relation to specific projects. A budget needs to be monitored so that it can be adjusted if you find your assumptions are inaccurate; for example things may be taking longer than expected, or costs change.
-
+預算可以每年設定，也可以根據具體項目規劃。預算需要被監控，以便在發現你的假設不正確時，可以進行調整，例如，所需的時間可能比預期要長，或者改變成本。
 
 </section>
 
@@ -365,136 +358,139 @@ A budget can be set annually or in relation to specific projects. A budget needs
 
 <section id="Review-Collection-Management-Systems" class="section scrollspy" markdown="1">
 
-## Review Collection Management Systems
+## 檢閱藏品管理系統
 
-The collection management system is typically a database containing basic information about each artwork. It enables collection managers to perform the following essential functions:
+藏品管理系統通常是一個資料庫，其中包含各藝術品的基本資訊，它讓藏品管理者能執行以下基本功能：
 <br>
 
-* Maintain an inventory of all collection items
+* 維持一份所有藏品的清單
 
-* Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information
+* 記錄入藏細節，包括藝術家、捐贈或購買以及任何關鍵出處的資料
 
-* Keep a history of exhibitions or displays, including loans
+* 保留展覽、展示或借展的歷史紀錄
 
-* Track the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
+* 追蹤藏品之實體與數位部分的位置，包括追蹤數位檔案轉碼和轉置的版本的能力。
 
-* Record condition information  and technical information about an artwork to inform its ongoing management
+* 記錄藝術作品的狀況和技術資料，以便告知正在進行的管理
 
 <div id="CMS-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"></h2>
->“I used to use a spreadsheet, but it got unwieldy with too many objects. It’s also designed for calculations and data manipulation, not keeping discrete object records. I now have a database that can accommodate much more information, and is much easier to navigate and search.”
+「我曾經使用過電子表單，但因為物件太多，變得很難使用，而且那是為了計算和數據資料處理而設計的，而非保存分散的物件紀錄。我現在有一個資料庫，可以容納更多資料，並且更易於瀏覽和搜尋。」
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
->“We use a free, web-based open source database that’s designed for museums. It allows us to assign everything a unique identifier which is connected to the main artwork. We can add acquisition, loan, and location information to the main record, and even use barcodes to track movement of physical collection objects.”
+「我們使用專為博物館設計的免費網路架構的開源資料庫，它使我們能夠為所有內容分配一個連結到核心藝術作品的獨立識別碼。我們可以在主要紀錄中添加入藏、借展和位置資訊，甚至可以使用條碼來追蹤實體藏品的動態。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
->“We are a museum using TMS. We create an object record for the work and then create separate components for each physical or digital object that is part of that work. It enables us to record attributes, relationships, and contextual information, effectively centralizing the essential information about complex works with many elements.”
+「我們是一個使用TMS藏品管理系統的博物館。我們為作品建立一個物件紀錄，然後為該作品的實體或數位物件建立各自的資料組成，這讓我們能夠記錄屬性、關係和內容資訊，從而有效地集中由許多要素組成的複雜作品的根本資訊。」
 </div>
 </div>
 
 
-Depending on your context and the size of your collection, a collection management system will look very differently. For a small institution or individual collector, collection management functionality could be carried out using a database or spreadsheets, templates and standardized metadata. For a larger institution, a managed database will be necessary in order to:
+根據你的脈絡和藏品規模，藏品管理系統將會大不相同。對於小型機構或個人收藏家，可使用資料庫、電子表單、範本和標準化的詮釋資料來執行藏品管理；對於較大的機構，將需要一個妥善管理的資訊庫用以：
 
-* provide a central information point with a consistent level of information about an entire collection regardless of medium or type
+* 提供一個關於不論媒材與形式的整體收藏之連續性資訊給中心資訊點
 
-* facilitate certain core workflows (for example an acquisition process or loans process)
+* 改善某些核心工作流程（例如入藏或借展流程）
 
-* provide auditing and reporting functions
+* 提供稽核和回報功能
 
-* allow for access to information and the ability to edit information to be defined at a user level  
+* 允許存取資料和確定使用者編輯資料的權限
 
-* allow for multiple users to update information and keep it current
+* 允許多個使用者更新資訊，並維持為最新版本
 
-The larger the number of users and objects and the more complex the workflows the more necessary a specialized database, ie. a collection management system, will become. Software to maintain an inventory could range from an Excel spreadsheet, a database like Filemaker, an open source collection management software such as <a href="http://www.collectiveaccess.org/about">CollectiveAccess</a> or <a href="http://omeka.org/about/">Omeka</a> to the type of collection management system employed by museums, for example <a href="www.gallerysystems.com/products-and-services/tms/">The Museum System (TMS)</a>, Mimsy or a bespoke system developed by your institution.
+使用者和物件的數量越多，工作流程越複雜，則專用資料庫（即藏品管理系統）就越必要。維護藏品清單的軟體類型從Excel電子表單、Filemaker之類的資料庫、開源藏品管理軟體像是 <a href="http://www.collectiveaccess.org/about">CollectiveAccess</a> 或 <a href="http://omeka.org/about/">Omeka</a> 到博物館採用的藏品管理系統，例如： <a href="www.gallerysystems.com/products-and-services/tms/">TMS藏品管理系統</a> Mimsy或機構自行開發的訂製系統。
 
-It is uncommon to find one system that will facilitate both the collections management activities outlined above, and also digital preservation. Therefore it is often the case that different systems and tools are used for serving these two different core needs – for instance the use of a digital asset management system or a digital repository in addition to a collection management system. Before building or implementing any specialized systems beyond a collection management system, however, it is important to consider how this specialized system will integrate and communicate with your existing collection management system.
+要找到一個同時涵括上述藏品管理作業和數位保存的系統並不常見。因此，通常情況下會使用不同的系統和工具來滿足這兩項不同的核心需求，例如，除了使用藏品管理系統，也使用數位資產管理系統或數位檔案資料庫。但是在建構或使用藏品管理系統以外的任何專用系統之前，重要的是思考該專用系統如何與現有的藏品管理系統整合。
 
-In a completely manual environment, you would be able to incorporate any additional information needed for the digital repository functions (for example checksum monitoring, format registry etc) and your core collection management information (for example location tracking) into one database. For larger digital collections there are significant gains to be made in terms of time and accuracy in taking advantage of tools that automate certain functions within the workflow. This often creates information about your digital artworks which you will wish to record and maintain. Where specialist (often proprietary) databases exist, integration with any repository software or digital asset management systems can be a challenging, expensive and skilled operation.
+在一個全手動的環境中，你將可以為數位檔案資料庫的功能整合任何所需資訊（例如校驗和檢視與檔案格式登錄表等），以及將核心藏品管理資料（例如位置追蹤）放到一個資料庫中。對於較大的數位藏品，就時間和準確度而言，利用工具自動化工作流程中的某些功能，會有顯著的好處。通常這會產生你希望記錄和維護的數位藝術作品的資訊。一旦使用專業的（通常具有專利版權）資料庫，與其他資料庫軟體或數位資產管理系統整合就可能是一項具有挑戰性、昂貴的、技術性的作業。
 
 
+### 組織你的藏品資訊
 
-### Organizing your collection's information
+在多數情況下，一件藝術藏品的資訊將由大量的且經過多次編譯和編輯之紀錄所構成，通常只有一小部分的資訊會被保存在中央資料庫中，許多機構還會為這些相關的檔案設立記錄管理系統。
 
-In most cases the information about an art collection will be formed of a rich cluster of records that have been compiled and edited over time. Often only a fraction of this information is held within a central database. Many institutions will also have records management systems for this associated documentation.
+這裡的困難是要確保在多年之後，當你從儲存處中取出一個數位物件時，你會有足夠的資訊來了解其材料，它們如何被正確地觀看，它們與所屬藝術作品之間的作用，以及最後具有驗證與證明其真實性的能力。
 
-The challenge here is to ensure that when you pull a digital object from storage after many years, you will have the information you need to understand what the materials are, how they can be viewed properly, their purpose in relation to the artwork to which they belong, and finally the ability to validate and prove their authenticity.
-
-There is a certain amount of information you should make sure is held with the files, so that even if other information is lost, you still know what artwork it is and that the file itself has not changed.
+有些特定的資訊是你需要確定保存在檔案中，因此即使丟失了其他資訊，你仍然可以辨認是哪一件藝術作品，且知道檔案本身並沒有被改變。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header">Core descriptive information</div>
+  <div class="collapsible-header">核心描述資訊</div>
   <div class="collapsible-body">
     <ul>
-      <li>Artwork title and artist's name. If you have a collection management system the descriptive information should also include an identifier to that artwork’s record. These identifiers must be persistent, meaning they are permanent and will never change.</li>
+      <li>
+        作品名稱和藝術家姓名。如果你有一個藏品管理系統，描述性資訊應包括識別碼，做為該作品紀錄的一部分。這些識別碼必須是持久的，這意味著它們是永久性的，並且永遠不會改變。
+      </li>
     </ul>
   </div>
 </li>
 <li>
-  <div class="collapsible-header">Fixity</div>
+  <div class="collapsible-header">校驗機制</div>
   <div class="collapsible-body">
     <ul>
       <li>
-       Creating checksums allows you to ensure that a file has remained unchanged. For more information, please refer to the <a href="http://mattersinmediaart.org/sustaining-your-collection.html#Implement-Fixity">Fixity</a> section</li>
+       建立校驗和讓你得以確認檔案維持不變。更多資訊請參閱「校驗機制」章節
+      </li>
     </ul>  
   </div>
 </li>
 <li>
-  <div class="collapsible-header">Technical Information</div>
+  <div class="collapsible-header">技術性資訊</div>
   <div class="collapsible-body">
     <ul>
-      <li>Each digital file has technical information embedded in its header or wrapper. If you have a large collection, consider extracting this information and storing it within your collections management system, so that you can search across your collection.</li>
+      <li>
+        每個數位檔案在標頭(header)和檔案封包(wrapper)都崁入了技術性資訊。如果你有大量的收藏，需將此資訊在藏品管理系統中的提取與儲存列入考慮，以便能在典藏資料中進行搜尋。      </li>
     </ul>
   </div>
 </li>
 </ul>
 
-There is further information that will need to be kept in order to ensure an artwork can be preserved and displayed in the future. This can be either kept with the file or in other systems, like a database or collection management system.
+為了確保藝術作品可以在未來被保存維護和展示，還需要留存更多資訊。這既可與文件檔案放在一起，也可存在其他系統中，例如資料庫或藏品管理系統。
 
 <div id="CMS2-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"></h2>
->“We prefer to have all the information about an artwork together, so we keep any files, display specifications, certificates and promotional documents within a folder structure in storage.”
+「我們偏好將藝術作品的所有相關資料放在一起，因此我們將所有檔案、展示規格、證書和宣傳文件都放在一個資料夾中。」
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
->“We need to keep track of individual files, in our storage but also in our collection management system (TMS) and see specific information for each individual file. The most flexible and easiest way to do this within our systems is to give each component a unique identifier that connects directly to the artwork record in TMS, as well as conservation documentation.”
+「我們需要在儲存空間和TMS藏品管理系統中持續追蹤個別檔案，並且查看其特定資訊。在我們系統中，最靈活且簡易的方法是給每個組件一個獨立的識別碼，該識別碼可直接連接到藏品管理系統中的藝術作品紀錄和保存維護文件。」
 </div>
 </div>
 
-### Digital Repositories
+### 數位檔案資料庫
 
-Collections management systems however are just a part of the picture of digital stewardship, as they do not generally facilitate core digital preservation actvities. To meet these needs, organizations typically employ a system, or suite of systems referred to as a digital repository. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for collection management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
+然而藏品管理系統僅是數位事務管理的一部分，因為其通常不會讓核心數位保存工作變得容易。為了滿足這些需求，機構組織通常會使用一個系統或一套系統，稱作數位檔案資料庫。數位檔案資料庫可以有許多功能，用以監控和確保藏品物件能持續被保存維護，就像藏品管理系統一樣，功能的執行方式將取決於實際情況。對於數量少的同質性藏品，可以手動執行許多功能。對於較大量且多樣的藏品，擁有自動化工作流程和系統則具有明顯效益。
 
-This is an area which has developed very rapidly in recent years and even large organizations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice.
+此領域近年來發展非常迅速，甚至大型組織也努力開發基礎架構，為配合不斷增長的數位藏品。因此，理解檔案資料庫是重要的，它指的是需被執行的許多功能，且是由一些與數位保存實踐相關的關鍵概念所支持的。
 
-These functions can include:
+這些功能可能包括：
 
-* Automated workflows for the ingest of digital objects, including the extraction of metadata and packaging of the object and metadata for storage
+* 汲取數位物件的自動化工作流程，包含詮釋資料的提出、物件的打包和詮釋資料的儲存
 
-* Generation of a persistent identifier for each digital object and a permanent relationship to associated metadata
+* 為每個數位物件產生一個永久的識別碼，並與相關詮釋資料建立永久關係
 
-* Generation of normalized masters where necessary. A normalized master is a preservation copy of a file in a standardized format. There is some debate regarding when the creation of normalized copies is advisable. In general, video file formats are less vulnerable to obsolescence than tape formats. This is partly because it is easier to support software playback over time, especially given open source tools such as ffmpeg.
+* 依需求產生規範化的母檔案。規範化的母檔案是標準化格式的檔案之保存副本。關於何時適合建立規範化的副本存在些爭論。一般來說，影片檔案格式比磁帶格式更不易過時，部分原因是隨著時間的推移，用軟體重放影片要容易些，尤其在使用ffmpeg等開源工具的情況下。
 
-* Generation of access derivatives and an interface for user access to these derivatives, alongside associated metadata
+* 產生能存取的衍生性檔案，以及使用者介面用來存取這些衍生性檔案和相關詮釋資料
 
-* Auditing of system and user activities
+* 稽核系統和使用者的活動
 
-* Active monitoring of file integrity
+* 主動監控檔案的完整性
 
-* Recording and reporting on collection characteristics, such as file formats
+* 藏品特徵的記錄和報告，例如：檔案格式
 
-* Monitoring of preservation risks, e.g. file obsolescence and software dependencies
+* 監控保存與維護風險，例如：檔案格式過時和軟體依賴性
 
 </section>
 
@@ -507,26 +503,26 @@ These functions can include:
 
 
 <section id="Design-Your-Storage" class="section scrollspy" markdown="1">
-## Design your Storage
+## 設計你的儲存環境
 
 <span markdown="0">
 <iframe src="https://player.vimeo.com/video/185972687" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organization. No matter the size of your collection the following core principles need to be considered when designing your storage:
+本節概述為長期數位保存而設計和建立的可靠儲存空間有關的關鍵要素。內容涉及多種情況，不論你正設計低風險的個人儲存方案，還是大型機構。不管你的藏品規模如何，在設計儲存環境時都需要考慮以下核心原則：
 
 <div class="row">
 <div class="col s12 m12">
   <div class="card grey lighten-3">
     <div class="card-content grey lighten-3 text">
-      <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
+      <span class="card-title"> <font color="#00e676"> 核心原則</font></span>
        <br>
        <p>
        <ul>
-        <li> Geographic Redundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
-        <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
-        <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li>
-        <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
+        <li> 地域性冗餘 - 多個資料副本應異地保存，並且應制訂災害復原計畫。 </li>
+        <li> 校驗機制檢查 - 定期察看數位檔案，以防數據資料的損壞或意外更改。 </li>
+        <li> 存取和安全性 - 存取數據資料的速度和限制需依用途適當調整，並設置保護級別。 </li>
+        <li> 關注技術 - 應密切關注儲存技術的趨勢，以便在需要時轉置到新的儲存媒體。</li>  
       </ul>
        </p>
     </div>
@@ -535,29 +531,31 @@ This section outlines the key elements associated with the design and build of r
 </div>
 
 
-When scoping your current storage infrastructure for the purposes of digital preservation, it is helpful to understand the difference between standard storage setups and those suitable for digital preservation. Standard storage systems are designed for digital objects that are in active use and while backup procedures are usually included, they generally do not meet the more stringent requirements to ensure long term preservation of data. For example, within a normal institutional information technology set up, it is standard practice for backup tapes to be wiped and re-used after a few months. Active use storage is also unlikely to have a system in place to identify that information has changed or been lost. When data is changing all the time, it is not possible to easily detect the difference between intended and accidental changes. In contrast, preservation storage systems require the active monitoring of data in order to detect unwanted changes, such as corruption or damage. Their high level of redundancy with copies in several locations enables the data to be restored should a problem arise. Ideally, they will also have a disaster recovery plan.
+以數位保存為目的，對你現有收藏基礎架構界定範圍時，了解標準規格的儲存設置和適用於數位保存的設置之間的區別將很有幫助。標準規格儲存系統是為經常使用的數位內容而設計，一般還包括備份過程，但它們通常無法達到以長期保存數據資料為目的的嚴格要求。例如，在普通的機構資訊系統設置中，備份磁帶在幾個月後會被清除和重新使用是標準做法。經常使用的儲存空間也不大可能有一套系統來識別資訊是否被更改或丟失，當數據資料一直在變化時，無法輕易地分辨有意的更改和意外的更改之間的差異。相對的，保存維護藏品系統需要主動監視數據資料，以便檢測到不必要的更改，比如破壞或損壞。高度的冗餘指在多地點保存備份，使能在出現問題時恢復數據資料，理想情況下，還會有一個災害復原計畫。
 
 ![](img/Server_Image.jpg)
 
-### Redundancy
-The lifetime of a hard-drive varies from three months to five years. If you only have one hard drive and it breaks down, data recovery is very costly, and can be catastrophic. As a rule of thumb: **One copy is no copy. Save three copies of your data on at least two mediums (e.g. hard drive, server, LTO tape, flash drive, cloud) and in at least two geographic locations.**
+### 冗餘
 
-There are several reasons for maintaining duplicate copies of files, such as ensuring high availability and the ability to recover from a disaster situation or accidental modification or deletion. The type of storage you choose for copies of your data will depend on how quickly you will need to access the data should you lose the primary copy. If speed is important, this will normally require an exact duplicate of the primary infrastructure at an off site location, with an equivalent connection to the outside world or access points. This infrastructure would contain a complete and up to date copy of your entire collection.
+硬碟的壽命從三個月到五年不等。如果你只擁有一個硬碟，然後發生故障，那麼恢復數據資料將非常昂貴，而且可能是場災難。根據經驗： **一份副本等於沒有副本。將三份數據資料副本保存在至少兩種媒材（例如硬碟、伺服器、LTO磁帶、隨身碟、雲端）和至少兩個地點。**
 
-When maintaining a copy of data for disaster recovery purposes (for instance, in the event of fire, flood, or earthquake), the goal is simply to be able to retrieve, rebuild, and access your data. Within reason, ease of access is not a priority. An LTO tape stored off-site is one example of a suitable medium for a disaster recovery backup.
-There are many storage options that will support geographic redundancy. The right option for you will depend on your budget and the size of your collection.
+維持檔案備份有多種原因，例如：確保高度可用性以及從糟糕情況、意外修改或刪除中復原的能力。為數據資料備份選擇儲存類型是取決於丟失主要檔案時需要多迅速的存取數據資料。如果速度很重要，這通常將需要在異地有個與主體一模一樣的基礎結構，並具有與外界或存取點的等效連接。該基礎結構會有完整且最新的整體藏品資料副本。
 
-Hardware: potential options (2016)
+為災難性情況（例如：發生火災、淹水或地震）維護數據資料備份時，其目的僅僅是能夠檢索、重建和存取數據資料。按此說法，便利的存取就不是優先事項。異地儲放LTO磁帶是用於災難性情形復原備份的合適媒材例子之一。
 
-* 0 to 5TB in the next 5 years and small budget -RAID 1
-* 5TB to 25TB - RAID-5 or 6 or 7
-* 25TB and higher - some kind of enterprise storage - OR - multiple RAID 5 or 6 or 7 that support daisy chaining
+還有許多支援地域性冗餘的選擇，正確的選擇取決於你的預算和收藏量。
 
-Keeping multiple copies in sync: potential options
+硬體：潛在的選擇 (2016)
 
-* Manual 
-* Peer-to-peer file sharing (P2P)
-* Cloud service (i.e. dropbox, crashplan, http://www.cloudwards.net...)
+* 未來5年內0到5TB和小預算的磁碟陣列RAID 1等級
+* 5TB至25TB - 磁碟陣列RAID-5或6或7等級
+* 25TB或更多 - 某種企業儲存空間或多個支持菊鏈(daisy chaining)的磁碟陣列RAID 5或6或7等級
+
+保持同步多個副本：潛在的選擇
+
+* 手動操作
+* 點對點文件共享（P2P）
+* 雲端服務（例如：dropbox, crashplan, http://www.cloudwards.net等）
 
 
 <div id="storage-slider" class="liquid-slider quote-slider">
@@ -565,29 +563,29 @@ Keeping multiple copies in sync: potential options
 <div markdown="1">
 <h2 class="title"></h2>
 
-“I want to keep this as simple as possible so to achieve my 3 copies and multiple geographical locations, I purchased three RAID 1 drives. One for my studio, one for my home, and one for my friend’s home. To keep my three RAID 1 drives in synchronization I manually sync my studio drive with my home drive on a weekly basis, and then manually sync with my friend’s drive twice a year.”
+「我想盡可能以簡單的方式異地儲存3個副本，我買了3個磁碟陣列RAID 1，一個放我的工作室、一個放我家裡、一個放朋友家。為了使3個磁碟陣列RAID 1保持同步，我固定每週手動同步工作室和家裡的磁碟陣列，然後每年兩次與朋友家的磁碟陣列進行同步。」
 </div>
 
 
 
 <div markdown="1">
 <h2 class="title"></h2>
-“I have about 10TB of data, which I do not access that frequently and have the funds to pay an annual fee to storage my data in the cloud.”
-“We have about 10TB of data, and expect to only have 15TB in five years, so we have two 18TB RAID devices that plug right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well as having the benefit of the third copy in the cloud.”
+「我有大約10 TB不常存取的數據資料，且我有足夠的資金支付雲端儲存的年費。」
+「我們有大約10TB的數據資料，並預計在五年之內只會有15TB的數據資料，所以我們有兩個18TB磁碟陣列RAID設備直接連到我住家和辦公室的Mac電腦。我會支付雲端備份服務的年費，讓兩地保持同步，並受益於在雲端中擁有第三份副本。」
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
- “I manage a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.”
+ 「我目前管理的藏品有35TB。根據入藏分析，我估計在未來五年內，我們將增長到約50TB。在和資訊部門諮詢後，我發現他們實際早已在兩個地方有一些儲存基礎架構，並且都可以擴展到這種規模。他們增添了我們今年增長所需的儲存量，也擁有未來五年預期增長的預算。我告訴資訊部門這些數位作品非常值錢，因此他們有仔細考慮讀取/寫入的存取權限，相較這個系統上其他類型的數據資料管理更為嚴格。理想情況下，我們應該在三處地點有三份副本，但是不幸的是，預算無法給付雲端儲存的費用，或設立第三個數據資料中心，所以作為替代方案，目前我將數據資料手動備份到LTO磁帶中，且把LTO磁帶放在第三處地點，以防需要從災難情況下復原。
 </div>
 </div>
 
-A duplicate copy of your data may be maintained for high availability, disaster recovery, or recovery from accidental modification or deletion (or a combination of these purposes).
+維護你的備份數據資料是為了高度可用性或從災難、意外修改或刪除中復原（或綜合這些原因）。
 
-High-availability: This is a redundant copy of your data maintained for the ability to provide easy access to the data with no downtime in the event of loss of the primary copy. Typically this means an exact duplicate of the primary infrastructure at an off site location, with an equivalent connection to the outside world or access points. This infrastructure would contain a complete and up to date copy of your entire collection. With high-availability copies of data, ease of access is paramount.
+高度可用性：這是一份你的數據資料的冗餘備份，維護是為了在丟失原始檔案時，仍能在不停工的情況之下提供數據資料的便利存取。通常這意味著在異地有主要基礎架構的備份，並具有與外界或存取點的等效連接，該基礎結構將包含完整且最新的藏品備份。對於容易取得的數據資料備份來說，存取的便捷性至關重要。
 
-Disaster recovery: When maintaining a copy of data for disaster (for instance, in the event of fire, flood, or earthquake) recovery purposes, the goal is simply to be able to retrieve, rebuild, and access your data. Within reason, ease of access is not a priority. An LTO tape stored off-site is one example of a suitable medium for a disaster recovery backup.
+災難復原：為災難性情況（例如：發生火災、淹水或地震）維護數據資料備份時，其目的僅僅是能夠檢索、重建和存取數據，按此說法，便利存取就不是優先事項。異地儲放LTO磁帶是用於災難性情形復原備份的合適媒材例子之一。
 </section>
 
 
@@ -602,69 +600,69 @@ Disaster recovery: When maintaining a copy of data for disaster (for instance, i
 
 <section id="Implement-Fixity" class="section scrollspy" markdown="1">
 
-## Implement Fixity
+## 施行校驗機制
 
-When creating a secure storage environment for your data, you will want to make sure the data itself stays safe and does not change without your knowledge. This process is known as fixity. In digital preservation, this is achieved by generating checksums for your files which are monitored by re-checking, on a regular basis.
+當為數據資料建立安全的儲存環境時，你將需要確保數據資料自身的安全，且不會在不知情的情況下變動。此過程稱為校驗機制。在數位保存領域中，這是透過為檔案之定期重新檢查所產出的校驗和來實現。
 
-Simply put, your file is run through a certain algorithm (the most commonly used algorithms are MD5 and SHA) that produces a unique alphanumeric sequence. The slightest change to your file will produce a completely different checksum. With this simple process, it is possible to identify any changes to your files. The types of changes which can be identified with this method are those which indicate corruption, loss of data, or unintended manipulation. If you have an automatic monitoring system in place, it would alert you if such a change occurs.
+簡而言之，你的檔案會通過一種演算法（最常用的演算法是MD5和SHA），該演算法會產生特殊的字母數字序列，細微的更改檔案將產出完全不同的校驗和。通過此簡單方法，可以識別任何檔案的更動。有幾種更動可以被此方法識別：損壞提示、資料數據丟失或意外操作。如果你有一個自動監控系統，將會在發生此類變更時發出警示。
 
-Calculate checksums as soon as you’ve received or created a file. This could mean creating checksums as you export a file from the hard drive on which an artwork was received, or as soon as you have exported a file from an editing program or after digitizing a tape.
+一旦你收到或建立檔案後，盡快計算校驗和。這可以指你在接到一件作品後輸出檔案時，或當你從編輯專案或數位化磁帶後輸出檔案時建立校驗和。
 
-RAID and enterprise storage systems provide what could be considered a basic form of fixity. Data in these systems are monitored for integrity at the block-level – meaning the smaller blocks of data that a file is composed of. If one hard drive fails, the system can restore the lost data by using the redundant data block and the checksum. This, however, only detects data corruption that occurs as the fault of the storage device itself – it would not be aware of the accidental corruption, modification, or deletion of a file as enacted by a user or piece of software. In digital preservation we use checksums at the file-level in addition to block-level checks.
+磁碟陣列RAID和企業儲存系統提供了一種基本形式的校驗機制。在區塊級監控這些系統中的數據的完整性，區塊級指組成檔案的較小區塊數據。如果一個硬碟故障，系統可以使用冗餘數據區塊及校驗和來恢復丟失的數據資料。但是，這僅能檢測到儲存設備本身發生故障而發生的數據資料損壞，它不會發現使用者或軟體造成檔案的意外損壞、修改或刪除。在數位保存領域中，我們使用文件級還有區塊級檢查的校驗和。
 
-A checksum enhances these block-level checks insofar as it is a portable piece of evidence that can travel with a file, and be checked, regardless of storage the type of storage system it resides on –  it can prove that a file has not been modified since chain of custody was established.
+校驗和可以提升區塊級的檢查，因為它是可以隨著檔案被夾帶的證據，並且可以被檢視，而不論其所在的儲存系統種類，它都可以證明自建立以來檔案從未被修改。
 
-### Checksum Tools
+### 校驗和工具
 
-These tools can simply generate checksums – out of the box, they will not necessarily store the checksum value, or facilitate the verification of a checksum.
+這些工具可以簡單地產生校驗和，在離開環境後，不一定需要儲存校驗和值或促使校驗和驗證。
 
-* <a href="https://en.wikipedia.org/wiki/Md5sum">md5</a> - This can be run via Terminal on Mac or Linux.
+* <a href="https://en.wikipedia.org/wiki/Md5sum">md5</a> - 可藉由Mac或Linux上的終端機運行。
 
-* <a href="https://en.wikipedia.org/wiki/Sha1sum">shasum</a> - This can be run on Mac, Linux and Windows.
+* <a href="https://en.wikipedia.org/wiki/Sha1sum">shasum</a> - 可在Mac、Linux和Windows上運行。
 
-* FCIV (File Checksum Integrity Verifier) – windows command line tool for generating MD5 or SHA1 checksums.
+* FCIV（File Checksum Integrity Verifier 檔案校驗和完整性驗證程序）– Windows 命令行工具（command line tool）用於產生MD5或SHA1校驗和。
 
-These tools create checksums, store the values, and facilitate the verification of checksums after the fact.
+這些工具建立校驗和及儲存數值，便於事後校驗和的驗證。
 
-* <a href="https://support.apple.com/en-us/HT201259">Checksum+ (OS X)</a> -  With this tool you can just select a file and it will create a checksum for you, stored within an .md5 file, in the same location, with the same name as your file. Double-clicking this .md5 file will run a fixity check and tell you, if everything’s ok. If you open it with a text editor, it will show you the MD5 checksum as well as the file it is pointing to. It is important that both the .md5 and the original file are stored in the same folder.
+* <a href="https://support.apple.com/en-us/HT201259">Checksum+ (OS X)</a> -  使用此工具時，你只需要選擇一個檔案，它就會幫你建立一個校驗和，存在.md5文件中，與檔案相同命名並且放在一起。重複點擊這個.md5文件，它將執行校驗機制的檢查，然後告訴你是否一切正常。如果你使用文字編輯器開啟，將顯示MD5校驗和以及其所屬檔案。將.md5和原始檔案存在同一文件夾中很重要。
 
-* <a href="http://www.fastsum.com/">Fastsum</a> - for windows.
+* <a href="http://www.fastsum.com/">Fastsum</a> - 適用於Windows。
 
-* <a href="https://en.wikipedia.org/wiki/BagIt">BagIt</a> - Developed by the Library of Congress, this tool is used in a command line interface. BagIt was originally created to safely transfer files from one place to another, by packaging the original data in a 'bag' (folder) and creating checksums for each file within that bag. It also stores information about the date and software version as text files within the bag and creates checksums of all these text files, including the checksum files themselves. Find a series of tutorial videos <a href="https://www.youtube.com/playlist?list=PL1763D432BE25663D">here</a>.
+* <a href="https://en.wikipedia.org/wiki/BagIt">BagIt</a> - 由美國國會圖書館開發，此工具用於命令行（command line）介面。 BagIt最初是為了將檔案從一個地方安全地傳輸到另一個地方而創建的，通過將原始數據資料打包到一個「袋子」（文件夾）中，並為其中的每個檔案建立校驗和。它也以文字的方式在文件夾中存了有關日期和軟體版本的資訊，並建立所有文字的校驗和，也包含校驗和本身。 <a href="https://www.youtube.com/playlist?list=PL1763D432BE25663D">在此有一系列教學影片</a>。
 
-* <a href="https://www.avpreserve.com/tools/fixity/">Fixity</a> - AVPreserve has created a tool hat enables the user to identify seven directories that the program can check automatically on a monthly, weekly or daily basis.
+* <a href="https://www.avpreserve.com/tools/fixity/">Fixity</a> - AVPreserve 建立了一個工具，讓使用者能識別該程序以每月、每週或每天自動檢查的七種功能。
 
-* <a href="https://www.archivematica.org/">Archivematica</a> - comes with a command-line based tool for running fixity checks.
+* <a href="https://www.archivematica.org/">Archivematica</a> - 附帶於命令行基礎工具用於運行校驗機制查驗。
 
-* <a href="https://www.nagios.com/products/nagios-core/ ">Nagios</a> - The open source industry standard in IT infrastructure monitoring and alerting. <a href="http://bit.ly/1p5KDGO">Various checksum plugins<a/> are available.
+* <a href="https://www.nagios.com/products/nagios-core/ ">Nagios</a> - 資訊基礎結構監控和警示的開源工業標準。提供<a href="http://bit.ly/1p5KDGO">各種校驗和外掛<a/>
 
-* For more possible checksum tools <a href="http://coptr.digipres.org/Category:Fixity">click here</a>
+* ●	有關更多可能的校驗和工具， <a href="http://coptr.digipres.org/Category:Fixity">請點擊此處</a>
 
 <div id="fixity-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"></h2>
-“I generate checksums using BagIt at the point of acquisition to ensure safe transport to my centralized storage device. Once the materials enter our repository, AVPreserve’s “Fixity” tool is implemented. It’s incredibly useful because it runs in the background, and not only alerts us to modified files, but also deleted, moved, renamed and new files since the previous check.”
+「我在購入作品時使用BagIt來產生校驗和，以確保安全傳輸到我的中央儲存設備。資料進入我們的檔案資料庫後，便會使用AVPreserve的「Fixity」工具。它非常有用，因為它在後台運行，不僅可以提醒我們修改檔案，而且還可以自上次檢查後執行刪除、移動、重新命名和新增。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-“I immediately use BagIt to transfer my files onto the server from the acquired hard drive into a bag and put a schedule in place where I verify the checksums monthly. Since I have my files in 3 locations, I run the ‘bag verifyvalid’ command on all of the bags in all three locations. I used to do this manually, but my IT department wrote a very simple bash script that runs the ‘bag verifyvalid’ command against any and all bags in the location supplied to the bash script.”
+「我立即使用BagIt將檔案從購得硬碟傳輸到伺服器中，放在一個文件夾中，並制訂每個月驗證一次校驗和。由於我的檔案放置在三個地點，我會對所有文件夾執行『bag verifyvalid』命令。我以前是手動操作，但是我的資訊部門編寫了一個非常簡單的bash腳本，針對提供bash腳本的所有文件夾執行『bag verifyvalid』命令。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-“I don’t manually create or check any checksums, but I researched it thoroughly and found that the cloud service that I use for syncing between my three locations does in fact checksum files, and retain infinite version history. So if I ever found that I couldn’t open a file because it became corrupt, or was accidentally deleted, in theory, I could revert back to the last known good state. The only downside to this is that it doesn’t automatically notify me if something is deleted, modified, or corrupted, because it doesn’t know the difference between accidental and intentional modification.”
+「我不會手動建立或檢查任何校驗和，但是我深入研究它且我發現用於三地同步的雲端服務實際上具有校驗和檔案，而且保留了無限版本的歷史紀錄。所以如果我發現無法打開檔案是因為檔案已經損壞或意外刪除，理論上是可以恢復到最後的已知正常狀態。唯一的缺點是不會自動通知我是否有東西被刪除、修改或損壞，因為它不知道意外和故意修改之間的區別。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-“We use an on-premises but remotely managed digital preservation software as service (SaaS) solution. We generate checksums using BagIt at the point of acquisition, but once materials enter our repository, fixity is monitored and managed by our service provider.”
+「我們使用本地端但可遠端管理的數位保存軟體（SaaS按需即用軟體）作為解決方案。我們在購入作品時使用BagIt來產生校驗和，但在資料進入我們的檔案資料庫後，將由我們的服務提供商監控和管理校驗機制。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-“I partner with my IT department as they have to meet standards of something called PCI compliance which requires them to have software for monitoring file integrity for security purposes. They have software such as Nagios or Tripwire, which can be configured to schedule the monitoring of checksums and they handle the enterprise reliability of these systems in addition to sending me email alerts if anything has changed.”
+「我與我的資訊工程部門合作，因為他們必須滿足支付卡規格（PCI compliance）的標準，這需要他們有基於安全目的監控檔案完整性的軟體。他們擁有像是Nagios或Tripwire之類的軟體，可以設定定期監控校驗和，還可以應對系統的企業信用度，並且在發生任何更改時向我發送電子郵件警示。」
 </div>
 </div>
 
@@ -684,25 +682,27 @@ These tools create checksums, store the values, and facilitate the verification 
 
 
 <section id="Provide-Access" class="section scrollspy" markdown="1">
-## Provide & Limit Access
-When designing your storage, you will need to consider who should be able to access it and how. It is best practice to limit access to your master material, both to prevent unwanted changes being introduced and for legal and copyright reasons.  It may also be necessary to record each time the system is accessed and by whom - this will be particularly relevant to collecting institutions with audit requirements.
 
-Depending on who needs to access your collection, you may also wish to consider storing compressed derivatives of your master files in a more accessible location. This will not only be more practical than accessing large uncompressed masters, it will also reduce the risks involved with allowing access to your masters.
+## 提供和限制存取
+
+在設計儲存環境時，你需要考慮誰可以存取和以及如何存取。最佳做法是限制對母檔案的存取，既可以防止不必要的更改，也基於法律和著作權方面的因素。記錄每次系統資料是被誰存取的非常重要，這與具有稽核要求的收藏機構尤其相關。
+
+根據是誰存取你的藏品，你可能得考慮將母檔案的壓縮衍生檔儲存在一個更易於存取的位置。這不僅比存取大型的未壓縮母檔案更加實際，而且還可以減少存取母檔案所造成的風險。
 
 <div id="budg-slider-2" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"></h2>
-“Different levels of permissions are set and maintained by our Digital Repository Manager and every time a digital collection object is downloaded, there is a record of who did so and why.”
+「不同級別權限是由我們的數位檔案資料庫管理員去設定與維護的，每次下載數位藏品物件時，皆留有紀錄是誰做的和為什麼這樣做。」
 </div>
 <div markdown="1">
 <h2 class="title"></h2>
-“Access is only open to the small staff of the collection. The RAID is internally networked and does not point “out”. There is some concern about the cloud storage system, but we’ve been told it’s fairly secure. The LTO tapes are stored within our general art storage facility, which maintains a fob and key system.”
+「存取權限僅對少部分的藏品相關工作人員開放。磁碟陣列RAID連結內部網路，並不對外。人們對於雲端儲存系統有些顧慮，但我們被告知它相當安全。LTO磁帶被存放在我們的一般藝術儲存設施中，該設施有門禁卡和門禁系統。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-“My biggest concern is people using master material without permission. Once I provide high-quality materials for one purpose, they sometimes travel and reappear elsewhere without permission. In my studio it’s not an issue; access is pretty open.”
+「我最擔心的是人們未經許可使用母檔案。一旦我為某一目的提供了高畫質檔案，它們有時會在未經允許的情況下傳輸並重新出現在其他地方。在我的工作室裡，這不是問題，存取是相當開放的。」
 </div>
 </div>
 
@@ -718,25 +718,27 @@ Depending on who needs to access your collection, you may also wish to consider 
 
 
 <section id="Keep-up-with-Technology" class="section scrollspy" markdown="1">
-## Keep up with Technology
-Storage technology changes rapidly, so it is important to keep up to date and informed. You should keep an eye on the long-term viability of your chosen storage system and be proactive in migrating to more sustainable storage media or services. You will need to consider the reliability and availability of the storage media itself as well as the equipment needed to access it.  
 
-For example, if your storage system incorporates LTO tapes you will need to monitor any manufacturing issues for your brand of tape, updates to the LTO standard, and the availability and compatibility of LTO drives.
+## 技術同步
+
+儲存技術日新月異，因此隨時更新和即時瞭解非常重要。你應該注意所選擇的儲存系統的長期耐久性，並主動轉置到持續性更好的儲存媒體或服務，你將需要考慮到儲存媒體本身和存取設備的可靠性與可用性。
+
+例如，如果你的儲存系統包含LTO磁帶，你將需要檢查那款磁帶任何的製造問題、LTO版本更新、LTO驅動器的可用性與兼容性。
 
 
 <div id="eq-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"></h2>
-“We are able to generate statistics on the file types in our repository and we can plan accordingly.”
+「我們能夠產出資料庫中檔案類型的統計資訊，並且可以做出相應的計畫。」
 </div>
 <div markdown="1">
 <h2 class="title"></h2>
-“I try to keep up with what are considered the best file formats to choose for long-term preservation of my master materials, using blogs and white papers put out by the digital preservation and conservation fields. However, I usually find out something is out-of-date when it stops working. I have had trouble with my back-up hard drives when I upgrade my computer or operating system, and then I have to use the old computer to move things onto new drives.”
+「我嘗試採用被認為是最好的檔案格式來長期保存我的母檔案，透過數位保存維護界發佈的部落格和白皮書。但是，我經常發現當某些東西在過期後就停止運作。在升級電腦或操作系統後，我就在備份硬碟時遇到了問題，然後我不得不使用舊電腦去將東西移存到新的硬碟上。」
 </div>
 <div markdown="1">
 <h2 class="title"></h2>
-“We lean on the expertise of our consultants to tell us what we should be looking out for. We generally try to keep to digital preservation best practices of little to no compression, open formats, etc. In terms of systems, we again rely on our consultants, who we bring in at least once a year, to assess our storage and file needs and make recommendations for us.”
+「我們仰賴顧問的專業知識來告訴我們應該注意什麼。我們通常會盡量遵循幾乎沒有壓縮的、開放格式等的最佳數位保存方法。至於在系統方面，仍靠我們的顧問（每年至少請來一次）來評估儲存空間和檔案需求，並為我們提出建議。」
 </div>
 </div>
 
