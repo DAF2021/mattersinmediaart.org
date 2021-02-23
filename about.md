@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Matters in Media Art
+title: 媒體藝術事務
 ---
 
 
@@ -21,7 +21,7 @@ Nam June Paik _Untitled_ (1993). Player piano, 15 televisions, two cameras, two 
 
 <section id="project-history" class="section scrollspy" markdown="1">
 
-## Project History
+## 計畫歷史
 
 本合作計畫啟動於2005年，為新藝術信託（New Art Trust, NAT）與其合作美術館－紐約現代藝術博物館（the Museum of Modern Art (MoMA)）、舊金山現代藝術博物館（the San Francisco Museum of Modern Art (SFMOMA)）和泰德美術館（Tate）－共同設計，期望協助媒體藝術作品之收藏與保存（例如錄像、電影、聲音及軟體驅動之裝置作品）。
 
@@ -59,7 +59,7 @@ link to the contributors page and explain the distinction between project team a
 
 
 
-## Project team
+## 計畫團隊
 * Amy Brost, Andrew W. Mellon Fellow in Media Conservation, MoMA
 * Jim Coddington, Agnes Gund Chief Conservator, MoMA
 * Patricia Falcao, Time-based Media Conservator, Tate
@@ -73,7 +73,7 @@ link to the contributors page and explain the distinction between project team a
 * Claudia Roeck, Assistant Media Conservator, Tate
 * Jill Sterrett, Director of Collections and Conservation, SFMOMA
 
-### Past
+### 過往
 
 * John Alexander, Senior Assistant Registrar, MoMA
 * Nancy Adelson, Deputy General Counsel, MoMA
@@ -115,7 +115,7 @@ link to the contributors page and explain the distinction between project team a
 * Tanya Zimbardo, Assistant Curator in Media Arts, SFMOMA
 
 
-#### Facilitator
+#### 協助者
 George Gawlinski
 
 In addition to the above participants this project called on the time and expertise of numerous colleagues around the world and within the participating institutions. Finally we would like to thank Pam and Dick Kramlich and the Directors of the New Art Trust, whose commitment to media art made this project possible.
