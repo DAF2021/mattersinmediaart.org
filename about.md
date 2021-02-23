@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 媒體藝術事務
+title: 關於媒體藝術事務
 ---
 
 
