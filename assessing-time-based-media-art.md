@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "媒體藝術文件化"
+title: "Documenting Media Art"
 ---
 
 
