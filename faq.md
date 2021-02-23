@@ -5,113 +5,116 @@ title: Frequently Asked Questions
 
 <section id="Acquisition" class="section scrollspy" markdown="1">
 
-## Acquisition
+## 入藏
 
-### What are the main ways in which media artworks are bought and sold?
-There are two main ways in which artists working in video have traditionally made their work available. The first is through distributors and the second is through the fine-art gallery system.
+### 媒體藝術的主要買賣方式是什麼？
+以影像創作的藝術家有兩種主要的傳統發布作品方式。第一個是通過經銷商，第二個是通過藝廊系統。
 
-### What is the difference between acquiring a work from a distributor rather than a gallery or dealer?
-A gallery or dealer will usually sell a work as unique, or part of a limited edition. A distributor will have different structures of payment depending on how you intend to use the work. Different formats may be bought for a particular screening or you may buy a media format with archival and exhibition rights. Restrictions apply, such as your ability to loan the work.
+### 從經銷商而非藝廊或經紀人那裡購入的作品有何不同？
+藝廊或經紀人通常會以獨特或限量的形式販賣作品。經銷商則根據作品用途將採取不同的付款方式。可以為特定放映購買不同的格式，或者購買具有保存和展覽權的媒體格式，具有限制條件，例如你租借作品的能力。
 
-### Who are some of the largest distributors of video?
-EAI (Electronic Arts Intermix) in New York, Video Data Bank in Chicago , Li-MA in the Netherlands and LUX in the UK.
+### 誰是最大的影像經銷商？
+紐約的EAI（Electronic Arts Intermix ）、芝加哥的Video Data Bank、荷蘭的Li-MA和英國的LUX。
 
-### What am I really buying?
-In purchasing a work of media installation art you are acquiring a combination of content, hardware, instructions and rights.
+### 我到底買了什麼？
+在購買媒體裝置藝術作品時，你會有內容、硬體、說明書和權利。
 
-### What does it mean to say a work is sold as a limited edition?
-When a work is sold as a limited edition, similar to prints and cast sculpture, the number of the edition is declared and fixed when the work first enters the market. Someone buying the work will receive a certificate that will state which number within the edition has been purchased:, for instance one of three. The edition is a way of creating rarity and control in the world of reproducible media.
+### 作品以限量版販售是什麼意思？
+當一件作品以限量版賣出，與印刷品和雕塑作品類似，版次在作品首次進入市場時即已表明和認定。購買該件作品的人將收到一張證書，上面會註明已販售的版次，例如：三分之一。版次是可以在複製媒體世界中創造稀有性和控制力的一種方式。
 
-### Who else owns an edition of the work?
-The gallery who represents the artist will keep details of all the owners of editions sold.
+### 誰還擁有另一個版本的作品？
+代表藝術家的藝廊將留存出售作品的所有人的全部詳細信息。
 
-### What comes with the work?
-This is normally determined by the seller/gallery but the exact details are usually negotiable. An acquisition could include hardware, but at least should include instructions, rights, and archival master copy and an exhibition copy.
+### 作品附帶了什麼？
+一般由賣方/藝廊決定，但具體細節通常可以協商。入藏可能包括硬體，但至少應有說明書、權利、保存級檔案原件和展覽用版本。
 
-### What do I need to get?
-See the pre-acquisition summary. This will most often include documentation of the installation, provenance of the artwork, an equipment checklist including the distinction between what is required but not included in the sale, an outline from the artist as to intent, special considerations for installations, an archival master and exhibition copies of the work.
+### 我需要取得什麼？
+請參閱入藏前置作業摘要。這通常包括裝置說明文件、藝術作品的出處、設備清單（包括不含在販售中的需求物品的區別）、藝術家意向的概述、裝置特殊注意事項、保存級母帶和作品的展覽版副本。
 
-### What is dedicated display equipment/non-dedicated display equipment?
-See the pre-acquisition summary
+### 什麼是專用顯示設備/非專用顯示設備？
+請參閱入藏前置作業摘要
 
-### What are essential documents/contracts?
-See the pre-acquisition summary
+### 什麼是必要的文件/合同？
+請參閱入藏前置作業摘要
 
-### What are my rights and responsibilities as a buyer?
-Your rights and responsibilities are determined in the Purchase Agreement. You should have the right to exhibit the work and in most cases lend the work. Responsibilities may include preserving, migrating and maintaining the work.
+### 作為買方我有哪些權利和責任？
+在購藏同意書中確定你的權利和責任。你應該要有權展示作品，並且在多數情況下可以借出作品。責任可能包括保存、轉置和維護作品。
 
-### Do I get different rights if I buy the work as an edition rather than as a unique work?
-No: your rights to loan, display, preserve and sell the work are the same whether you buy a work as a unique work or as an edition. However if you buy a work as an edition of six, for example, another five people also have those rights. You typically do not have the right in either case to show the work in more than place at a time.
+### 如果我購買有版次而非獨一無二的作品，我會獲得不同的權利嗎？
+不會，無論你買的是獨一無二的作品還是有版次的作品，你的租借、展示、保存和出售作品的權利都是相同的。舉例來說，如果你買了作品的第六個版次，則其他五人也擁有這些權利。通常你沒有權利將作品一次在多個地方展示。
 
-### What does the Copyright Agreement cover?
-The Copyright Agreement should specify the buyer’s rights with respect to display, preservation, lending, PR, and publication.
+### 授權同意書涵蓋了哪些內容？
+授權同意書應明定買方在展示、保存、租借、公開和出版方面的權利。
 
-### Why do I need a copyright license?
-Unauthorized duplication of a copyrighted work may violate the rights of the copyright holder. A copyright license will establish and define the owner’s rights with regard to preservation, the creation of exhibition copies and similar issues having to do with the duplication of the work.
+### 為什麼需要授權許可？
+未經授權複製受版權保護的作品可能會侵犯版權持有人的權利。授權許可將建立並定義作品所有者在保存、製作展覽副本以及與複製作品相關類似問題的權利。
 
-### How do we know who holds the copyright – owner or artist?
-Most often the artist holds the copyright to his or her work. A seller claiming ownership of the copyright in the work should warrant that he or she has the rights and can confer them upon the buyer.
+### 我們如何知道誰擁有版權，作品所有者或藝術家？
+大多數情況下藝術家擁有作品的版權。聲稱擁有作品版權的賣方，應該保證擁有權利，才可以將其給予買方。
 
-### What is a Certificate of Authenticity?
-The Certificate of Authenticity is a document signed by the artist or artist’s estate that certifies (a) that the work is a work of art and (b) that it is by the artist named in it.
+### 什麼是原作保證書？
+原作保證書是由藝術家或藝術家繼承人簽署的用於證明（1）該作是一件藝術品，並且（2）由藝術家本人創作。
 
-### What is an Affirmation of Title and how does it differ from the Certificate of Authenticity?
-Affirmation of Title merely confirms the proper ownership of the copyright. It does not ensure the authenticity of the work of art itself.
+### 什麼是所有權認定書，它與原作保證書有何不同？
+所有權認定書僅能證實版權的所有權，它不能保證作品的真實性。
 
-### What is an ‘Artist’s Proof’?
-The existence of one or more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
+### 什麼是「藝術家留存版（AP）」？
+一個或多個藝術家留存版的存在會在版次旁標明，例如你可能會看到「6版和2個AP版」。藝術家留存版是屬於藝術家的版本，有時候也可以出售。如果藝術家賣出了他們專有的藝術家留存版，那麼將不得不徵求所有者的同意才能展示該作品。
 
 </section>
 <section id="Loans" class="section scrollspy" markdown="1">
 
 
-## Loans
+## 租借
 
-### What is sent when a media artwork is lent?
-When you are lending a media artwork your needs of what you send depends on the nature of the work; in some cases you may need to ship everything needed to install the work, in other cases the display specifications and the media file may be enough. These details should be discussed well in advance. If the equipment is not unique to that work it is advisable to discuss with the borrower and discuss whether they are able to provide suitable equipment.
+### 借出媒體作品時，要寄送什麼？
+當借出媒體作品時，寄送內容的需求取決於作品的性質。在某些情況下，你可能要運送裝置作品時所需的一切東西，在其他時候，展示規格和檔案可能就足夠了，這些細節應該事先討論。如果作品的設備並非特製，建議與租借方討論是否他們能提供適合的設備。
 
-### What is a virtual loan?
-A virtual loan is one where the lender is named on the wall text and in the catalogue as lending the work but nothing physically moved from the lender to the borrower.
+### 什麼是虛擬租借？
+虛擬租借是指在在牆上和圖錄中放上出借方的名字，代表了借出作品，但實際上沒有任何東西從出借方移動到租借方那邊。
 
 </section>
 <section id="PCM" class="section scrollspy" markdown="1">
-## Preservation and Collection Management
 
-### What is the difference between film and video?
-Film is essentially a transparent photographic medium through which light is projected to create an image. It usually requires a negative and is frame-based. Video is an electronic system of encoding whereby images and sound are encoded as electrical waveforms or pulses. To see the images, the electrical waveforms or pulses of energy have to be decoded. Video may be analogue or digital. Analogue video is stored as continuous waveforms digital video is stored as a binary system of 0s and 1s encoded as electronic pulses. Digital video is nowadays largely file based and no longer stored on video tape, although it may be stored data tape. 
+## 保存和藏品管理
 
-### What is a master?
-A master is approved by the artist, is the highest quality material and is usually the source from which copies are made.  
+### 底片和錄像有什麼區別？
+底片本質是一種透明的攝影介質，透過投射光線產生圖像。底片通常是負片，而且是以幀為單位。錄像是一種編碼的電子系統，圖像和聲音被編碼成電子波浪或脈動的形式。為了看這些圖像，必須對能量的電子波浪或脈動進行解碼。錄像可以是類比或數位。類比錄像以0和1的二進制系統的電子脈動形式儲存。如今的數位錄像是以文件為單位，不再存於錄像帶上，儘管它可以存儲在數據磁帶上。
 
-### Who holds the artist's master?
-In the days when the artist's master was a particular object such as a tape, then who held the master was a greater issue than it is today. Nowadays a digital clone can be kept by many different stakeholders including the artist, a gallery, artist’s estate, museums, collectors and educational institutions.
+### 什麼是母帶？
+母帶是經過藝術家認可的質量最高的檔案，通常是複製的來源。
 
-### What are the recommended formats for migration?
-The recommended migration formats change over time. The decision depends in part on the material supplied by the artist. When the master for a video artwork is provided in a fairly standard format, such as uncompressed video in a Quicktime wrapper, then a number of institutions are choosing to preserve that artist supplied copy as the master in the format in which it was supplied. Where the video format supplied is highly unusual then a decision is often made to create a new copy in a common format. Some institutions chose to 'normalize' their video, for example by holding all of their material as an uncompressed copy in an AVI wrapper. There is some discussion regarding the use of open source versus proprietary wrappers within a preservation system.
+### 誰持有藝術家的母帶？
+在藝術家母帶是諸如磁帶之類的特定物件的時代，那麼誰持有母帶會是個大問題。如今數位複製品可以由許多不同的人擁有，包括藝術家、藝廊、藝術家繼承人、博物館、藏家和教育機構。
 
-### Is a copied tape identical to the original?
-An analogue copy is never identical to the original and each time it is copied generational loss occurs. In the digital domain it is possible to achieve a perfect clone from one format to an identical format. However all digital tape formats are different and if you copy a digital tape made on one format to another format, changes will occur. This is due to differences in sampling rate, how the data is sampled and differences in the compression algorithms used.
+### 推薦的轉置格式有哪些？
+建議的轉置格式會隨著時間而改變，取決於藝術家提供的檔案。當錄像作品的母帶以相對標準的格式提供時，例如Quicktime包裝器中的未壓縮影像，許多機構會選擇以藝術家提供的檔案作為母帶保存。如果提供的影像格式太不常見，那麼通常會考慮創建一個常用格式。有些機構會將他們的錄像「標準化」，例如：將所有的檔案以未壓縮格式放在AVI包裝器中。關於在保存系統中使用開源或專有包裝器存在一些討論。
 
-### What is an exhibition copy?
-The exhibition copy is the copy of the media used for display. This is can be used during the installation and should be considered replaceable.
+### 複製的磁帶是否與原始檔相同？
+複製的類比版本永遠不會與原始檔案相同，並且每次複製都會造成質量損失。在數位領域裡是有可能實現從一種格式到另一種格式的完美複製，但是所有的數位磁帶格式都不同，如果將一種格式轉成另一種格式，是會造成改變的。這是因為採樣率的差異、數據採樣的方式以及使用不同的壓縮演算法所致。
 
-### Whom do I contact for technical support?
-Contact a conservator, gallery, distributor, consultant and/or artist/studio that are familiar with these types of works for a recommendation based on the support you need (see  pre-acquisition summary). There are an increasing number of people with the necessary expertise who offer their services in a freelance capacity.
+### 什麼是展覽版副本？
+展覽版是用於展示的媒體副本，可以在展示過程中使用，並且可被替換的。
 
-### How do I document the work of art?
-Documentation of the work usually includes a combination of photography, diagrams, schematics, legal documentation, Installation Specifications, and verbal/recorded accounts of the work. There are a number of tools, such as 'Media Info' that can also assist in extracting technical metadata. The documentation of an artwork is an ongoing process that traces the life of the work.
+### 我該聯繫誰以獲得技術支援？
+請與熟悉此類作品的修復師、藝廊、經銷商、顧問或藝術家/工作室聯繫，根據你需要的支援提供建議（請參閱入藏前置作業摘要）。有越來越多具有必備專業知識的人以自由接案的身份提供服務。
 
-### What should be included in archival files?
-See post-acquisition summary. These files will usually include a receipt for the artwork, condition reports, the invoice, an acquisition summary, the certificate of authenticity, a copyright agreement, the artist’s contact information, a commissioning agreement (if applicable), the curatorial rationale, correspondence and transcripts of an artist’s interview.
+### 我如何記錄藝術作品？
+作品的檔案通常包括照片、圖表、示意圖、法律文件、裝置規格、作品口述和紀錄。有許多工具可以協助提取技術詮釋資料，例如媒體資訊。記錄藝術作品是追蹤作品一生的持續過程。
 
-### What is a Condition Report?
-The Condition Report is a record that monitors the physical and electronic qualities of all components of the work.
+### 保存檔案應該包含什麼內容？
+請參閱入藏後製作業摘要。這些檔案通常包括藝術作品的收據、狀況報告、發票、購藏摘要、原作保證書、授權同意書、藝術家的聯繫信息、委託協議書（如果適用）、策展原由、藝術家訪談的信件或副本。
 
-### My collections management database only provides limited fields for cataloguing media art. Where can I learn more about additional fields?
-Many museums, individuals and private collectors are struggling with this. Some producers of museum catalogue databases will revise their software in the future (please lobby them). In the meantime, you may need to create a database specifically for your media art collection. The ‘Cataloguing Project’ of Independent Media Arts Preservation (IMAP) may serve as a helpful resource.
+### 什麼是狀況報告？
+狀況報告是一個用於監控作品所有實體和電子組件品質的記錄。
 
-### How do I prepare myself for equipment becoming obsolete?
-The best known preparation for obsolescence includes the stockpiling of equipment, information gathering, and dialogue with artists/technicians/corporations (through preservation planning).
+### 我的藏品管理資料庫對於媒體藝術的分類僅提供有限的領域，在哪裡可以了解更多相關信息？
+許多博物館、個人和私人藏家也有相同問題。有一些博物館分類資料庫的製造商將來會修改他們的軟體（請說服他們）。同時你可能需要建立一個專門用於媒體藝術藏品的資料庫。獨立媒體藝術保存（ Independent Media Arts Preservation）的「Cataloguing Project」會是有用的資源。
 
-### How will the work last over time?
-Media works last through processes of active preservation involving bit preservation and monitoring for obsolescence and other risks, documentation, the development over time of an understanding of the work and what is important to its conservation or preservation, an assessment of new replacement technologies, and dialogue with the artist as to possibilities for future iterations.
+### 對於過時的設備我應該如何應對？
+最好的已知應對方法是儲備設備、收集資訊和與藝術家/技術人員/公司溝通（透過保存計畫）。
+
+### 隨著時間推移，作品將如何延續？
+媒體作品的延續是透過主動保存的過程，包含：保存位元和監控過時和其他風險、記錄、隨著時間理解作品和什麼對於作品的修復或保存是重要的、新替代技術的評估以及對於和藝術家溝通未來迭代的可能性。
+
+</section>
