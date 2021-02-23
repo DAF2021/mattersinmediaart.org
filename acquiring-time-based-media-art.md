@@ -270,10 +270,13 @@ title: "取得媒體藝術作品"
     </a>
     </div>
 <br>
- <!-- previous layout:
-* [Installation specifications]({{ site.url }}/downloads/installationinstructions_1.rtf) (RTF, 59KB)
-* [Cost assessment]({{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls) (Excel, 24KB)
--->
+
+[comment]: <> ( previous layout:)
+
+[comment]: <> (* [Installation specifications]&#40;{{ site.url }}/downloads/installationinstructions_1.rtf&#41; &#40;RTF, 59KB&#41;)
+
+[comment]: <> (* [Cost assessment]&#40;{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls&#41; &#40;Excel, 24KB&#41;)
+
 </section>
 
 
