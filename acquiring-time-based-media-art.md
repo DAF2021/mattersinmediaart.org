@@ -189,7 +189,7 @@ title: "取得媒體藝術作品"
 
 <section id="costs" class="section scrollspy" markdown="1">
 
-### Costs
+### 費用開支
 
 除了下面列出的費用外，還會涉及與在長程與短程中保存媒體藝術相關的開銷。一份開支估價單有助於估算購入這件作品所需的財政負擔。
 
@@ -238,7 +238,7 @@ title: "取得媒體藝術作品"
 <section id="proceed" class="section scrollspy" markdown="1">
 
 
-### Proceed with acquisition?
+### 是否決定入藏？
 
 總結資料收集的結果並提出後續動作的建議，利用從團隊和顧問那裡匯集而來的資料，策展人/收藏者得以決定該藝術品是否適合收藏。如果合適，策展人/收藏者將指出要納入購買同意書的擬議。
 
