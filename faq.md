@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently Asked Questions
+title: 常見問題集
 ---
 
 <section id="Acquisition" class="section scrollspy" markdown="1">
