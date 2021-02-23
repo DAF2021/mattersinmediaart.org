@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Acquiring Media Art"
+title: "取得媒體藝術作品"
 ---
 
 
