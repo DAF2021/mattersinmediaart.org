@@ -302,7 +302,7 @@ published: true
 我們建立了一個excel工作表單，讓你可以輸入開銷並計算總額，且以時間圖表的形式呈現：
 <div class="col s12">
 <a href="{{ site.url }}/downloads/MMA_budget_template.xlsx">
-  <div class="chip"><i class="large material-icons">play_for_work</i>預算計算器</div>
+  <div class="chip"><i class="large material-icons">play_for_work</i>經費預算表</div>
     </a>
     </div>
 
