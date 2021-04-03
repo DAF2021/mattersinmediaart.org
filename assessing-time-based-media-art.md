@@ -39,7 +39,7 @@ title: "媒體藝術文件化"
 
 * 媒體：例如錄像、聲音、電影、幻燈片、硬碟。
 
-* 實用網站：[EAI線上資源指南]、[德州委員會錄影帶識別及檢視指南]、[獨立媒體藝術保存（IMAP）編目計畫]。：[EAI線上資源指南]、[德州委員會錄影帶識別及評估指南]、[獨立媒體藝術保存（IMAP）編目計畫]。(http://www.arts.state.tx.us/video/); [IMAP Cataloguing Project](http://www.imappreserve.org/cat_proj/)
+* 實用網站: [EAI線上資源指南](http://www.eai.org/resourceguide/formats.html)、 [德州委員會錄影帶識別及檢視指南](http://www.arts.state.tx.us/video/) 、[獨立媒體藝術保存（IMAP）編目計畫](http://www.imappreserve.org/cat_proj/)
 
 * 專用的展示設備：（例如螢幕、顯示器、投影機、喇叭、重播  設備、燈光、相機）。記錄廠商名稱及型號編號，並收集所有設備的產品使用手冊。
 
