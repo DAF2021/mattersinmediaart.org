@@ -15,7 +15,7 @@ title: Matters in Media Art
 <div class="col l8 m9 s12" markdown="1">
 
 <div class="card-panel white" markdown="1">
-# Guidelines for the care of media artworks
+# 媒體藝術作品保存指南
 </div>
 
 
@@ -24,7 +24,7 @@ title: Matters in Media Art
 <div class="col l7 m12 s12" markdown="1">
 
 <div class="card-panel white flow-text">
-This site aims to be a resource for collectors, artists, and institutions of all sizes caring for works of art that have moving image, electronic, and digital elements. If you have questions about how to acquire and preserve these works, here you will find practical tools and examples to guide you.
+本網站旨在為收藏家、藝術家與各種規模的機構提供以保存具有動態影像、電子和數位元素藝術作品的相關資源。如果你有關於如何入藏和保存這些作品的問題，你會在這裡找到實用的工具和範例來指引你。
 </div>
 
 
