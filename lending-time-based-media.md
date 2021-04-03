@@ -109,7 +109,7 @@ title: 媒體藝術借展
 
 * 作品出借前，是否需進行修復？
 * 展出所需的設備是否仍可使用？
-* 涉及那些開銷費用？*由誰支付？
+* 涉及那些開銷費用？ 由誰支付？
 
 </div>
 </li>
@@ -515,7 +515,7 @@ Terms may be specified in the loan agreement:
 借展合約為出借單位與借展單位之間的合約，其中載明借展標的、借展作品狀況說明及雙方應負擔之責任。合約送出時，建議附上一封信函，提示契約書中重要的條款。借展合約（或稱出借單位合約、借展單位合約、作品出借契約等等）至此才算完備。
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_loanagreement.doc">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Loan agreement    </div>
+  <div class="chip"><i class="large material-icons">play_for_work</i>借展合約    </div>
     </a>
     </div>
 <br>
