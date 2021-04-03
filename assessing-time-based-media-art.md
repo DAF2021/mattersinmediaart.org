@@ -275,84 +275,84 @@ title: "媒體藝術文件化"
 
 <div class="col s12">
 <a href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Structure and condition report
+  <div class="chip"><i class="large material-icons">play_for_work</i>結構與狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Video artwork
+  <div class="chip"><i class="large material-icons">play_for_work</i>錄像（Video）作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Audio artwork
+  <div class="chip"><i class="large material-icons">play_for_work</i>聲音作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Film artwork
+  <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像（Film）作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Slide artwork
+  <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Computer-based artwork
+  <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦的作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Computer-based display equipment
+  <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦作品的設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Playback device display equipment
+  <div class="chip"><i class="large material-icons">play_for_work</i>播放裝置展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Video projectors display equipment
+  <div class="chip"><i class="large material-icons">play_for_work</i>投影展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Screens and monitors display equipment
+  <div class="chip"><i class="large material-icons">play_for_work</i>螢幕展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Film projectors display equipment
+  <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像放映展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Slide projectors display equipment
+  <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片投影展示設備
     </div>
     </a>
     </div>
