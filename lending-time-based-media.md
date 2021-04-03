@@ -104,7 +104,7 @@ title: 媒體藝術借展
 </li>
 
 <li>
-  <div class="collapsible-header">作品修復需求</div>
+  <div class="collapsible-he**ader">作品修復需求</div>
   <div class="collapsible-body" markdown="1">
 
 * 作品出借前，是否需進行修復？
@@ -414,7 +414,7 @@ Terms may be specified in the loan agreement:
 
 <div class="col s12">
 <a href="{{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Budget calculator </div>
+  <div class="chip"><i class="large material-icons">play_for_work</i>經費預算表 </div>
     </a>
     </div>
 <br>
@@ -584,7 +584,7 @@ Terms may be specified in the loan agreement:
 
 <div class="col s13">
 <a href="{{ site.url }}/downloads/mattersmediaart_facilitiesreport.doc">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Facilities report    </div>
+  <div class="chip"><i class="large material-icons">play_for_work</i>場館設施報告    </div>
     </a>
     </div>
 <br>
@@ -935,53 +935,53 @@ Terms may be specified in the loan agreement:
 * 在安裝過程或展期間，是否有哪裡需要任何更改？
 <br><br>
 
-#### Loan Condition Report Templates
+#### 借展狀況報告範本
 
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_conditionreport.doc">
-  <div class="chip"><i class="large material-icons">play_for_work</i>General condition report
+  <div class="chip"><i class="large material-icons">play_for_work</i>整體狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Equipment condition report
+  <div class="chip"><i class="large material-icons">play_for_work</i>設備狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_tape.doc">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Video condition report
+  <div class="chip"><i class="large material-icons">play_for_work</i>錄像（Video）狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc">
-  <div class="chip"><i class="large material-icons">play_for_work</i>Film condition report
+  <div class="chip"><i class="large material-icons">play_for_work</i>膠捲影像（Film）狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc">
-    <div class="chip"><i class="large material-icons">play_for_work</i>Slide condition report
+    <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片狀況報告
       </div>
       </a>
       </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc">
-<div class="chip"><i class="large material-icons">play_for_work</i>Hard drive condition report
+<div class="chip"><i class="large material-icons">play_for_work</i>硬碟狀況報告
         </div>
         </a>
         </div>
 <br>
 <div class="col s12">
 <a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc">
-<div class="chip"><i class="large material-icons">play_for_work</i>Disc condition report
+<div class="chip"><i class="large material-icons">play_for_work</i>光碟狀況報告
         </div>
         </a>
         </div>
