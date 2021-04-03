@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Matters in Media Art
+title: Matters in Media Art | 媒體藝術事務
 ---
 
 
