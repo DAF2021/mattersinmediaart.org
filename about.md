@@ -12,7 +12,7 @@ title: 關於媒體藝術事務
 
 ![](img/paik.jpg)
 <span class="img-caption" markdown="1">
-Nam June Paik _Untitled_ (1993). Player piano, 15 televisions, two cameras, two laser disc players, one electric light and light bulb, and wires, overall approx. 8′ 4″ x 8′ 9″ x 48″ (254 x 266.7 x 121.9 cm), including laser disc player and lamp. The Museum of Modern Art, New York. Bernhill Fund, Gerald S. Elliot Fund, gift of Margot Paul Ernst, and purchase. © 2013 Estate of Nam June Paik
+白南準 Untitled (1993)。鋼琴、15台電視機、2台攝影機、2台鐳射光碟播放器、1盞電燈與燈泡和電線，整體約8′ 4″ x 8′ 9″ x 48″ （254 x 266.7 x 121.9公分），包括鐳射光碟播放器和燈。紐約現代藝術博物館。Bernhill基金、Gerald S. Elliot基金、Margot Paul Ernst的捐贈和購買。©2013白南準資產管理
 </span>
 
 </section>
@@ -121,6 +121,21 @@ link to the contributors page and explain the distinction between project team a
 #### 協助者
 George Gawlinski
 
-In addition to the above participants this project called on the time and expertise of numerous colleagues around the world and within the participating institutions. Finally we would like to thank Pam and Dick Kramlich and the Directors of the New Art Trust, whose commitment to media art made this project possible.
+除上述參與者外，此計畫也號召了世界各地和參與機構內的眾多同業人員投入的時間和專業知識。
+
+最後，我們要感謝Pam和Dick Kramlich以及新藝術信託的董事們，他們對媒體藝術的承諾使這個計畫得以落實。
+
+#### 繁體中文翻譯計畫團隊成員
+
+臺灣數位藝術基金會
+科技藝術典藏基礎計畫 Save Media Art
+計畫主持人：陳禹先
+計畫國際交流主任：林子荃
+翻譯：王幸慈、彭庭軒
+同行審查：陳娟娟、施登騰
+網站程式：曾能鴻
+網站維運：臺灣數位藝術基金會
+贊助單位：國家文藝基金會
+
 
 </section>
