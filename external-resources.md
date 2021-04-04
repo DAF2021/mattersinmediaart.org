@@ -1,51 +1,49 @@
 ---
 layout: default
-title: External resources
+title: 外部資源
 ---
 
-**[Association of Moving Image Archivists (AMIA)](http://www.amianet.org/)**
-A non-profit association providing information for the preservation of moving images. Contains an online forum that is open to the public (archives of past discussions can also be found on CoOL website).
+**[動態影像檔案管理員協會Association of Moving Image Archivists (AMIA) ](http://www.amianet.org/)**
+動態影像檔案管理員協會Association of Moving Image Archivists (AMIA) 提供動態影像保存資訊的非營利性協會，包含一個公開的線上論壇（過去的討論檔案也能在CoOL網站上找到）
 
-**[Bay Area Video Coalition (BAVC)](http://www.bavc.org/)**
-BAVC is a non-profit arts centre that addresses many concerns associated with media technologies. The links to their projects listed below provide additional information on various aspects of media preservation:
+**[灣區影像聯盟Bay Area Video Coalition (BAVC) ](http://www.bavc.org/)**
+灣區影像聯盟Bay Area Video Coalition (BAVC) 是一個非營利性的藝術中心，致力於解決媒體技術有關的許多問題。下面列出他們提供有關媒體保存各方面更多資訊的相關計畫連結。
 
-**[Conservation Online (CoOL) Resources for Conservation Professionals](http://palimpsest.stanford.edu/bytopic/electronic-records/electronic-storage-media/)**
-CoOl is a project of the Preservation Department of Stanford University Libraries and Academic Information Resources that provides full text information from other sources, such as professional list-serves.
+**[保存維護專業人員的維護線上資源Conservation Online (CoOL) Resources for Conservation Professionals](http://palimpsest.stanford.edu/bytopic/electronic-records/electronic-storage-media/)**
+CoCL是史丹佛大學圖書館與學術資訊資源保存部門的一個計畫，提供其他來源的全文資訊，如專業名單服務。
 
-**[Curatorial Resources for Upstart Media Bliss (CRUMB)](www.crumbweb.org)**
-Website confronting the issues around curating media art with a New Media Discussion List, curatorial resources, seminars, and interviews.
+**[新興媒體福地的策展資源Curatorial Resources for Upstart Media Bliss (CRUMB)](www.crumbweb.org)**
+探討媒體藝術策展問題的網站，包括新媒體討論清單、策展資源、研討會和訪談。
 
-**[DOCAM](http://www.docam.ca/)**
-A Canadian government sponsored five-year project designed to advance the field of technological and electronic art preservation. The project design includes development of university curricula, cultural policy, and preservation tools. The DOCAM website posts upcoming events, results of their annual summits, and updates on committee work.
+**[媒體藝術遺產的文件記錄與保存維護DOCAM](http://www.docam.ca/)**
+一個由加拿大政府贊助的五年期計畫，旨在推動科技與電子藝術保存領域的發展。該計畫設計包含開發大學課程、文化政策和保存工具。DOCAM網站會公布即將舉辦的活動、年度峰會的結果以及委員會工作的最新情況。
 
-**[Electronic Media Group (EMG) of the American Institute for Conservation of Historic and Artistic Works (AIC)](http://aic.stanford.edu/sg/emg/index.html%20)**
-A professional group of conservators within the American Institute for Conservation, with interests in electronic media. Serves as a networking organization with a list-serve, and holds workshops and panel discussions on media preservation issues.
+**[美國歷史與藝術作品保存維護協會的電子媒體群組Electronic Media Group (EMG) of the American Institute for Conservation of Historic and Artistic Works (AIC) ](http://aic.stanford.edu/sg/emg/index.html%20)**
+美國保存維護協會內的一個保存維護人員專業群組，對電子媒體感興趣。作為一個網絡組織，提供名單服務，並就媒體保存問題舉辦工作坊和專題討論。
 
-**[Electronic Arts Intermix (EAI)](http://www.eai.org/index.htm)**
-EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art. A comprehensive site that includes information on all aspects of media conservation. Includes interviews with artists and professionals, case study examples, extensive format descriptions, a glossary, and a resources list.
+**[電子藝術混合Electronic Arts Intermix (EAI) ](http://www.eai.org/index.htm)**
+一個提供用於展覽、收藏、保存媒體藝術的線上資源指南，包括媒體保存維護各方面資訊的綜合型網站。內容包含對藝術家和專業人士的訪談、案例研究實例、廣泛的格式說明、詞彙表和資源清單。
 
-**[Electronic Resource Preservation and Access Network](http://www.erpanet.org/)**
-Provides access to digital preservation professionals, information services on digital preservation, literature reviews, case studies, technical guidelines and standards assessments. A listing of training events and workshops is also accessible.
+**[電子資源保存和進用網絡Electronic Resource Preservation and Access Network](http://www.erpanet.org/)**
+提供與數位保存專業人員的聯繫、數位保存的資訊服務、文獻檢閱、案例研究、技術準則和標準評估的途徑；另提供培訓活動和工作坊的清單。
 
-**[Independent Media Arts Preservation (IMAP)](http://imappreserve.org/)**
-Non-profit national resource for preservation training, service, education, and advocacy, committed to the preservation of non-commercial electronic media. Their ‘Preservation 101’ project provides valuable information on media preservation.
+**[獨立媒體藝術保存Independent Media Arts Preservation (IMAP) ](http://imappreserve.org/)**
+非營利的全國性保存培訓、服務、教育和宣傳資源，致力於保存非商業性電子媒體。他們的“保存101”提供了寶貴的媒體保存資訊。
 
+**[當代藝術保存國際網絡 International Network for the Conservation of Contemporary Art (INCCA)](http://www.incca.org/)**
+國際會員組織，旨在促進投入於當代藝術保存維護的團體之間的交流。與媒體藝術、理論、收藏等網站連結，以及有限的保存維護連結。INCCA網站發布關於保存維護方法的文章，如藝術家訪談。會員可以訪問一個藝術家檔案資料庫，其中包含其他網絡成員未發表的研究摘要。
 
-**[International Network for the Conservation of Contemporary Art (INCCA)](http://www.incca.org/)**
-International membership organization designed to facilitate communication among groups invested in the conservation of contemporary art. Links to sites on media art, theory, and collections, and limited conservation links. The INCCA site posts articles on conservation methodology such as artist interviews. Members can access an Artists Archive Database containing abstracts of unpublished research from other network members.
-
-**[InterPARES 2 Project (International Research on Permanent Authentic Records in Electronic Systems)](http://www.interpares.org/)**
-Outlines the InterPARES 1 Project and InterPARES 2 Projects dedicated to preservation issues surrounding the authenticity of digital records, document management systems, and digital sound.
+**[InterPARES 2 Project (永久真實紀錄於電子系統中的國際研究International Research on Permanent Authentic Records in Electronic Systems)](http://www.interpares.org/)**
+概述InterPARES 1計畫和InterPARES 2計畫，致力解決圍繞於數位記錄的真實性、檔案管理系統和數位聲音保存議題。
 
 **[LUX](http://www.lux.org.uk/)**
-LUX is a not-for-profit organization that supports and promotes contemporary and historical artists’ moving-image work, and those who make it, through distribution, exhibition, publishing and research.
+LUX是一個非營利組織，透過發行、展覽、出版和研究，支持和推廣當代與歷代藝術家們的動態影像作品，以及那些製作這些作品的人。
 
-**[The National Archives, Britain](http://www.nationalarchives.gov.uk/preservation/)**
-The UK government records and information management department hosts a preservation website with special focus on collections care and digital preservation. The digital preservation site includes downloadable guidance documents and a searchable online registry of technical information.
+**[英國國家檔案局 The National Archives, Britain](http://www.nationalarchives.gov.uk/preservation/)**
+英國政府記錄和資訊管理部門主辦一個保存網站，特別關注於藏品的保護和數位保存。數位保存網站包括可下載的指南文件和可搜索的線上技術資訊登記冊。
 
-**[Texas Commission on the Arts Video Identification Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)**
-The Video Identification Assessment Guide provides valuable information on video formats, including longevity risks, how to perform condition assessments, and conservation recommendations.
+**[德州藝術委員會影像辨別檢視指南 Texas Commission on the Arts Video Identification Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)**
+影像辨別檢視指南提供關於影像格式的寶貴資訊，包括長期風險、如何進行狀況檢視和保存維護建議。
 
-**[Variable Media Network](http://variablemedia.net/)**
-Contains case studies on variable media conservation projects and a publication (downloadable) The Variable Media Approach: Permanence Through Change put out by the Guggenheim Museum. The publication features the Variable Media model for characterizing and cataloguing media works.
-
+**[可變媒體網絡 Variable Media Network](http://variablemedia.net/)**
+包含關於可變媒體保存維護計畫的案例研究，以及古根漢博物館出版品（可下載）《處理可變媒體：透過變化實現永恆》。該出版品以可變媒體模式為特色，對媒體作品進行特徵歸納和編目。
