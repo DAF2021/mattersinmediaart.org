@@ -136,7 +136,6 @@ George Gawlinski
 * 網站程式：曾能鴻
 * 網站維運：臺灣數位藝術基金會
 * 贊助單位：國家文藝基金會 
-![](img/ncafroc.jpg){: width=150px padding-left=5px }
-
+![](img/ncafroc.jpg){:width="150px" padding-left="5px"}
 
 </section>
