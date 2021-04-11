@@ -65,7 +65,7 @@ title: "媒體藝術文件化"
 
 ## 媒體藝術編目
 
-供媒體裝置使用的媒體藝術編目紀錄，包含了龐大且可能較難以管理的資訊。透過以下的指南說明，你可以在媒體藝術作品的紀錄中找到其材料類型，以及獲得如何在你的檔案及資料夾裡進行資料管理和分類的建議方式。
+供媒體裝置使用的媒體藝術編目紀錄，包含了龐大且可能較難以管理的資訊。透過以下的指南說明，你可以在媒體藝術作品的紀錄中找到其材料類型，以及獲得如何在你的檔案及資料夾裡進行資料管理和分類的建議方式。在這裡閱讀更多關於[藏品管理系統](http://mattersinmediaart.org/sustaining-your-collection.html#Review-Collection-Management-Systems) 的資訊。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
