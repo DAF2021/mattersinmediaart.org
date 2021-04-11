@@ -230,7 +230,6 @@ title: "媒體藝術文件化"
 
 </div>
 
-
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>未來展示準備工作</h2>
@@ -252,6 +251,7 @@ title: "媒體藝術文件化"
 </div> <!-- end of slider -->
 
 </section>
+
 <section id="post-templates" class="section scrollspy" markdown="1">
 
 ## 作品狀況報告書範本
@@ -358,9 +358,11 @@ title: "媒體藝術文件化"
     </div>
 <br>
 
-
+</section>
 
 <section id="guidelines" class="section scrollspy" markdown="1">
+
+</section>
 
 <section id="Assessment" class="section scrollspy" markdown="1">
 
@@ -369,6 +371,7 @@ title: "媒體藝術文件化"
 
 
 </section>
+
 <section id="assessing" class="section scrollspy" markdown="1">
 ## 數位錄像檔案檢測
 
@@ -420,6 +423,7 @@ title: "媒體藝術文件化"
 </ul>
 
 </section>
+
 <section id="workstation" class="section scrollspy" markdown="1">
 
 ### 檢測工作站
@@ -502,11 +506,9 @@ title: "媒體藝術文件化"
   </div>
 </li>
 </ul>
-
 <br>
 
 #### 評估工作環境之設置
-
 
 <table class="assessment bordered highlight">
         <thead>
@@ -600,6 +602,7 @@ title: "媒體藝術文件化"
       </table>
 
 </section>
+
 <section id="analysis" class="section scrollspy" markdown="1">
 ###	初步技術分析
 你收到的數位錄像作品的技術資訊量，端看藝術家提供的資料內容。
@@ -698,6 +701,7 @@ Depending on your workflow you may carry out a technical assessment before you c
 -->
 
 </section>
+
 <section id="assessing-files" class="section scrollspy" markdown="1">
 
 ### 檢測檔案
