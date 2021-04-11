@@ -26,54 +26,53 @@ title: 媒體藝術借展
 成功執行的關鍵在於周詳的規劃。若你的身份為借展單位，第一個步驟就是為考慮中的作品建立清單，，並且辨認有關作品資訊的來源。下列的檢核清單應該可以好好指出，未來想商借作品的人，是否有能力安裝、管理和維護作品。
 
 <ul class="collapsible" data-collapsible="accordion">
-<li>
-  <div class="collapsible-header">彙集作品資訊</div>
-  <div class="collapsible-body" markdown="1">
-
+  <li>
+    <div class="collapsible-header">彙集作品資訊</div>
+    <div class="collapsible-body" markdown="1">
+    
 * 作品名稱
 * 作品所有人
 * 出借方的作業時間多長？借展行政程序如何？（請注意，有些機構的行政程序可能要花上一整年。）
+    </div>
+  </li>
 
-</div>
-</li>
-
-<li>
-  <div class="collapsible-header">設備清單</div>
-  <div class="collapsible-body" markdown="1">
+  <li>
+    <div class="collapsible-header">設備清單</div>
+    <div class="collapsible-body" markdown="1">
 
 * 設備是否可用於借展？
 * 設備的狀況如何？
 * 你有關於維護及維修的責任為何？
 * 涉及那些開銷費用？
 
-</div>
-</li>
+    </div>
+  </li>
 
-<li>
-  <div class="collapsible-header">展示格式</div>
-  <div class="collapsible-body" markdown="1">
+  <li>
+    <div class="collapsible-header">展示格式</div>
+    <div class="collapsible-body" markdown="1">
 
 * 作品展呈方式的配件或材料，是否包含在租借的一部分？
 * 是否已有有現成品，或者需要重新製作？
 * 涉及那些開銷費用？
 
-</div>
-</li>
+    </div>
+  </li>
 
-<li>
-  <div class="collapsible-header">空間需求</div>
-  <div class="collapsible-body" markdown="1">
+  <li>
+    <div class="collapsible-header">空間需求</div>
+    <div class="collapsible-body" markdown="1">
 
 * 已有可用的空間展出借展作品嗎？
 * 是否需要任何結構建設？
 * 涉及那些開銷費用？
 
-</div>
-</li>
+    </div>
+  </li>
 
-<li>
-  <div class="collapsible-header">聲音或音效播放需求</div>
-  <div class="collapsible-body" markdown="1">
+  <li>
+    <div class="collapsible-header">聲音或音效播放需求</div>
+    <div class="collapsible-body" markdown="1">
 
 * 周圍相鄰的作品聲音是否會干擾本借展作品？
 * 本借展作品的聲音是否會干擾其他作品？
@@ -83,12 +82,12 @@ title: 媒體藝術借展
 * 是否需要僱請專業影音人員？
 * 涉及那些開銷費用？
 
-</div>
-</li>
+    </div>
+  </li>
 
-<li>
-  <div class="collapsible-header">專業佈展人員需求</div>
-  <div class="collapsible-body" markdown="1">
+  <li>
+    <div class="collapsible-header">專業佈展人員需求</div>
+    <div class="collapsible-body" markdown="1">
 
 * 你的機構是否有裝置這件作品的專才？
 * 藝術家或藝術家的技師，是否會參與作品布展？如果會的話，他們的職責為何？
@@ -99,20 +98,19 @@ title: 媒體藝術借展
 * 你的機構中是否有維護這件作品的專才？
 * 涉及那些費用開銷？
 
+    </div>
+  </li>
 
-</div>
-</li>
-
-<li>
-  <div class="collapsible-he**ader">作品修復需求</div>
-  <div class="collapsible-body" markdown="1">
+  <li>
+    <div class="collapsible-header">作品修復需求</div>
+    <div class="collapsible-body" markdown="1">
 
 * 作品出借前，是否需進行修復？
 * 展出所需的設備是否仍可使用？
 * 涉及那些開銷費用？ 由誰支付？
 
-</div>
-</li>
+    </div>
+  </li>
 
 </ul>
 
@@ -122,21 +120,21 @@ title: 媒體藝術借展
 ### 提案、考量及核准
 這時出借單位及借展單位需要一起針對某一特定的借展需求審慎考量。主要討論內容通常為作品性質及相關開銷。並不是所有的提案都會被接受，而成功被接受的提案通常都包含某種程度的談判交涉。最後的借展合約是一份列出雙方同意條款的文件。
 <ul class="collapsible" data-collapsible="accordion">
-<li>
-  <div class="collapsible-header">呈遞借展提案</div>
-  <div class="collapsible-body" markdown="1">
-  向出借單位提出借展要求時，借展人提供以下內容：
+  <li>
+    <div class="collapsible-header">呈遞借展提案</div>
+    <div class="collapsible-body" markdown="1">
+    向出借單位提出借展要求時，借展人提供以下內容：
 
 * 極具說服力的論點
 * 展覽時程和所有展出場地
 
-</div>
-</li>
+    </div>
+  </li>
 
-<li>
-  <div class="collapsible-header">考慮借展提案</div>
-  <div class="collapsible-body" markdown="1">
-  收到借展單位送來的請求後，出借單位應考慮：
+  <li>
+    <div class="collapsible-header">考慮借展提案</div>
+    <div class="collapsible-body" markdown="1">
+    收到借展單位送來的請求後，出借單位應考慮：
 
 * 作品對展覽的貢獻
 * 作品是否可以出借
@@ -144,8 +142,8 @@ title: 媒體藝術借展
 * 借展單位安裝和維護作品的能力
 * 出借單位的資源限制，包含員工的工作時間
 
-</div>
-</li>
+    </div>
+  </li>
 
 <li>
   <div class="collapsible-header">核准借展提案</div>
@@ -164,20 +162,20 @@ title: 媒體藝術借展
 * 制定預算
 * 提供裝置說明書
 
-</div>
-</li>
+    </div>
+  </li>
 
-<li>
-  <div class="collapsible-header">檢視布展及安裝相關文件</div>
-  <div class="collapsible-body" markdown="1">
+  <li>
+    <div class="collapsible-header">檢視布展及安裝相關文件</div>
+    <div class="collapsible-body" markdown="1">
 
 #### 借展單位
 
 * 研究討論裝置說明書
 * 完成預算制定
 
-</div>
-</li>
+    </div>
+  </li>
 </ul>
 
 
