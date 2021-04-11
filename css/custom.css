@@ -229,6 +229,7 @@ img {
 
 .collapsible ul{
   list-style-type: none !important;
+  padding-bottom: 1rem;
 }
 
 .collapsible li{
@@ -6484,7 +6485,7 @@ a.waves-effect .waves-ripple {
   box-sizing: border-box; }
   .collapsible-body p {
     margin: 0;
-    padding: 2rem; }
+    padding: 1rem; }
 
 .side-nav .collapsible {
   border: none;
