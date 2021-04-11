@@ -558,7 +558,7 @@ Terms may be specified in the loan agreement:
 <li>
   <div class="collapsible-header">借展費用</div>
   <div class="collapsible-body" markdown="1">
-	有些機構可能會收取借展行政費用。除此之外，借展作品內含可更換的組件，也可能衍生折舊費用。
+有些機構可能會收取借展行政費用。除此之外，借展作品內含可更換的組件，也可能衍生折舊費用。
 </div>
 </li>
 
