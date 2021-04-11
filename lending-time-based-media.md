@@ -29,51 +29,39 @@ title: 媒體藝術借展
   <li>
     <div class="collapsible-header">彙集作品資訊</div>
     <div class="collapsible-body" markdown="1">
-    
 * 作品名稱
 * 作品所有人
 * 出借方的作業時間多長？借展行政程序如何？（請注意，有些機構的行政程序可能要花上一整年。）
     </div>
   </li>
-
   <li>
     <div class="collapsible-header">設備清單</div>
     <div class="collapsible-body" markdown="1">
-
 * 設備是否可用於借展？
 * 設備的狀況如何？
 * 你有關於維護及維修的責任為何？
 * 涉及那些開銷費用？
-
     </div>
   </li>
-
   <li>
     <div class="collapsible-header">展示格式</div>
     <div class="collapsible-body" markdown="1">
-
 * 作品展呈方式的配件或材料，是否包含在租借的一部分？
 * 是否已有有現成品，或者需要重新製作？
 * 涉及那些開銷費用？
-
     </div>
   </li>
-
   <li>
     <div class="collapsible-header">空間需求</div>
     <div class="collapsible-body" markdown="1">
-
 * 已有可用的空間展出借展作品嗎？
 * 是否需要任何結構建設？
 * 涉及那些開銷費用？
-
     </div>
   </li>
-
   <li>
     <div class="collapsible-header">聲音或音效播放需求</div>
     <div class="collapsible-body" markdown="1">
-
 * 周圍相鄰的作品聲音是否會干擾本借展作品？
 * 本借展作品的聲音是否會干擾其他作品？
 * 需要安裝特殊隔音裝置嗎？
@@ -81,14 +69,12 @@ title: 媒體藝術借展
 * 藝術家是否對作品音質在空間中的表現有嚴格的特殊需求？
 * 是否需要僱請專業影音人員？
 * 涉及那些開銷費用？
-
     </div>
   </li>
 
   <li>
     <div class="collapsible-header">專業佈展人員需求</div>
     <div class="collapsible-body" markdown="1">
-
 * 你的機構是否有裝置這件作品的專才？
 * 藝術家或藝術家的技師，是否會參與作品布展？如果會的話，他們的職責為何？
 * 你需要另外雇用額外的規劃設計及布展專技人員嗎？
@@ -97,21 +83,17 @@ title: 媒體藝術借展
 * 作品裝置的維護需求為何？
 * 你的機構中是否有維護這件作品的專才？
 * 涉及那些費用開銷？
-
     </div>
   </li>
 
   <li>
     <div class="collapsible-header">作品修復需求</div>
     <div class="collapsible-body" markdown="1">
-
 * 作品出借前，是否需進行修復？
 * 展出所需的設備是否仍可使用？
 * 涉及那些開銷費用？ 由誰支付？
-
     </div>
   </li>
-
 </ul>
 
 
@@ -124,24 +106,19 @@ title: 媒體藝術借展
     <div class="collapsible-header">呈遞借展提案</div>
     <div class="collapsible-body" markdown="1">
     向出借單位提出借展要求時，借展人提供以下內容：
-
 * 極具說服力的論點
 * 展覽時程和所有展出場地
-
     </div>
   </li>
-
   <li>
     <div class="collapsible-header">考慮借展提案</div>
     <div class="collapsible-body" markdown="1">
     收到借展單位送來的請求後，出借單位應考慮：
-
 * 作品對展覽的貢獻
 * 作品是否可以出借
 * 作品的狀況
 * 借展單位安裝和維護作品的能力
 * 出借單位的資源限制，包含員工的工作時間
-
     </div>
   </li>
 
