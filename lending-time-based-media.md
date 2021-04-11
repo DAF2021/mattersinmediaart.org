@@ -1102,7 +1102,8 @@ Terms may be specified in the loan agreement:
 <li>
   <div class="collapsible-header">電工說明</div>
   <div class="collapsible-body" markdown="1">
-任何的電力組件（如插座、電線等），可以不經出借單位同意修改嗎？</div>
+任何的電力組件（如插座、電線等），可以不經出借單位同意修改嗎？
+</div>
 </li>
 
 <li>
@@ -1165,10 +1166,8 @@ Terms may be specified in the loan agreement:
 * 是否有任何易燃物？展場內有什麼防範措施？
 * 是否有完成風險評估？
 
-
 </div>
 </li>
-
 
 </ul>
 
@@ -1185,6 +1184,5 @@ Terms may be specified in the loan agreement:
 * 工作人員是否需要不同技能來處理作品中的實體物件？
 * 有沒有任何作品組件，需要配戴手套處理？
 * 什麼是最可能出錯的？
-
 
 </section>
