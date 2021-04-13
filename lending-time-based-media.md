@@ -11,7 +11,7 @@ title: 媒體藝術借展
 
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
 <span class="img-caption" markdown="1">
-圖說：2006年利物浦泰德美術館《布魯斯・諾曼：讓我想起我》展覽現場© Tate 2006
+2006年利物浦泰德美術館《布魯斯・諾曼：讓我想起我》展覽現場 © Tate 2006
 </span>
 
 ## 借展流程
@@ -151,7 +151,7 @@ title: 媒體藝術借展
   <div class="collapsible-header">核准借展提案</div>
   <div class="collapsible-body" markdown="1">
 
-#### 借展
+#### 借展單位
 條款可在借展合約中指定：
 
 * 經費預算檢視
