@@ -12,7 +12,7 @@ title: 關於媒體藝術事務
 
 ![](img/paik.jpg)
 <span class="img-caption" markdown="1">
-白南準 Untitled (1993)。鋼琴、15台電視機、2台攝影機、2台鐳射光碟播放器、1盞電燈與燈泡和電線，整體約8′ 4″ x 8′ 9″ x 48″ （254 x 266.7 x 121.9公分），包括鐳射光碟播放器和燈。紐約現代藝術博物館。Bernhill基金、Gerald S. Elliot基金、Margot Paul Ernst的捐贈和購買。©2013白南準資產管理
+白南準 Untitled (1993)。鋼琴、15台電視機、2台攝影機、2台鐳射光碟播放器、1盞電燈與燈泡和電線，整體約8′ 4″ x 8′ 9″ x 48″ （254 x 266.7 x 121.9公分），包括鐳射光碟播放器和燈。紐約現代藝術博物館。Bernhill 基金、Gerald S. Elliot 基金、Margot Paul Ernst 的捐贈和購買。©2013白南準資產管理
 </span>
 
 </section>
@@ -43,9 +43,9 @@ title: 關於媒體藝術事務
 
 我們歡迎任何對這個主題有興趣的人向 mattersinmediaart.org 提供內容、回饋和貢獻。為 mattersinmediaart.org 提供貢獻並不需要任何的技術專長，因為貢獻方式分為兩種，其中一種相當簡單！
 
-第一種，也是最簡單的貢獻方式，就是在 [GitHub頁面](https://github.com/matters-in-media-art/mattersinmediart.org/issues)上「回報問題」。GitHub問題可以被用在討論內容或功能性方面的錯誤或問題，並提供我們討論問題的對話。 [點選這裡參閱在Github上回報問題的操作指南。](https://help.github.com/articles/creating-an-issue/)
+第一種，也是最簡單的貢獻方式，就是在 [GitHub 頁面](https://github.com/matters-in-media-art/mattersinmediart.org/issues)上「回報問題」。GitHub 問題可以被用在討論內容或功能性方面的錯誤或問題，並提供我們討論問題的對話。 [點選這裡參閱在 Github 上回報問題的操作指南。](https://help.github.com/articles/creating-an-issue/)
 
-第二種回饋mattersinmediaart.org的方式，則是編輯網站內容或原始碼，並將編輯內容透過GitHub上「pull request」的機制傳送內容以供審核。 [點選這裡參閱傳送pull request的操作指南。](https://help.github.com/articles/using-pull-requests/)
+第二種回饋 mattersinmediaart.org 的方式，則是編輯網站內容或原始碼，並將編輯內容透過 GitHub 上「pull request」的機制傳送內容以供審核。 [點選這裡參閱傳送 pull request 的操作指南。](https://help.github.com/articles/using-pull-requests/)
 
 <!--
 
@@ -125,7 +125,7 @@ George Gawlinski
 
 最後，我們要感謝Pam和Dick Kramlich以及新藝術信託的董事們，他們對媒體藝術的承諾使這個計畫得以落實。
 
-### 繁體中文翻譯計畫團隊成員
+### 繁體中文翻譯計畫團隊
 * 臺灣數位藝術基金會 科技藝術典藏基礎計畫｜Save Media Art Project, Taiwan DigitalArt Foundation
 * 計畫主持人：陳禹先
 * 計畫國際交流主任：林子荃
