@@ -51,14 +51,14 @@ published: true
 
 
 
-<a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
+<a href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
   <div class="card grey lighten-3">
     <div class="card-content grey lighten-3 text">
       <span class="card-title"><font color="#00e676">調查：界定你的數位藏品範圍</font></span>
       <p>這項調查旨在幫助你了解數位藏品的大致狀況，儘管這幾頁僅涉及數位錄像的需求，但其他類型的數位藝術作品或數位組件的存在也會影響既有系統的決策，例如儲存需求。</p>
     </div> <!-- end of card-content -->
     <div class="col s12">
-    <a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
+    <a href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
       <div class="chip"><i class="large material-icons">play_for_work</i>藏品調查
         </div>
         </a>
@@ -293,7 +293,7 @@ published: true
 
 我們建立了一個excel工作表單，讓你可以輸入開銷並計算總額，且以時間圖表的形式呈現：
 <div class="col s12">
-<a href="{{ site.url }}/downloads/MMA_budget_template.xlsx">
+<a href="({{ site.url }}/mattersinmediaart.org/downloads/MMA_budget_template.xlsx">
   <div class="chip"><i class="large material-icons">play_for_work</i>經費預算表</div>
     </a>
     </div>
