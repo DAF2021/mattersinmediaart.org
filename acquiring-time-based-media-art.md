@@ -257,14 +257,14 @@ title: "取得媒體藝術作品"
 ### 入藏前置作業範本
 
 <div class="col s12">
-<a href="{{ site.url }}/downloads/installationinstructions_1.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/installationinstructions_1.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>裝置規格說明
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_costassessmenttemplate.xls">
   <div class="chip"><i class="large material-icons">play_for_work</i>費用開支評估
     </div>
     </a>
@@ -368,7 +368,7 @@ title: "取得媒體藝術作品"
 <tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
-<a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_copyrightlicense.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>授權同意書
     </div>
     </a>
@@ -386,7 +386,7 @@ title: "取得媒體藝術作品"
 <tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
-<a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_purchaseagreement.rtf">
 <div class="chip"><i class="large material-icons">play_for_work</i>購買同意書
 </div>
 </a>
