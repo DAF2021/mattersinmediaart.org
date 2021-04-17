@@ -13,7 +13,7 @@ title: "媒體藝術文件化"
 ![](img/IMG_4848_2.jpg)
 
 <span class="img-caption" markdown="1">
-新藝術信託的艾柏莉克‧柯爾曼（Aebhric Coleman）和舊金山現代藝術博物館的史提夫‧戴（Steve Dye）正在紀錄白南準（Nam June Paik）1989年之作品〈電視佛陀〉（TV Buddha）。照片提供：舊金山現代藝術博物館</span>
+新藝術信託的艾柏莉克‧柯爾曼（Aebhric Coleman）和舊金山現代藝術博物館的史提夫‧戴（Steve Dye）正在紀錄白南準（Nam June Paik）1989年之作品《電視佛陀》(TV Buddha)。照片提供：舊金山現代藝術博物館</span>
 
 
 <div id="post-acq-slider-1" class="liquid-slider"> <!-- start of slider -->
@@ -43,7 +43,7 @@ title: "媒體藝術文件化"
 
 * 專用的展示設備：（例如螢幕、顯示器、投影機、喇叭、重播  設備、燈光、相機）。記錄廠商名稱及型號編號，並收集所有設備的產品使用手冊。
 
-* 實用網站：[Mona Jimenez：藝術家儀器資料庫](http://www.fondation-langlois.org/html/e/page.php?NumPage=708){:target="_blank"}
+* 實用網站：[莫娜・吉梅內斯 (Mona Jimenez)：藝術家儀器資料庫](http://www.fondation-langlois.org/html/e/page.php?NumPage=708){:target="_blank"}
 
 * 雕塑組件：測量並記錄所有的安裝物件。
 
@@ -65,7 +65,7 @@ title: "媒體藝術文件化"
 
 ## 媒體藝術編目
 
-供媒體裝置使用的媒體藝術編目紀錄，包含了龐大且可能較難以管理的資訊。透過以下的指南說明，你可以在媒體藝術作品的紀錄中找到其材料類型，以及獲得如何在你的檔案及資料夾裡進行資料管理和分類的建議方式。在這裡閱讀更多關於[藏品管理系統]({{ site.url }}/mattersinmediaart.org/sustaining-your-collection.html#Review-Collection-Management-Systems){:target="_blank"} 的資訊。
+供媒體裝置使用的媒體藝術編目紀錄，包含了龐大且可能較難以管理的資訊。透過以下的指南說明，你可以在媒體藝術作品的紀錄中找到其材料類型，以及獲得如何在你的檔案及資料夾裡進行資料管理和分類的建議方式。在這裡閱讀更多關於 [藏品管理系統]({{ site.url }}/mattersinmediaart.org/sustaining-your-collection.html#Review-Collection-Management-Systems){:target="_blank"} 的資訊。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
