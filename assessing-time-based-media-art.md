@@ -746,7 +746,7 @@ PC Users:
 
 <div class="card-content grey lighten-3 text">
 <table class="highlight" style="padding: 6px 5px !important; font-weight: lighter; font-size: 17px">
-    <thead>
+    <thead STYLE="border-bottom: none">
     <tr><th style="padding-left: 0rem; text-align: left">
     <span class="card-title"> <font color="#00e676"> Mediainfo 報告</font></span><p>影像</p></th><th></th></tr>
     </thead>
