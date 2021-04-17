@@ -150,11 +150,13 @@ title: 媒體藝術借展
 <li>
   <div class="collapsible-header">核准借展提案</div>
   <div class="collapsible-body" markdown="1">
-借展單位  
+<h4 style="padding-left:1rem">借展單位</h4>
+
 條款可在借展合約中指定：
 * 經費預算檢視
 * 歸還完成的借展合約及場館設施報告
-出借單位  
+<h4 style="padding-left:1rem">出借單位</h4>
+  
 * 批准場館設施報告
 * 制定預算
 * 提供裝置說明書
@@ -165,7 +167,8 @@ title: 媒體藝術借展
 <li>
   <div class="collapsible-header">檢視布展及安裝相關文件</div>
   <div class="collapsible-body" markdown="1">
-借展單位  
+<h4 style="padding-left:1rem">借展單位</h4>
+
 * 研究討論裝置說明書
 * 完成預算制定
 
