@@ -390,8 +390,8 @@ title: "媒體藝術文件化"
   <div class="collapsible-body">
   	<p>
   		亮度、色度、色彩空間和伽瑪校正都是影像品質評估的關鍵特點
-  	</p>
     <strong>視覺檢測工具</strong>
+  	</p>
    <ul>
     <li>監看顯示器（SD標準畫質v.s. HD高畫質）</li>
     <li>示波器</li>

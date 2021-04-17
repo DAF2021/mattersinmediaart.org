@@ -143,8 +143,8 @@ font-size: 17px;
 }
 
 .container .s12 ul{
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
+    /*-webkit-margin-before: 1em;*/
+    /*-webkit-margin-after: 1em;*/
     -webkit-margin-start: 1px;
     -webkit-margin-end: 1px;
     -webkit-padding-start: 18px;
