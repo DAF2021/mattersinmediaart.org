@@ -237,9 +237,9 @@ img {
   list-style-type: none !important;
 }
 
-.collapsible p{
-  padding-bottom: 0rem;
-}
+/*.collapsible p{*/
+/*  padding-bottom: 0rem;*/
+/*}*/
 
 .table-of-contents{
   list-style: none;
@@ -6490,7 +6490,9 @@ a.waves-effect .waves-ripple {
   box-sizing: border-box; }
   .collapsible-body p {
     margin: 0;
-    padding: 1rem; }
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
 
 .side-nav .collapsible {
   border: none;
