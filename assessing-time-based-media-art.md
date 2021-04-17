@@ -744,11 +744,11 @@ PC Users:
 
 如果檔案包裝(Wrapper)和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份MediaInfo報告中的「影像」類別所顯示：
 
-<span class="card-title"> <font color="#00e676"> Mediainfo 報告</font></span>
 <div class="card-content grey lighten-3 text">
-<table class="assessment highlight">
+<table class="highlight" style="padding: 6px 5px !important; font-weight: lighter; font-size: 17px">
     <thead>
-    <tr><th style="padding-left: 0rem; text-align: left">影像</th><th></th></tr>
+    <tr><th style="padding-left: 0rem; text-align: left">
+    <span class="card-title"> <font color="#00e676"> Mediainfo 報告</font></span><p>影像</p></th><th></th></tr>
     </thead>
     <tbody>
     <tr><td>識別字</td><td>: 1</td></tr>
