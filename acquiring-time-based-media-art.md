@@ -12,7 +12,7 @@ title: "取得媒體藝術作品"
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/eija-liisaahtila_annieakiegod_1998_0.jpg?itok=lJxaLd3A)
 
 <span class="img-caption" markdown="1">
-艾嘉-麗莎．阿提拉（Eija-Liisa Ahtila），《安妮，阿基和神》（1998），©艾嘉-麗莎．阿提拉（Eija-Liisa Ahtila）
+艾嘉-麗莎．阿提拉（Eija-Liisa Ahtila），《安妮，阿基和神》(1998)，©艾嘉-麗莎．阿提拉（Eija-Liisa Ahtila）
 </span>
 
 
@@ -108,7 +108,7 @@ title: "取得媒體藝術作品"
 <section id="pre-gather" class="section scrollspy" markdown="1">
 
 ### 獲取詳細資料
-當團隊/資源建立以後，策展人/收藏者將提出擬定的入藏。以下資料可以在組織內部和外部收集到。指定一個人作為該過程的協調者，在某些情況下，作品登錄可以在入藏前就開始（請參閱入藏後置作業階段的說明）。在進行入藏之前，請先思考以下各節開頭的關鍵問題。
+當團隊／資源建立以後，策展人／收藏者將提出擬定的入藏。以下資料可以在組織內部和外部收集到。指定一個人作為該過程的協調者，在某些情況下，作品登錄可以在入藏前就開始（請參閱入藏後置作業階段的說明）。在進行入藏之前，請先思考以下各節開頭的關鍵問題。
 
 <div id="eq-slider" class="liquid-slider">
 
@@ -116,7 +116,7 @@ title: "取得媒體藝術作品"
 <h2 class="title">設備</h2>
 <h2>設備</h2>
 
-* 有提供哪些設備，又有哪些是必須被購買的（又需要多少開支？
+* 有提供哪些設備，又有哪些是必須被購買的（又需要多少開支）？
 * 設備對於作品有多特定？將來是否會遇到挑戰？
 * 最低程度的必要技術專業是什麼？
 
@@ -155,7 +155,7 @@ title: "取得媒體藝術作品"
 * 安裝和維持作品運作需要哪些專業技能？
 * 安裝裝置和運作作品的費用開支是多少？
 * 查看裝置規格說明並確認是否有足夠的詳細資料來妥善地安裝作品。
-* 裝置規格說明範本可以作為你要收集的資料的起點
+* 裝置規格說明範本可以作為你要收集的資料的起點。
 * 如有必要，請準備其他問題向藝術家/工作室或藝廊詢問，以獲取所需資料。
 
 </div>            
@@ -172,7 +172,7 @@ title: "取得媒體藝術作品"
 ![Photo of conservator assessing a video]({{site.baseurl}}/img/assessment.jpg)
 
 <span class="img-caption" markdown="1">
-紐約現代藝術博物館的Glenn Wharton和Peter Oleksik預覽數位影片。數位圖像©紐約現代藝術博物館。
+紐約現代藝術博物館的格倫・沃頓(Glenn Wharton)和彼得‧奧萊克希克(Peter Oleksik)預覽數位影片。數位圖像©紐約現代藝術博物館。
 </span>
 
 
@@ -257,14 +257,14 @@ title: "取得媒體藝術作品"
 ### 入藏前置作業範本
 
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/installationinstructions_1.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/installationinstructions_1.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>裝置規格說明
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_costassessmenttemplate.xls">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_costassessmenttemplate.xls">
   <div class="chip"><i class="large material-icons">play_for_work</i>費用開支評估
     </div>
     </a>
@@ -332,7 +332,7 @@ title: "取得媒體藝術作品"
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>保障和檢查保護材料</h2>
-在入藏前置作業階段，任何在登錄階段為製作保護材料所需的工作項目將已經確認。在某些情況下，供應者會在購藏中提供保護材；在其他情況下，接收者可以監督製作和為所需材料支付費用。這些討論最好在協商的初期提出，一旦完成付款和完成入藏，便有可能難以回頭要求存取母帶/母材料或取得以保存為目的製作副本的權利。為了幫助你確保擁有將來可以繼續展示作品所需的條件，建議在登錄作品前完成所有歸檔；在法律文件中清楚說明後續一連串可能的訪問與聯繫也很有幫助，例如購買同意書。如果作品為被捐贈而來，你則可能需要回去向藝術家索取資母帶/母材料
+在入藏前置作業階段，任何在登錄階段為製作保護材料所需的工作項目將已經確認。在某些情況下，供應者會在購藏中提供保護材；在其他情況下，接收者可以監督製作和為所需材料支付費用。這些討論最好在協商的初期提出，一旦完成付款和完成入藏，便有可能難以回頭要求存取母帶/母材料或取得以保存為目的製作副本的權利。為了幫助你確保擁有將來可以繼續展示作品所需的條件，建議在登錄作品前完成所有歸檔；在法律文件中清楚說明後續一連串可能的訪問與聯繫也很有幫助，例如購買同意書。如果作品為被捐贈而來，你則可能需要回去向藝術家索取母帶/母材料。
 
 在入藏過程中查看你因購藏而獲得的保存材料很重要，才能檢查狀況是否符合你的預期，購藏獲得的媒體元件與任何設備皆沒有聞所未聞的問題。如果一筆購藏有提供設備，請檢查你關於設備的保固維修情況。
 </div>
@@ -368,7 +368,7 @@ title: "取得媒體藝術作品"
 <tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_copyrightlicense.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_copyrightlicense.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>授權同意書
     </div>
     </a>
@@ -386,7 +386,7 @@ title: "取得媒體藝術作品"
 <tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_deedofgift.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_deedofgift.doc">
 <div class="chip"><i class="large material-icons">play_for_work</i>捐贈同意書
 </div>
 </a>
@@ -401,7 +401,7 @@ title: "取得媒體藝術作品"
 <tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_purchaseagreement.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_purchaseagreement.rtf">
 <div class="chip"><i class="large material-icons">play_for_work</i>購買同意書
 </div>
 </a>
@@ -409,7 +409,7 @@ title: "取得媒體藝術作品"
 </td>
 <td style="vertical-align: top; padding-top: 0px;">
 <p>
-一份藝術作品賣方與買方之間管制銷售條款的契約。此範本可改編來應用於有多個買方的情況（即，有時被稱為共同所有權契約的聯合購藏約定，並必須與相關的共同所有權協議被共同擁有者完成審查。）
+一份藝術作品賣方與買方之間管制銷售條款的契約。此範本可改編來應用於有多個買方的情況。（即，有時被稱為共同所有權契約的聯合購藏約定，並必須與相關的共同所有權協議被共同擁有者完成審查。）
 </p>
 </td>
 </tr>
