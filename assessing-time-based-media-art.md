@@ -39,11 +39,11 @@ title: "媒體藝術文件化"
 
 * 媒體：例如錄像、聲音、電影、幻燈片、硬碟。
 
-* 實用網站: [EAI線上資源指南](http://www.eai.org/resourceguide/formats.html)、 [德州委員會錄影帶識別及檢視指南](http://www.arts.state.tx.us/video/) 、[獨立媒體藝術保存（IMAP）編目計畫](http://www.imappreserve.org/cat_proj/)
+* 實用網站: [EAI線上資源指南](http://www.eai.org/resourceguide/formats.html){:target="_blank"}、 [德州委員會錄影帶識別及檢視指南](http://www.arts.state.tx.us/video/){:target="_blank"} 、[獨立媒體藝術保存（IMAP）編目計畫](http://www.imappreserve.org/cat_proj/){:target="_blank"}
 
 * 專用的展示設備：（例如螢幕、顯示器、投影機、喇叭、重播  設備、燈光、相機）。記錄廠商名稱及型號編號，並收集所有設備的產品使用手冊。
 
-* 實用網站：[Mona Jimenez：藝術家儀器資料庫](http://www.fondation-langlois.org/html/e/page.php?NumPage=708)
+* 實用網站：[Mona Jimenez：藝術家儀器資料庫](http://www.fondation-langlois.org/html/e/page.php?NumPage=708){:target="_blank"}
 
 * 雕塑組件：測量並記錄所有的安裝物件。
 
@@ -208,9 +208,9 @@ title: "媒體藝術文件化"
 <h2>安排藝術家訪談</h2>
 藝術家訪談可能包含與藝術家、技術人員、作品所有權人、美術館館員和其他熟悉作品相關人員的對話。訪談目標為蒐集作品過往的技術資料、展覽需求、藝術家創作動機和技術過時等資訊。
 
-(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網INCCA網站](http://www.incca.org/))
+(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網INCCA網站](http://www.incca.org/)){:target="_blank"}
 
-建立訪談檔案紀錄。若此紀錄可以公開分享，有利於其他同業參考，可考量加入國際當代藝術保存網（INCCA），並將訪談摘要保存於 [INCCA藝術家檔案資料庫中](http://www.incca.org/)
+建立訪談檔案紀錄。若此紀錄可以公開分享，有利於其他同業參考，可考量加入國際當代藝術保存網（INCCA），並將訪談摘要保存於 [INCCA藝術家檔案資料庫中](http://www.incca.org/){:target="_blank"}
 </div>
 
 <div markdown="1">
@@ -225,8 +225,8 @@ title: "媒體藝術文件化"
 
 關於保存媒體作品的相關資訊，可參考以下網站：
 
-* [EAI線上資源指南—媒體藝術的展示、收藏及保存](http://www.eai.org/resourceguide/)
-* [獨立媒體藝術保存（IMAP）Preservation 101](http://www.imappreserve.org/pres_101/index.html)
+* [EAI線上資源指南—媒體藝術的展示、收藏及保存](http://www.eai.org/resourceguide/){:target="_blank"}
+* [獨立媒體藝術保存（IMAP）Preservation 101](http://www.imappreserve.org/pres_101/index.html){:target="_blank"}
 
 </div>
 
@@ -274,84 +274,84 @@ title: "媒體藝術文件化"
 -->
 
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/structure_and_condition_reports.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>結構與狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>錄像（Video）作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>聲音作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像（Film）作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦的作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦作品的設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>播放裝置展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>投影展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>螢幕展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像放映展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片投影展示設備
     </div>
     </a>
