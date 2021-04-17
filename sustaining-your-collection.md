@@ -51,14 +51,14 @@ published: true
 
 
 
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
+<a target="_blank" href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
   <div class="card grey lighten-3">
     <div class="card-content grey lighten-3 text">
       <span class="card-title"><font color="#00e676">調查：界定你的數位藏品範圍</font></span>
       <p>這項調查旨在幫助你了解數位藏品的大致狀況，儘管這幾頁僅涉及數位錄像的需求，但其他類型的數位藝術作品或數位組件的存在也會影響既有系統的決策，例如儲存需求。</p>
     </div> <!-- end of card-content -->
     <div class="col s12">
-    <a href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
+    <a target="_blank" href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
       <div class="chip"><i class="large material-icons">play_for_work</i>藏品調查
         </div>
         </a>
@@ -225,7 +225,7 @@ published: true
 
 無論你是私人收藏家還是大型機構，收藏和維護數位藝術都涉及了大量成本。在衡量預算時，要考慮兩種不同類型的成本：資金成本（一次性購買基本的基礎設施或工具，理論上將持續使用數年）以及持續性或經常性成本，這將成為經常性營運預算的一部分，可能會隨著你收藏的增長而增加。
 
-根據[調查問卷]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection)結果, 你可以開始規劃所需的儲藏空間和估算數位保存、基礎設施和支援的成本，成本範圍從編列硬碟預算到讓資訊工程師開發強大的檔案資料庫。
+根據[調查問卷]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection){:target="_blank"}結果, 你可以開始規劃所需的儲藏空間和估算數位保存、基礎設施和支援的成本，成本範圍從編列硬碟預算到讓資訊工程師開發強大的檔案資料庫。
 
 為了要制訂預算，你將會需要收集以下內容：
 
@@ -293,7 +293,7 @@ published: true
 
 我們建立了一個excel工作表單，讓你可以輸入開銷並計算總額，且以時間圖表的形式呈現：
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/MMA_budget_template.xlsx">
+<a target="_blank" href="({{ site.url }}/mattersinmediaart.org/downloads/MMA_budget_template.xlsx">
   <div class="chip"><i class="large material-icons">play_for_work</i>經費預算表</div>
     </a>
     </div>
