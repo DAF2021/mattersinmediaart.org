@@ -514,9 +514,9 @@ title: "媒體藝術文件化"
         <thead>
           <tr>
               <th data-field="id"></th>
-              <th data-field="name">初階</th>
-              <th data-field="price">進階</th>
-              <th data-field="price">專業</th>
+              <th data-field="name" style="width:150px">初階</th>
+              <th data-field="price" style="width:150px">進階</th>
+              <th data-field="price" style="width:150px">專業</th>
           </tr>
         </thead>
         <tbody>
@@ -745,7 +745,7 @@ PC Users:
 如果檔案包裝(Wrapper)和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份MediaInfo報告中的「影像」類別所顯示：
 
 <span class="card-title"> <font color="#00e676"> Mediainfo 報告</font></span>
-
+<div class="card-content grey lighten-3 text">
 <table class="assessment bordered highlight">
     <thead>
     <tr><th>影像</th><th></th></tr>
@@ -783,7 +783,7 @@ PC Users:
     <tr><td>色域</td><td>Limited</td></tr>
     </tbody>
 </table>
-
+</div>
 
 在這個例子中，有三個地方要注意的是：
 
