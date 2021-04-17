@@ -1052,7 +1052,7 @@ Terms may be specified in the loan agreement:
 
 ### 備用品和耗材
 
-* 輸入濾網、燈泡等耗材的細節。在安裝之前，請查明燈泡和濾網的使用時數期限，製造商擁有這些資料。然而，耗材的損耗度也取決於展間的落塵量和設備如何開和關。在 [預算計算表]{{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls)  中輸入預估費用，並確保手邊有備用品。
+* 輸入濾網、燈泡等耗材的細節。在安裝之前，請查明燈泡和濾網的使用時數期限，製造商擁有這些資料。然而，耗材的損耗度也取決於展間的落塵量和設備如何開和關。在 [預算計算表]({{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls)  中輸入預估費用，並確保手邊有備用品。
 * 設備故障－如果發生這種情況，你手邊會有什麼樣的備品？通知出借單位的程序為何？借展單位有權利處理什麼呢？
 
 ### 關鍵品質／關鍵需求
