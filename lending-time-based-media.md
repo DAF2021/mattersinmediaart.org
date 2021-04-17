@@ -307,9 +307,7 @@ Terms may be specified in the loan agreement:
   <div class="collapsible-body" markdown="1">
 
 * 完成作品安裝後，和所有利害關係者舉行會議同意裝置已完成。
-
-哪些展示時監看作品的人員需要知道：
-
+* 哪些展示時監看作品的人員需要知道：
 * 作品運作正常時的外觀和如何辨識故障情況
 * 回報作品故障的流程
 * 作品開啟和關閉的流程
