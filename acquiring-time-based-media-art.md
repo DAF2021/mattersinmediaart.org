@@ -12,7 +12,7 @@ title: "取得媒體藝術作品"
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/eija-liisaahtila_annieakiegod_1998_0.jpg?itok=lJxaLd3A)
 
 <span class="img-caption" markdown="1">
-艾嘉-麗莎．阿提拉（Eija-Liisa Ahtila），《安妮，阿基和神》(1998)，©艾嘉-麗莎．阿提拉（Eija-Liisa Ahtila）
+艾嘉-麗莎．阿提拉 (Eija-Liisa Ahtila)，《安妮，阿基和神》(1998)，©艾嘉-麗莎．阿提拉
 </span>
 
 
@@ -30,7 +30,7 @@ title: "取得媒體藝術作品"
 ## 入藏前置作業
 
 * 我需要哪些資訊來決定作品入藏的可能性？
-* 我如何估算擁有這件作品的開支費用?什麼資訊以決定可能的入藏？
+* 我如何估算擁有這件作品的開支費用？什麼資訊以決定可能的入藏？
 * 有那些母檔案材料和設備需要一起入藏？
 
 媒體藝術入藏前置作業的重點在決定是否要購入這件藝術作品。
