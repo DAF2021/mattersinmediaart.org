@@ -259,99 +259,99 @@ title: "媒體藝術文件化"
 在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書為未來的作品檢視提供了對照基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，因其部分組件可能較易取得，並可以替換。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容就予以定義。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯（Joanna Phillip）的[時基媒體修復專文](http://www.guggenheim.org/conservation/time-based-media)。
 
 <!-- previous layout:
-* [結構與狀況報告]({{ site.url }}/mattersinmediaart.org/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
-* [錄像（Video）作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf) (RTF, 81KB)
-* [聲音作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf) (RTF, 77KB)
-* [膠卷影像（Film）作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf) (RTF, 103KB)
-* [幻燈片作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf) (RTF, 92KB)
-* [基於電腦的作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf) (RTF, 73KB)
-* [基於電腦作品的設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf) (RTF, 92KB)
-* [播放裝置展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf) (RTF, 102KB)
-* [投影展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf) (RTF, 125KB)
-* [螢幕展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf) (RTF, 122KB)
-* [膠卷影像放映展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf) (RTF, 114KB)
-* [幻燈片投影展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf) (RTF, 114KB)
+* [結構與狀況報告]({{ site.url }}/mattersinmediaart.org/downloads/structure_and_condition_reports.rtf){:target="_blank"} (RTF, 180KB)
+* [錄像（Video）作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf){:target="_blank"} (RTF, 81KB)
+* [聲音作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf){:target="_blank"} (RTF, 77KB)
+* [膠卷影像（Film）作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf){:target="_blank"} (RTF, 103KB)
+* [幻燈片作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf){:target="_blank"} (RTF, 92KB)
+* [基於電腦的作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf){:target="_blank"} (RTF, 73KB)
+* [基於電腦作品的設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf){:target="_blank"} (RTF, 92KB)
+* [播放裝置展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf){:target="_blank"} (RTF, 102KB)
+* [投影展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf){:target="_blank"} (RTF, 125KB)
+* [螢幕展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf){:target="_blank"} (RTF, 122KB)
+* [膠卷影像放映展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf){:target="_blank"} (RTF, 114KB)
+* [幻燈片投影展示設備]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf){:target="_blank"} (RTF, 114KB)
 -->
 
 <div class="col s12">
-<a href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>結構與狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>錄像（Video）作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>聲音作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像（Film）作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦的作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦作品的設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>播放裝置展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>投影展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>螢幕展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像放映展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
+<a target="_blank" href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片投影展示設備
     </div>
     </a>
