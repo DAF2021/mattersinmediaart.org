@@ -230,6 +230,7 @@ img {
 .collapsible ul{
   list-style-type: none !important;
   padding-bottom: 1rem;
+  padding-top: 1rem;
 }
 
 .collapsible li{
