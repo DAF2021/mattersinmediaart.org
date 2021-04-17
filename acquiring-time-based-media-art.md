@@ -172,7 +172,7 @@ title: "取得媒體藝術作品"
 ![Photo of conservator assessing a video]({{site.baseurl}}/img/assessment.jpg)
 
 <span class="img-caption" markdown="1">
-紐約現代藝術博物館的格倫・沃頓(Glenn Wharton)和彼得‧奧萊克希克(Peter Oleksik)預覽數位影片。數位圖像©紐約現代藝術博物館。
+紐約現代藝術博物館的格倫・沃頓 (Glenn Wharton) 和彼得‧奧萊克希克 (Peter Oleksik) 預覽數位影片。數位圖像©紐約現代藝術博物館。
 </span>
 
 
