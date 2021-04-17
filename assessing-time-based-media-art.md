@@ -514,9 +514,9 @@ title: "媒體藝術文件化"
         <thead>
           <tr>
               <th data-field="id"></th>
-              <th data-field="name" style="width:150px">初階</th>
-              <th data-field="price" style="width:150px">進階</th>
-              <th data-field="price" style="width:150px">專業</th>
+              <th data-field="name" style="width:100px">初階</th>
+              <th data-field="price" style="width:100px">進階</th>
+              <th data-field="price" style="width:100px">專業</th>
           </tr>
         </thead>
         <tbody>
@@ -746,9 +746,9 @@ PC Users:
 
 <span class="card-title"> <font color="#00e676"> Mediainfo 報告</font></span>
 <div class="card-content grey lighten-3 text">
-<table class="assessment bordered highlight">
+<table class="assessment highlight">
     <thead>
-    <tr><th>影像</th><th></th></tr>
+    <tr><th style="padding-left: 0rem; text-align: left">影像</th><th></th></tr>
     </thead>
     <tbody>
     <tr><td>識別字</td><td>1</td></tr>
