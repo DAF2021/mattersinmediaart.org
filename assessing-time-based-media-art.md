@@ -751,36 +751,36 @@ PC Users:
     <tr><th style="padding-left: 0rem; text-align: left">影像</th><th></th></tr>
     </thead>
     <tbody>
-    <tr><td>識別字</td><td>1</td></tr>
-    <tr><td>格式</td><td>AVC</td></tr>
-    <tr><td>格式／相關資訊</td><td>Advanced Video Codec</td></tr>
-    <tr><td>格式類型</td><td>Main@L4.0</td></tr>
-    <tr><td>格式設定_CABAC/String</td><td>No</td></tr>
-    <tr><td>格式設定_RefFrames/String</td><td>2 frames</td></tr>
-    <tr><td>格式設定_GOP</td><td>M=1, N=50</td></tr>
-    <tr><td>編解碼器識別字</td><td>avc1</td></tr>
-    <tr><td>編解碼器識別字/Info</td><td>Advanced Video Coding</td></tr>
-    <tr><td>時間長度/String</td><td>2mn 57s</td></tr>
-    <tr><td>流量/String</td><td>4 925 Kbps</td></tr>
-    <tr><td>畫面寬度/String</td><td>1 920 pixels</td></tr>
-    <tr><td>畫面高度/String</td><td>1 080 pixels</td></tr>
-    <tr><td>顯示長寬比例/String</td><td>16:9</td></tr>
-    <tr><td>顯示長寬比例/String</td><td>16:9</td></tr>
-    <tr><td>影格頻率模式/String</td><td>Constant</td></tr>
-    <tr><td>影格頻率/String</td><td>25.000 fps</td></tr>
-    <tr><td>色彩空間</td><td>YUV</td></tr>
-    <tr><td>掃描型態</td><td>4:2:0</td></tr>
-    <tr><td>BitDepth/String</td><td>8 bits</td></tr>
-    <tr><td>掃描型態/String</td><td>Progressive</td></tr>
-    <tr><td>位元 (像素*影格)</td><td>0.095</td></tr>
-    <tr><td>串流大小/String</td><td>104 MiB (98%)</td></tr>
-    <tr><td>語系/String</td><td>English</td></tr>
-    <tr><td>編碼日期</td><td>UTC 2014-03-27 11:47:51</td></tr>
-    <tr><td>標記日期</td><td>UTC 2014-03-27 11:55:51</td></tr>
-    <tr><td>色彩原色</td><td>BT.709</td></tr>
-    <tr><td>傳輸特性</td><td>BT.709</td></tr>
-    <tr><td>矩陣係數</td><td>BT.601</td></tr>
-    <tr><td>色域</td><td>Limited</td></tr>
+    <tr><td>識別字</td><td>: 1</td></tr>
+    <tr><td>格式</td><td>: AVC</td></tr>
+    <tr><td>格式／相關資訊</td><td>: Advanced Video Codec</td></tr>
+    <tr><td>格式類型</td><td>: Main@L4.0</td></tr>
+    <tr><td>格式設定_CABAC/String</td><td>: No</td></tr>
+    <tr><td>格式設定_RefFrames/String</td><td>: 2 frames</td></tr>
+    <tr><td>格式設定_GOP</td><td>: M=1, N=50</td></tr>
+    <tr><td>編解碼器識別字</td><td>: avc1</td></tr>
+    <tr><td>編解碼器識別字/Info</td><td>: Advanced Video Coding</td></tr>
+    <tr><td>時間長度/String</td><td>: 2mn 57s</td></tr>
+    <tr><td>流量/String</td><td>: 4 925 Kbps</td></tr>
+    <tr><td>畫面寬度/String</td><td>: 1 920 pixels</td></tr>
+    <tr><td>畫面高度/String</td><td>: 1 080 pixels</td></tr>
+    <tr><td>顯示長寬比例/String</td><td>: 16:9</td></tr>
+    <tr><td>顯示長寬比例/String</td><td>: 16:9</td></tr>
+    <tr><td>影格頻率模式/String</td><td>: Constant</td></tr>
+    <tr><td>影格頻率/String</td><td>: 25.000 fps</td></tr>
+    <tr><td>色彩空間</td><td>: YUV</td></tr>
+    <tr><td>掃描型態</td><td>: 4:2:0</td></tr>
+    <tr><td>BitDepth/String</td><td>: 8 bits</td></tr>
+    <tr><td>掃描型態/String</td><td>: Progressive</td></tr>
+    <tr><td>位元 (像素*影格)</td><td>: 0.095</td></tr>
+    <tr><td>串流大小/String</td><td>: 104 MiB (98%)</td></tr>
+    <tr><td>語系/String</td><td>: English</td></tr>
+    <tr><td>編碼日期</td><td>: UTC 2014-03-27 11:47:51</td></tr>
+    <tr><td>標記日期</td><td>: UTC 2014-03-27 11:55:51</td></tr>
+    <tr><td>色彩原色</td><td>: BT.709</td></tr>
+    <tr><td>傳輸特性</td><td>: BT.709</td></tr>
+    <tr><td>矩陣係數</td><td>: BT.601</td></tr>
+    <tr><td>色域</td><td>: Limited</td></tr>
     </tbody>
 </table>
 </div>
