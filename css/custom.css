@@ -237,6 +237,10 @@ img {
   list-style-type: none !important;
 }
 
+.collapsible p{
+  padding-bottom: 0rem;
+}
+
 .table-of-contents{
   list-style: none;
   padding-left: 0;
