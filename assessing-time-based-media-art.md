@@ -496,7 +496,7 @@ title: "媒體藝術文件化"
 <li>
   <div class="collapsible-header"><i class="material-icons">perm_device_information</i>軟體</div>
   <div class="collapsible-body">
-  	<p>檢測數位影像素材的另一個關鍵，就是你所使用的軟體。最重要的是對所用之軟體有基本概念，理解如何運用其功能來播放影像檔案，並如實呈現檔案內容。一般的影像擷取和編輯軟體如Blackmagic的Media Express、Adobe Premiere和Final Cut Pro X，可以用來分析影像素材的每個部份，並深入評估其基本特性（亮度、色度和音訊）。其他免費工具如 <a href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> 也提供影像素材的深入分析，其開發亦是為了檔案保存社群使用。</p>
+  	<p>檢測數位影像素材的另一個關鍵，就是你所使用的軟體。最重要的是對所用之軟體有基本概念，理解如何運用其功能來播放影像檔案，並如實呈現檔案內容。一般的影像擷取和編輯軟體如Blackmagic的Media Express、Adobe Premiere和Final Cut Pro X，可以用來分析影像素材的每個部份，並深入評估其基本特性（亮度、色度和音訊）。其他免費工具如 <a target="_blank" href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> 也提供影像素材的深入分析，其開發亦是為了檔案保存社群使用。</p>
   </div>
 </li>
 <li>
