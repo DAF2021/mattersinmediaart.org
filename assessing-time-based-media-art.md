@@ -389,7 +389,7 @@ title: "媒體藝術文件化"
   <div class="collapsible-header"><i class="material-icons">visibility</i>視覺檢測</div>
   <div class="collapsible-body">
   	<p>
-  		亮度、色度、色彩空間和伽瑪校正都是影像品質評估的關鍵特點
+  		亮度、色度、色彩空間和伽瑪校正都是影像品質評估的關鍵特點<br>
     <strong>視覺檢測工具</strong>
   	</p>
    <ul>
