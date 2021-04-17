@@ -398,8 +398,6 @@ title: "取得媒體藝術作品"
 
 </table>
 
-
-
 [comment]: <> (<br>)
 
 [comment]: <> (<div class="col s13">)
@@ -416,17 +414,23 @@ title: "取得媒體藝術作品"
 
 [comment]: <> (一份紀念透過贈與轉讓藝術作品所有權的文件。這個範本假定了雙方之間的完全贈與，其可以改編來應用於有多個受贈者或部分贈與的情況。)
 
-<br>
-<div class="col s13">
-<a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>購買同意書
-    </div>
-    </a>
-    </div>
-一份藝術作品賣方與買方之間管制銷售條款的契約。此範本可改編來應用於有多個買方的情況（即，有時被稱為共同所有權契約的聯合購藏約定，並必須與相關的共同所有權協議被共同擁有者完成審查。）
-<br>
+[comment]: <> (<br>)
 
+[comment]: <> (<div class="col s13">)
 
+[comment]: <> (<a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">)
+
+[comment]: <> (  <div class="chip"><i class="large material-icons">play_for_work</i>購買同意書)
+
+[comment]: <> (    </div>)
+
+[comment]: <> (    </a>)
+
+[comment]: <> (    </div>)
+
+[comment]: <> (一份藝術作品賣方與買方之間管制銷售條款的契約。此範本可改編來應用於有多個買方的情況（即，有時被稱為共同所有權契約的聯合購藏約定，並必須與相關的共同所有權協議被共同擁有者完成審查。）)
+
+[comment]: <> (<br>)
 
 在簽訂契約之前，你將掌握有關作品的資料（請參閱入藏前置作業指引清單）。你也已經考慮了安裝細節、長期保存和展覽需求、未來技術的發展以及狀況評估。此時，你可能也希望保有你、新擁有者和著作權持有者之間的著作權許可證明。儘管藝術家通常保有該作品的著作權，但你可以保有以出版到保存等目的為範圍而生產圖像或製作作品副本的權利。每份契約文件的兩份正本會交由賣方簽名，各方應保留一份具有完整簽名的原始文件。
 
