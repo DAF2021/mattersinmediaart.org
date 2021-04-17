@@ -10,7 +10,7 @@ published: true
 
 ![](img/Mengbo.jpg)
 <span class="img-caption" markdown="1">
-馮夢波：《長征：重啟》（2008）。Video game (color, sound),電視遊戲（彩色，有聲），訂製電腦軟體和無線遊戲控制器。尺寸和時間長度視場地調整。紐約現代現代藝術博物館。匿名提供，2008。©2015馮夢波。展示圖，新遺產之場景：館藏當代藝術展，紐約現代藝術博物館（2015年3月7日至2016年4月10日）。數位圖像©2015紐約現代藝術博物館。攝影：Thomas Griesel。
+馮夢波：《長征：重啟》(2008)，電視遊戲（彩色，有聲），訂製電腦軟體和無線遊戲控制器。尺寸和時間長度視場地調整。紐約現代現代藝術博物館。匿名提供，2008。©2015馮夢波。裝置展示視角，新遺產之場景：館藏當代藝術展，紐約現代藝術博物館 (2015年3月7日至2016年4月10日)。數位圖像©2015紐約現代藝術博物館。攝影：托瑪士・格里瑟 (Thomas Griesel)。
 </span>
 
 <br>
@@ -58,7 +58,7 @@ published: true
       <p>這項調查旨在幫助你了解數位藏品的大致狀況，儘管這幾頁僅涉及數位錄像的需求，但其他類型的數位藝術作品或數位組件的存在也會影響既有系統的決策，例如儲存需求。</p>
     </div> <!-- end of card-content -->
     <div class="col s12">
-    <a target="_blank" href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
+    <a href="({{ site.url }}/mattersinmediaart.org/downloads/Survey_Scoping-your-collection.pdf">
       <div class="chip"><i class="large material-icons">play_for_work</i>藏品調查
         </div>
         </a>
@@ -78,15 +78,15 @@ published: true
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header">母檔案 (Masters)</div>
+  <div class="collapsible-header">母帶／母檔案 (Masters)</div>
   <div class="collapsible-body" markdown="1">
-母帶由藝術家、藝廊或捐贈者提供，可以是數位檔案、磁帶、膠卷、光碟或其他。
+母帶／母檔案由藝術家、藝廊或捐贈者提供，可以是數位檔案、磁帶、膠卷、光碟或其他。
 </div>
 </li>
 <li>
-  <div class="collapsible-header">保存母檔案 (Preservation Masters) </div>
+  <div class="collapsible-header">保存母帶／母檔案 (Preservation Masters) </div>
   <div class="collapsible-body" markdown="1">
-由機構或藝廊為保存目的而製作的藝術家母帶的副本或衍生品。這包含從母帶轉檔為母檔案。
+由機構或藝廊為保存目的而製作的藝術家母帶／母材料的副本或衍生品。這包含從磁帶轉檔為電子檔案。
 </div>
 </li>
 <li>
@@ -126,7 +126,7 @@ published: true
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Complex </font></h2>
 <h2> <font color="ef5350"> ______________________ </font></h2>
-「我們會保留從藝術家處收到的所有檔案。當我們為保存、展覽、借展等目的去創建衍生性檔案時，每個新檔案都會在我們的藏品管理系統中獲得一個組件編號，並且與創建這些檔案的相關詳細資料一起存在資料庫中。我們會有一個能進入數位資產管理系統(DAM)中的可存取副本，以便我們的員工可以直接查看藏品，而不需直接進入數位檔案資料庫。」
+「我們會保留從藝術家處收到的所有檔案。當我們為保存、展覽、借展等目的去創建衍生性檔案時，每個新檔案都會在我們的藏品管理系統中獲得一個組件編號，並且與創建這些檔案的相關詳細資料一起存在資料庫中。我們會有一個能進入數位資產管理系統 (DAM) 中的可存取副本，以便我們的員工可以直接查看藏品，而不需直接進入數位檔案資料庫。」
 <h2> <font color="ef5350"> ______________________ </font></h2>
 </div>
 
@@ -207,7 +207,7 @@ published: true
 
 <div markdown="1">
 <h2 class="title"></h2>
-「在資訊工程部門的協助下，我們擁有全職的媒體藝術保存維護師、助理媒體保存維護師和數位檔案資料庫經理。我們的影音技術部門負責展示設備的安裝和維護，我們還有幾位專門負責博物館系統TMS ，也就是藏品資料庫管理的工作人員。」
+「在資訊工程部門的協助下，我們擁有全職的媒體藝術保存維護師、助理媒體保存維護師和數位檔案資料庫經理。我們的影音技術部門負責展示設備的安裝和維護，我們還有幾位專門負責博物館系統 TMS ，也就是藏品資料庫管理的工作人員。」
 </div>
 </div>
 
@@ -225,7 +225,7 @@ published: true
 
 無論你是私人收藏家還是大型機構，收藏和維護數位藝術都涉及了大量成本。在衡量預算時，要考慮兩種不同類型的成本：資金成本（一次性購買基本的基礎設施或工具，理論上將持續使用數年）以及持續性或經常性成本，這將成為經常性營運預算的一部分，可能會隨著你收藏的增長而增加。
 
-根據[調查問卷]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection){:target="_blank"}結果, 你可以開始規劃所需的儲藏空間和估算數位保存、基礎設施和支援的成本，成本範圍從編列硬碟預算到讓資訊工程師開發強大的檔案資料庫。
+根據[調查問卷]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection)結果, 你可以開始規劃所需的儲藏空間和估算數位保存、基礎設施和支援的成本，成本範圍從編列硬碟預算到讓資訊工程師開發強大的檔案資料庫。
 
 為了要制訂預算，你將會需要收集以下內容：
 
@@ -291,9 +291,9 @@ published: true
 
 <br>
 
-我們建立了一個excel工作表單，讓你可以輸入開銷並計算總額，且以時間圖表的形式呈現：
+我們建立了一個 excel 工作表單，讓你可以輸入開銷並計算總額，且以時間圖表的形式呈現：
 <div class="col s12">
-<a target="_blank" href="({{ site.url }}/mattersinmediaart.org/downloads/MMA_budget_template.xlsx">
+<a href="({{ site.url }}/mattersinmediaart.org/downloads/MMA_budget_template.xlsx">
   <div class="chip"><i class="large material-icons">play_for_work</i>經費預算表</div>
     </a>
     </div>
@@ -361,7 +361,7 @@ published: true
 
 * 保留展覽、展示或借展的歷史紀錄
 
-* 追蹤藏品之實體與數位部分的位置，包括追蹤數位檔案轉碼和轉置的版本的能力。
+* 追蹤藏品之實體與數位部分的位置，包括追蹤數位檔案轉碼和轉置的版本的能力
 
 * 記錄藝術作品的狀況和技術資料，以便告知正在進行的管理
 
@@ -397,7 +397,7 @@ published: true
 
 * 允許多個使用者更新資訊，並維持為最新版本
 
-使用者和物件的數量越多，工作流程越複雜，則專用資料庫（即藏品管理系統）就越必要。維護藏品清單的軟體類型從Excel電子表單、Filemaker之類的資料庫、開源藏品管理軟體像是 <a href="http://www.collectiveaccess.org/about">CollectiveAccess</a> 或 <a href="http://omeka.org/about/">Omeka</a> 到博物館採用的藏品管理系統，例如： <a href="www.gallerysystems.com/products-and-services/tms/">TMS 藏品管理系統</a>、Mimsy或機構自行開發的訂製系統。
+使用者和物件的數量越多，工作流程越複雜，則專用資料庫（即藏品管理系統）就越必要。維護藏品清單的軟體類型從Excel電子表單、Filemaker之類的資料庫、開源藏品管理軟體像是 <a target="_blank" href="http://www.collectiveaccess.org/about">CollectiveAccess</a> 或 <a target="_blank" href="http://omeka.org/about/">Omeka</a> 到博物館採用的藏品管理系統，例如： <a target="_blank" href="www.gallerysystems.com/products-and-services/tms/">TMS 藏品管理系統</a>、Mimsy或機構自行開發的訂製系統。
 
 要找到一個同時涵括上述藏品管理作業和數位保存的系統並不常見。因此，通常情況下會使用不同的系統和工具來滿足這兩項不同的核心需求，例如，除了使用藏品管理系統，也使用數位資產管理系統或數位檔案資料庫。但是在建構或使用藏品管理系統以外的任何專用系統之前，重要的是思考該專用系統如何與現有的藏品管理系統整合。
 
@@ -438,7 +438,7 @@ published: true
   <div class="collapsible-body">
     <ul>
       <li>
-        每個數位檔案在標頭(header)和檔案封包(wrapper)都崁入了技術性資訊。如果你有大量的收藏，需將此資訊在藏品管理系統中的提取與儲存列入考慮，以便能在典藏資料中進行搜尋。      </li>
+        每個數位檔案在標頭 (header) 和檔案包裝 (wrapper) 都崁入了技術性資訊。如果你有大量的收藏，需將此資訊在藏品管理系統中的提取與儲存列入考慮，以便能在典藏資料中進行搜尋。      </li>
     </ul>
   </div>
 </li>
@@ -456,7 +456,7 @@ published: true
 
 <div markdown="1">
 <h2 class="title"></h2>
-「我們需要在儲存空間和TMS藏品管理系統中持續追蹤個別檔案，並且查看其特定資訊。在我們系統中，最靈活且簡易的方法是給每個組件一個獨立的識別碼，該識別碼可直接連接到藏品管理系統中的藝術作品紀錄和保存維護文件。」
+「我們需要在儲存空間和 TMS 藏品管理系統中持續追蹤個別檔案，並且查看其特定資訊。在我們系統中，最靈活且簡易的方法是給每個組件一個獨立的識別碼，該識別碼可直接連接到藏品管理系統中的藝術作品紀錄和保存維護文件。」
 </div>
 </div>
 
@@ -541,12 +541,12 @@ published: true
 
 * 未來5年內0到5TB和小預算的磁碟陣列RAID 1等級
 * 5TB至25TB - 磁碟陣列RAID-5或6或7等級
-* 25TB或更多 - 某種企業儲存空間或多個支持菊鏈(daisy chaining)的磁碟陣列RAID 5或6或7等級
+* 25TB或更多 - 某種企業儲存空間或多個支持菊鏈 (daisy chaining) 的磁碟陣列 RAID 5或6或7等級
 
 保持同步多個副本：潛在的選擇
 
 * 手動操作
-* 點對點文件共享（P2P）
+* 點對點文件共享 (P2P)
 * 雲端服務（例如：dropbox, crashplan, http://www.cloudwards.net等）
 
 
@@ -555,7 +555,7 @@ published: true
 <div markdown="1">
 <h2 class="title"></h2>
 
-「我想盡可能以簡單的方式異地儲存3個副本，我買了3個磁碟陣列RAID 1，一個放我的工作室、一個放我家裡、一個放朋友家。為了使3個磁碟陣列RAID 1保持同步，我固定每週手動同步工作室和家裡的磁碟陣列，然後每年兩次與朋友家的磁碟陣列進行同步。」
+「我想盡可能以簡單的方式異地儲存 3個副本，我買了 3個磁碟陣列 RAID 1，一個放我的工作室、一個放我家裡、一個放朋友家。為了使 3個磁碟陣列 RAID 1保持同步，我固定每週手動同步工作室和家裡的磁碟陣列，然後每年兩次與朋友家的磁碟陣列進行同步。」
 </div>
 
 
@@ -563,13 +563,13 @@ published: true
 <div markdown="1">
 <h2 class="title"></h2>
 「我有大約10 TB不常存取的數據資料，且我有足夠的資金支付雲端儲存的年費。」
-「我們有大約10TB的數據資料，並預計在五年之內只會有15TB的數據資料，所以我們有兩個18TB磁碟陣列RAID設備直接連到我住家和辦公室的Mac電腦。我會支付雲端備份服務的年費，讓兩地保持同步，並受益於在雲端中擁有第三份副本。」
+「我們有大約10TB的數據資料，並預計在五年之內只會有 15TB 的數據資料，所以我們有兩個 18TB 磁碟陣列 RAID設備直接連到我住家和辦公室的 Mac電腦。我會支付雲端備份服務的年費，讓兩地保持同步，並受益於在雲端中擁有第三份副本。」
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
- 「我目前管理的藏品有35TB。根據入藏分析，我估計在未來五年內，我們將增長到約50TB。在和資訊部門諮詢後，我發現他們實際早已在兩個地方有一些儲存基礎架構，並且都可以擴展到這種規模。他們增添了我們今年增長所需的儲存量，也擁有未來五年預期增長的預算。我告訴資訊部門這些數位作品非常值錢，因此他們有仔細考慮讀取/寫入的存取權限，相較這個系統上其他類型的數據資料管理更為嚴格。理想情況下，我們應該在三處地點有三份副本，但是不幸的是，預算無法給付雲端儲存的費用，或設立第三個數據資料中心，所以作為替代方案，目前我將數據資料手動備份到LTO磁帶中，且把LTO磁帶放在第三處地點，以防需要從災難情況下復原。
+ 「我目前管理的藏品有 35TB。根據入藏分析，我估計在未來五年內，我們將增長到約 50TB。在和資訊部門諮詢後，我發現他們實際早已在兩個地方有一些儲存基礎架構，並且都可以擴展到這種規模。他們增添了我們今年增長所需的儲存量，也擁有未來五年預期增長的預算。我告訴資訊部門這些數位作品非常值錢，因此他們有仔細考慮讀取/寫入的存取權限，相較這個系統上其他類型的數據資料管理更為嚴格。理想情況下，我們應該在三處地點有三份副本，但是不幸的是，預算無法給付雲端儲存的費用，或設立第三個數據資料中心，所以作為替代方案，目前我將數據資料手動備份到 LTO磁帶中，且把 LTO磁帶放在第三處地點，以防需要從災難情況下復原。
 </div>
 </div>
 
@@ -577,7 +577,7 @@ published: true
 
 高度可用性：這是一份你的數據資料的冗餘備份，維護是為了在丟失原始檔案時，仍能在不停工的情況之下提供數據資料的便利存取。通常這意味著在異地有主要基礎架構的備份，並具有與外界或存取點的等效連接，該基礎結構將包含完整且最新的藏品備份。對於容易取得的數據資料備份來說，存取的便捷性至關重要。
 
-災難復原：為災難性情況（例如：發生火災、淹水或地震）維護數據資料備份時，其目的僅僅是能夠檢索、重建和存取數據，按此說法，便利存取就不是優先事項。異地儲放LTO磁帶是用於災難性情形復原備份的合適媒材例子之一。
+災難復原：為災難性情況（例如：發生火災、淹水或地震）維護數據資料備份時，其目的僅僅是能夠檢索、重建和存取數據，按此說法，便利存取就不是優先事項。異地儲放 LTO磁帶是用於災難性情形復原備份的合適媒材例子之一。
 </section>
 
 
@@ -608,38 +608,38 @@ published: true
 
 這些工具可以簡單地產生校驗和，在離開環境後，不一定需要儲存校驗和值或促使校驗和驗證。
 
-* <a href="https://en.wikipedia.org/wiki/Md5sum">md5</a> - 可藉由Mac或Linux上的終端機運行。
+* <a target="_blank" href="https://en.wikipedia.org/wiki/Md5sum">md5</a> - 可藉由Mac或Linux上的終端機運行。
 
-* <a href="https://en.wikipedia.org/wiki/Sha1sum">shasum</a> - 可在Mac、Linux和Windows上運行。
+* <a target="_blank" href="https://en.wikipedia.org/wiki/Sha1sum">shasum</a> - 可在Mac、Linux和Windows上運行。
 
-* FCIV（File Checksum Integrity Verifier 檔案校驗和完整性驗證程序）– Windows 命令行工具（command line tool）用於產生MD5或SHA1校驗和。
+* FCIV（File Checksum Integrity Verifier 檔案校驗和完整性驗證程序）– Windows 命令行工具 (command line tool)用於產生 MD5 或 SHA1 校驗和。
 
 這些工具建立校驗和及儲存數值，便於事後校驗和的驗證。
 
-* <a href="https://support.apple.com/en-us/HT201259">Checksum+ (OS X)</a> -  使用此工具時，你只需要選擇一個檔案，它就會幫你建立一個校驗和，存在.md5文件中，與檔案相同命名並且放在一起。重複點擊這個.md5文件，它將執行校驗機制的檢查，然後告訴你是否一切正常。如果你使用文字編輯器開啟，將顯示MD5校驗和以及其所屬檔案。將.md5和原始檔案存在同一文件夾中很重要。
+* <a target="_blank" href="https://support.apple.com/en-us/HT201259">Checksum+ (OS X)</a> -  使用此工具時，你只需要選擇一個檔案，它就會幫你建立一個校驗和，存在.md5文件中，與檔案相同命名並且放在一起。重複點擊這個.md5文件，它將執行校驗機制的檢查，然後告訴你是否一切正常。如果你使用文字編輯器開啟，將顯示MD5校驗和以及其所屬檔案。將.md5和原始檔案存在同一文件夾中很重要。
 
-* <a href="http://www.fastsum.com/">Fastsum</a> - 適用於Windows。
+* <a target="_blank" href="http://www.fastsum.com/">Fastsum</a> - 適用於Windows。
 
-* <a href="https://en.wikipedia.org/wiki/BagIt">BagIt</a> - 由美國國會圖書館開發，此工具用於命令行（command line）介面。 BagIt最初是為了將檔案從一個地方安全地傳輸到另一個地方而創建的，通過將原始數據資料打包到一個「袋子」（文件夾）中，並為其中的每個檔案建立校驗和。它也以文字的方式在文件夾中存了有關日期和軟體版本的資訊，並建立所有文字的校驗和，也包含校驗和本身。 <a href="https://www.youtube.com/playlist?list=PL1763D432BE25663D">在此有一系列教學影片</a>。
+* <a target="_blank" href="https://en.wikipedia.org/wiki/BagIt">BagIt</a> - 由美國國會圖書館開發，此工具用於命令行 (command line)介面。 BagIt最初是為了將檔案從一個地方安全地傳輸到另一個地方而創建的，通過將原始數據資料打包到一個「袋子」（文件夾）中，並為其中的每個檔案建立校驗和。它也以文字的方式在文件夾中存了有關日期和軟體版本的資訊，並建立所有文字的校驗和，也包含校驗和本身。 <a href="https://www.youtube.com/playlist?list=PL1763D432BE25663D">在此有一系列教學影片</a>。
 
-* <a href="https://www.avpreserve.com/tools/fixity/">Fixity</a> - AVPreserve 建立了一個工具，讓使用者能識別該程序以每月、每週或每天自動檢查的七種功能。
+* <a target="_blank" href="https://www.avpreserve.com/tools/fixity/">Fixity</a> - AVPreserve 建立了一個工具，讓使用者能識別該程序以每月、每週或每天自動檢查的七種功能。
 
-* <a href="https://www.archivematica.org/">Archivematica</a> - 附帶於命令行基礎工具用於運行校驗機制查驗。
+* <a target="_blank" href="https://www.archivematica.org/">Archivematica</a> - 附帶於命令行基礎工具用於運行校驗機制查驗。
 
-* <a href="https://www.nagios.com/products/nagios-core/ ">Nagios</a> - 資訊基礎結構監控和警示的開源工業標準。提供<a href="http://bit.ly/1p5KDGO">各種校驗和外掛<a/>
+* <a target="_blank" href="https://www.nagios.com/products/nagios-core/ ">Nagios</a> - 資訊基礎結構監控和警示的開源工業標準。提供<a target="_blank" href="http://bit.ly/1p5KDGO">各種校驗和外掛<a/>。
 
-* 有關更多可能的校驗和工具， <a href="http://coptr.digipres.org/Category:Fixity">請點擊此處</a>
+* 有關更多可能的校驗和工具， <a target="_blank" href="http://coptr.digipres.org/Category:Fixity">請點擊此處</a>。
 
 <div id="fixity-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"></h2>
-「我在購入作品時使用BagIt來產生校驗和，以確保安全傳輸到我的中央儲存設備。資料進入我們的檔案資料庫後，便會使用AVPreserve的「Fixity」工具。它非常有用，因為它在後台運行，不僅可以提醒我們修改檔案，而且還可以自上次檢查後執行刪除、移動、重新命名和新增。」
+「我在購入作品時使用BagIt來產生校驗和，以確保安全傳輸到我的中央儲存設備。資料進入我們的檔案資料庫後，便會使用 AVPreserve的「Fixity」工具。它非常有用，因為它在後台運行，不僅可以提醒我們修改檔案，而且還可以自上次檢查後執行刪除、移動、重新命名和新增。」
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-「我立即使用BagIt將檔案從購得硬碟傳輸到伺服器中，放在一個文件夾中，並制訂每個月驗證一次校驗和。由於我的檔案放置在三個地點，我會對所有文件夾執行『bag verifyvalid』命令。我以前是手動操作，但是我的資訊部門編寫了一個非常簡單的bash腳本，針對提供bash腳本的所有文件夾執行『bag verifyvalid』命令。」
+「我立即使用BagIt將檔案從購得硬碟傳輸到伺服器中，放在一個文件夾中，並制訂每個月驗證一次校驗和。由於我的檔案放置在三個地點，我會對所有文件夾執行『 bag verifyvalid』命令。我以前是手動操作，但是我的資訊部門編寫了一個非常簡單的bash腳本，針對提供bash腳本的所有文件夾執行『 bag verifyvalid』命令。」
 </div>
 
 <div markdown="1">
@@ -689,7 +689,7 @@ published: true
 </div>
 <div markdown="1">
 <h2 class="title"></h2>
-「存取權限僅對少部分的藏品相關工作人員開放。磁碟陣列RAID連結內部網路，並不對外。人們對於雲端儲存系統有些顧慮，但我們被告知它相當安全。LTO磁帶被存放在我們的一般藝術儲存設施中，該設施有門禁卡和門禁系統。」
+「存取權限僅對少部分的藏品相關工作人員開放。磁碟陣列 RAID連結內部網路，並不對外。人們對於雲端儲存系統有些顧慮，但我們被告知它相當安全。LTO磁帶被存放在我們的一般藝術儲存設施中，該設施有門禁卡和門禁系統。」
 </div>
 
 <div markdown="1">
