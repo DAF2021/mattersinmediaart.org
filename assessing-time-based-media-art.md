@@ -65,7 +65,7 @@ title: "媒體藝術文件化"
 
 ## 媒體藝術編目
 
-供媒體裝置使用的媒體藝術編目紀錄，包含了龐大且可能較難以管理的資訊。透過以下的指南說明，你可以在媒體藝術作品的紀錄中找到其材料類型，以及獲得如何在你的檔案及資料夾裡進行資料管理和分類的建議方式。在這裡閱讀更多關於[藏品管理系統](http://mattersinmediaart.org/sustaining-your-collection.html#Review-Collection-Management-Systems) 的資訊。
+供媒體裝置使用的媒體藝術編目紀錄，包含了龐大且可能較難以管理的資訊。透過以下的指南說明，你可以在媒體藝術作品的紀錄中找到其材料類型，以及獲得如何在你的檔案及資料夾裡進行資料管理和分類的建議方式。在這裡閱讀更多關於[藏品管理系統]({{ site.url }}/mattersinmediaart.org/sustaining-your-collection.html#Review-Collection-Management-Systems){:target="_blank"} 的資訊。
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
@@ -208,7 +208,7 @@ title: "媒體藝術文件化"
 <h2>安排藝術家訪談</h2>
 藝術家訪談可能包含與藝術家、技術人員、作品所有權人、美術館館員和其他熟悉作品相關人員的對話。訪談目標為蒐集作品過往的技術資料、展覽需求、藝術家創作動機和技術過時等資訊。
 
-(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網INCCA網站](http://www.incca.org/)){:target="_blank"}
+(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網INCCA網站](http://www.incca.org/){:target="_blank"}
 
 建立訪談檔案紀錄。若此紀錄可以公開分享，有利於其他同業參考，可考量加入國際當代藝術保存網（INCCA），並將訪談摘要保存於 [INCCA藝術家檔案資料庫中](http://www.incca.org/){:target="_blank"}
 </div>
@@ -244,7 +244,7 @@ title: "媒體藝術文件化"
 <h2>作品包裝及儲存</h2>
 
 * 適當的儲存及包裝有助於延長作品壽命。
-* 媒體儲存需考量之處可參考 <a href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP Preservation 101</a> 針對作品儲存之說明。
+* 媒體儲存需考量之處可參考 <a target="_blank" href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP Preservation 101</a> 針對作品儲存之說明。
 </div>
 
 
@@ -256,8 +256,8 @@ title: "媒體藝術文件化"
 
 ## 作品狀況報告書範本
 
-在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書為未來的作品檢視提供了對照基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，因其部分組件可能較易取得，並可以替換。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容就予以定義。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯（Joanna Phillip）的[時基媒體修復專文](http://www.guggenheim.org/conservation/time-based-media)。
-
+在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書為未來的作品檢視提供了對照基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，因其部分組件可能較易取得，並可以替換。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容就予以定義。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯（Joanna Phillip）的[時基媒體修復專文](http://www.guggenheim.org/conservation/time-based-media){:target="_blank"}。
+ 
 <!-- previous layout:
 * [結構與狀況報告]({{ site.url }}/mattersinmediaart.org/downloads/structure_and_condition_reports.rtf){:target="_blank"} (RTF, 180KB)
 * [錄像（Video）作品]({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf){:target="_blank"} (RTF, 81KB)

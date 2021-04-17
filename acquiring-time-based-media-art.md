@@ -386,6 +386,21 @@ title: "取得媒體藝術作品"
 <tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
+<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_deedofgift.doc">
+<div class="chip"><i class="large material-icons">play_for_work</i>捐贈同意書
+</div>
+</a>
+</div>
+</td>
+<td style="vertical-align: top; padding-top: 0px;">
+<p>
+一份紀念透過贈與轉讓藝術作品所有權的文件。這個範本假定了雙方之間的完全贈與，其可以改編來應用於有多個受贈者或部分贈與的情況。</p>
+</td>
+</tr>
+
+<tr>
+<td style="width:160px; vertical-align: top">
+<div class="col s13">
 <a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_purchaseagreement.rtf">
 <div class="chip"><i class="large material-icons">play_for_work</i>購買同意書
 </div>
