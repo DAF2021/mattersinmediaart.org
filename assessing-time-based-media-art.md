@@ -13,7 +13,7 @@ title: "媒體藝術文件化"
 ![](img/IMG_4848_2.jpg)
 
 <span class="img-caption" markdown="1">
-新藝術信託的艾柏莉克‧柯爾曼（Aebhric Coleman）和舊金山現代藝術博物館的史提夫‧戴（Steve Dye）正在紀錄白南準（Nam June Paik）1989年之作品《電視佛陀》(TV Buddha)。照片提供：舊金山現代藝術博物館</span>
+新藝術信託的艾柏莉克‧柯爾曼 (Aebhric Coleman) 和舊金山現代藝術博物館的史提夫‧戴 (Steve Dye) 正在紀錄白南準 (Nam June Paik) 1989年之作品《電視佛陀》(TV Buddha)。照片提供：舊金山現代藝術博物館</span>
 
 
 <div id="post-acq-slider-1" class="liquid-slider"> <!-- start of slider -->
@@ -39,7 +39,7 @@ title: "媒體藝術文件化"
 
 * 媒體：例如錄像、聲音、電影、幻燈片、硬碟。
 
-* 實用網站: [EAI線上資源指南](http://www.eai.org/resourceguide/formats.html){:target="_blank"}、 [德州委員會錄影帶識別及檢視指南](http://www.arts.state.tx.us/video/){:target="_blank"} 、[獨立媒體藝術保存（IMAP）編目計畫](http://www.imappreserve.org/cat_proj/){:target="_blank"}
+* 實用網站: [EAI 線上資源指南](http://www.eai.org/resourceguide/formats.html){:target="_blank"}、 [德州委員會錄影帶識別及檢視指南](http://www.arts.state.tx.us/video/){:target="_blank"} 、[獨立媒體藝術保存 (IMAP) 編目計畫](http://www.imappreserve.org/cat_proj/){:target="_blank"}
 
 * 專用的展示設備：（例如螢幕、顯示器、投影機、喇叭、重播  設備、燈光、相機）。記錄廠商名稱及型號編號，並收集所有設備的產品使用手冊。
 
@@ -208,9 +208,9 @@ title: "媒體藝術文件化"
 <h2>安排藝術家訪談</h2>
 藝術家訪談可能包含與藝術家、技術人員、作品所有權人、美術館館員和其他熟悉作品相關人員的對話。訪談目標為蒐集作品過往的技術資料、展覽需求、藝術家創作動機和技術過時等資訊。
 
-(關於藝術家訪談的指南，可以參閱[國際當代藝術保存網INCCA網站](http://www.incca.org/){:target="_blank"}
+（關於藝術家訪談的指南，可以參閱[國際當代藝術保存網 INCCA 網站](http://www.incca.org/){:target="_blank"}）
 
-建立訪談檔案紀錄。若此紀錄可以公開分享，有利於其他同業參考，可考量加入國際當代藝術保存網（INCCA），並將訪談摘要保存於 [INCCA藝術家檔案資料庫中](http://www.incca.org/){:target="_blank"}
+建立訪談檔案紀錄。若此紀錄可以公開分享，有利於其他同業參考，可考量加入國際當代藝術保存網 (INCCA)，並將訪談摘要保存於 [INCCA藝術家檔案資料庫中](http://www.incca.org/){:target="_blank"}
 </div>
 
 <div markdown="1">
@@ -225,8 +225,8 @@ title: "媒體藝術文件化"
 
 關於保存媒體作品的相關資訊，可參考以下網站：
 
-* [EAI線上資源指南—媒體藝術的展示、收藏及保存](http://www.eai.org/resourceguide/){:target="_blank"}
-* [獨立媒體藝術保存（IMAP）Preservation 101](http://www.imappreserve.org/pres_101/index.html){:target="_blank"}
+* [EAI 線上資源指南—媒體藝術的展示、收藏及保存](http://www.eai.org/resourceguide/){:target="_blank"}
+* [獨立媒體藝術保存 IMAP Preservation 101](http://www.imappreserve.org/pres_101/index.html){:target="_blank"}
 
 </div>
 
@@ -256,7 +256,7 @@ title: "媒體藝術文件化"
 
 ## 作品狀況報告書範本
 
-在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書為未來的作品檢視提供了對照基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，因其部分組件可能較易取得，並可以替換。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容就予以定義。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯（Joanna Phillip）的[時基媒體修復專文](http://www.guggenheim.org/conservation/time-based-media){:target="_blank"}。
+在檢視媒體藝術時，我們也試圖將現行作品狀況報告書的撰寫方式，應用在媒體藝術作品的檢視上。作品狀況報告書為未來的作品檢視提供了對照基準。針對媒體藝術創作的作品，其狀況報告書需分為三個部分——媒體、設備及整體裝置。媒體藝術之作品狀況書不同於傳統藝術作品，因其部分組件可能較易取得，並可以替換。作品中的任何組件，它的價值和重要性皆來自作品本身的特性，通常不太可能單看組件內容就予以定義。除下列報告書範本外，請參考古根漢美術館時基媒體修復師喬安娜・菲利普斯 (Joanna Phillip) 的[時基媒體修復專文](http://www.guggenheim.org/conservation/time-based-media){:target="_blank"}。
  
 <!-- previous layout:
 * [結構與狀況報告]({{ site.url }}/mattersinmediaart.org/downloads/structure_and_condition_reports.rtf){:target="_blank"} (RTF, 180KB)
@@ -274,84 +274,84 @@ title: "媒體藝術文件化"
 -->
 
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/structure_and_condition_reports.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/structure_and_condition_reports.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>結構與狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>錄像（Video）作品
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>錄像 (Video) 作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>聲音作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像（Film）作品
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像 (Film) 作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦的作品
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>基於電腦作品的設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>播放裝置展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>投影展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>螢幕展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
-  <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像放映展示設備
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>膠卷影像 (Film) 放映展示設備
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a target="_blank" href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片投影展示設備
     </div>
     </a>
@@ -378,7 +378,7 @@ title: "媒體藝術文件化"
 
 ![](img/peter-assessing.jpg)
 <span class="img-caption" markdown="1">
-彼得‧奧萊克希克（Peter Oleksik）檢測理查‧賽拉（Richard Serra）及南西‧霍特（Nancy Holt）之作品《迴旋鏢》（Boomerang, 1974）  
+彼得‧奧萊克希克檢測理查‧賽拉 (Richard Serra) 及南西‧霍特 (Nancy Holt)之作品《迴旋鏢》(Boomerang, 1974)  
 
 檢視數位錄像媒體，是作品入藏相當重要的步驟。這不僅有助於你理解檔案的技術層面和可能會發生的異常狀況，它也提供了作品的基準狀態，以供你日後檢視之參考，並讓你更了解每件作品以及典藏品的整體狀況。
 
@@ -411,12 +411,12 @@ title: "媒體藝術文件化"
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">warning</i>視覺與聽覺假象</div>
+  <div class="collapsible-header"><i class="material-icons">warning</i>視覺與聽覺假象 (Artifacts)</div>
   <div class="collapsible-body">
    <ul>
     <li>類比假象</li>
     <li>數位假象</li>
-    <li>辨識成因／原作—A/V假象圖冊</li>
+    <li>辨識成因／原作—A/V假象圖冊 (Artifact Atlas)</li>
    </ul>
   </div>
 </li>
@@ -450,7 +450,7 @@ title: "媒體藝術文件化"
   		SDI串列數位介面（SDI、SD或HD）。SDI訊號是一種數位位元串流，可用於類比及數位影像訊號之傳輸，亦透過SDI訊號（數位Betacam）將數位訊號錄製到磁帶上。SD-SDI是一種訊號連接種類，使用BNC接頭以進行，並將影像、音訊和輔助資訊（如時間碼、隱藏字幕等等）以訊號位元串流的封包形式進行傳輸。SD-SDI以4:2:2的YUV色彩編碼系統進行影像傳輸；HD-SDI使用相同的原理，但將訊號由一分為多個訊號傳輸，以增加頻寬傳輸高畫質訊號。
   	</p>
   	<p>
-  		HDMI高畫質多媒體介面（HDMI）：HDMI通常用於高畫質訊號傳輸，連接顯示器及其他設備。
+  		HDMI高畫質多媒體介面 (HDMI)：HDMI通常用於高畫質訊號傳輸，連接顯示器及其他設備。
   	</p>
 
   </div>
@@ -473,7 +473,7 @@ title: "媒體藝術文件化"
 <li>
   <div class="collapsible-header"><i class="material-icons">settings</i>電腦</div>
   <div class="collapsible-body">
-  	<p>對舊型或一般「桌上型電腦」來說，觀看數位影像，尤其是未壓縮或高數據傳輸率的影像，可能是一大挑戰。你的工作環境需要一個相對高效率的電腦，至少需要幾GB的隨機存取記憶體（RAM）。如果直接從外接硬碟播放的話，取決於連接介面，若是透過伺服器播放則取決於網速，上述兩種方式皆會使大部分的影像出現遲滯的情形。因此最好直接存在電腦主機中播放，以便在你的電腦上估算需要的儲存容量。或者，你也可以考慮具高速傳輸連接介面的外接硬碟或容錯式磁碟陣列（RAID）。無論你選擇Mac或PC個人電腦平台，皆取決於你使用的軟體種類—Final Cut Pro只能在Mac上使用，Adobe Premiere則皆能在兩種系統上操作。請依照你所使用的軟體、硬體需求及相容性，來選擇你操作的電腦。</p>
+  	<p>對舊型或一般「桌上型電腦」來說，觀看數位錄像，尤其是未壓縮或高數據傳輸率的影片，可能是一大挑戰。你的工作環境需要一個相對高效率的電腦，至少需要幾GB的隨機存取記憶體 (RAM)。如果直接從外接硬碟播放的話，取決於連接介面，若是透過伺服器播放則取決於網速，上述兩種方式皆會使大部分的影像出現遲滯的情形。因此最好直接存在電腦主機中播放，以便在你的電腦上估算需要的儲存容量。或者，你也可以考慮具高速傳輸連接介面的外接硬碟或容錯式磁碟陣列 (RAID)。無論你選擇Mac或PC個人電腦平台，皆取決於你使用的軟體種類— Final Cut Pro只能在Mac上使用，Adobe Premiere則皆能在兩種系統上操作。請依照你所使用的軟體、硬體需求及相容性，來選擇你操作的電腦。</p>
   </div>
 </li>
 <li>
@@ -496,7 +496,7 @@ title: "媒體藝術文件化"
 <li>
   <div class="collapsible-header"><i class="material-icons">perm_device_information</i>軟體</div>
   <div class="collapsible-body">
-  	<p>檢測數位影像素材的另一個關鍵，就是你所使用的軟體。最重要的是對所用之軟體有基本概念，理解如何運用其功能來播放影像檔案，並如實呈現檔案內容。一般的影像擷取和編輯軟體如Blackmagic的Media Express、Adobe Premiere和Final Cut Pro X，可以用來分析影像素材的每個部份，並深入評估其基本特性（亮度、色度和音訊）。其他免費工具如 <a target="_blank" href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> 也提供影像素材的深入分析，其開發亦是為了檔案保存社群使用。</p>
+  	<p>檢測數位影像素材的另一個關鍵，就是你所使用的軟體。最重要的是對所用之軟體有基本概念，理解如何運用其功能來播放影像檔案，並如實呈現檔案內容。一般的影像擷取和編輯軟體如 Blackmagic 的 Media Express、Adobe Premiere和Final Cut Pro X，可以用來分析影像素材的每個部份，並深入評估其基本特性（亮度、色度和音訊）。其他免費工具如 <a target="_blank" href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> 也提供影像素材的深入分析，其開發亦是為了檔案保存社群使用。</p>
   </div>
 </li>
 <li>
@@ -593,7 +593,7 @@ title: "媒體藝術文件化"
             <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>含色差訊號輸入插孔的陰極射線管(CRT)顯示器</td>
+            <td>含色差訊號輸入插孔的陰極射線管 (CRT) 顯示器</td>
             <td></td>
             <td></td>
             <td class="yes">✓</td>
@@ -615,10 +615,10 @@ title: "媒體藝術文件化"
 <h2>檔案特徵</h2>
 <p>下列關鍵的檔案特徵是你在收到數位檔案之前，最好事先就取得的資訊。如果無法事先取得，那收到檔案時，應就以下列出的各個要點予以檢查：</p>
 <ul>
-<li>檔案包裝(Wrapper)為何？例如：mov、mp4、avi等等。</li>
-<li>你使用哪種編解碼器？例如：Apple Pro Res 4：2：2、未壓縮、H.264。</li>
+<li>檔案包裝 (Wrapper) 為何？例如：mov、mp4、avi等等。</li>
+<li>你使用哪種編解碼器？例如：Apple Pro Res 4:2:2、未壓縮、H.264。</li>
 <li>影片解析度為何？例如：1080×1920、480×720、576×720等等。</li>
-<li>畫面比例為何？16：9 、4：3等等。</li>
+<li>畫面比例為何？16:9 、4:3等等。</li>
 <li>出現什麼時間碼？</li>
 <li>時間長度為何？</li>
 <li>像素外觀比例為何？正方形或非正方形。</li>
@@ -708,20 +708,20 @@ Depending on your workflow you may carry out a technical assessment before you c
 
 * 確認檔案內容與原本預期的內容相符。
 * 確保串流沒有技術問題。
-* 在串流和檔案包裝(Wrapper)之間沒有衝突的訊息。舉例來說，一個特定組合的串流和檔案包裝對於解碼來說，其提供的指令可能過於模糊，以致於使用不同的播放器時，有可能會造成影像串流重播的方式有所差異。若是這種情況，可能的話，向藝術家或其代理人確認細節是很有幫助的。
-* 在串流和檔案包裝(Wrapper)之間沒有缺少關鍵訊息。
-* 確認基本的設定內容與從藝術家取得的資訊相符，例如編解碼器、檔案包裝(Wrapper)、音訊採樣率和位元深度、部份取樣、影格頻率和時間長度。
+* 在串流和檔案包裝 (Wrapper) 之間沒有衝突的訊息。舉例來說，一個特定組合的串流和檔案包裝對於解碼來說，其提供的指令可能過於模糊，以致於使用不同的播放器時，有可能會造成影像串流重播的方式有所差異。若是這種情況，可能的話，向藝術家或其代理人確認細節是很有幫助的。
+* 在串流和檔案包裝 (Wrapper) 之間沒有缺少關鍵訊息。
+* 確認基本的設定內容與從藝術家取得的資訊相符，例如編解碼器、檔案包裝 (Wrapper)、音訊採樣率和位元深度、部份取樣、影格頻率和時間長度。
 
 <br>
 
 #### 檢測檔案：怎麼做？
 
-* 在你的檔案中運作 <a href="https://en.wikipedia.org/wiki/MediaInfo">MediaInfo</a> 以公開技術詮釋資料來做分析：
+* 在你的檔案中運作 <a target="_blank" href="https://en.wikipedia.org/wiki/MediaInfo">MediaInfo</a> 以公開技術詮釋資料來做分析：
 
 MAC使用者：
 
 * 開啟 Terminal
-* 輸入命令mediainfo -f [path to input file] ，在你要檢測的錄像檔案中操作MediaInfo。
+* 輸入命令mediainfo -f [path to input file] ，在你要檢測的錄像檔案中操作 MediaInfo。
 
 <!--* It will look something like this:
 
@@ -734,15 +734,15 @@ PC Users:
 #### 檢測檔案：辨識技術問題
 
 ##### 完整性 
-這個步驟是確認檔案的完整性，沒有其他明顯不完整或毀損的跡象。檢查檔案完整性的第一種方法，是透過檔案的校驗和(checksum)來確認，若藝術家在送件時有提供，要在檔案傳送或轉置到你的儲存設備時啟用。若校驗和檢測無法通過，那就表示檔案中出現了技術性的變化。第二個檢查檔案完整性的方法，則是分析MediaInfo的檢測報告，藉由明確的資料判讀來找出技術問題。檢測出的技術問題可能很多元，但可舉一例，若一個檔案無法由任何播放器開啟，那MediaInfo的報告可能會如下圖所示：
+這個步驟是確認檔案的完整性，沒有其他明顯不完整或毀損的跡象。檢查檔案完整性的第一種方法，是透過檔案的校驗和 (checksum) 來確認，若藝術家在送件時有提供，要在檔案傳送或轉置到你的儲存設備時啟用。若校驗和檢測無法通過，那就表示檔案中出現了技術性的變化。第二個檢查檔案完整性的方法，則是分析 MediaInfo 的檢測報告，藉由明確的資料判讀來找出技術問題。檢測出的技術問題可能很多元，但可舉一例，若一個檔案無法由任何播放器開啟，那 MediaInfo 的報告可能會如下圖所示：
 
 ![](img/mediainfoerror.jpg)
 
-在分析這份報告時，明顯可見這個檔案是不完整的，且我們可以從MediaInfo報告上缺少的視訊或音訊串流技術詮釋資料看出，這個檔案缺少了重播所需的視訊和音訊串流。這份文件也明顯顯示，這個資料不存在於檔案中，並且是無法播放的原因。這就表示檔案出現關鍵的錯誤，並且必須更換。
+在分析這份報告時，明顯可見這個檔案是不完整的，且我們可以從 MediaInfo 報告上缺少的視訊或音訊串流技術詮釋資料看出，這個檔案缺少了重播所需的視訊和音訊串流。這份文件也明顯顯示，這個資料不存在於檔案中，並且是無法播放的原因。這就表示檔案出現關鍵的錯誤，並且必須更換。
 
-##### 檔案包裝(Wrapper)和串流的衝突
+##### 檔案包裝 (Wrapper) 和串流的衝突
 
-如果檔案包裝(Wrapper)和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份MediaInfo報告中的「影像」類別所顯示：
+如果檔案包裝 (Wrapper) 和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份 MediaInfo 報告中的「影像」類別所顯示：
 
 <div class="card-content grey lighten-3 text">
 <table class="highlight" style="padding: 6px 5px !important; font-weight: lighter; font-size: 17px">
