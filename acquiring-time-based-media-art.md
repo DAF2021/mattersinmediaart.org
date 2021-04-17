@@ -364,23 +364,41 @@ title: "取得媒體藝術作品"
 
 在以下範本中，括號中的內容是非必選，或根據特定情況而可以更改，以及在彙編此份同意書時，為那些應該解決的特殊問題進行註解。在簽署契約之前，應移除所有括號並修改或刪除其中的內容。如果其中包含的內容是非必選的，則使用<span class="red-text">__紅色粗體字體__</span>，因為這些特別是用於媒體藝術。
 <br><br>
+<table>
+<tr>
+<td>
 <div class="col s13">
 <a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">
   <div class="chip"><i class="large material-icons">play_for_work</i>授權同意書
     </div>
     </a>
     </div>
+</td>
+<td>
 <div>
 由於藝術作品的所有權不一定涵括擁有該作的著作權所有權，這份文件是由著作權持有者授權給藝術作品擁有者的授權狀，允許出版和/或為保存目的再製。此範本是著作權持有者（通常是藝術家）與收藏者（在此文件中為「博物館」）之間的契約，可以用作一般許可協議，也可用於媒體藝術的文件。
 </div>
-<br>
-<div class="col s13">
-<a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">
-  <div class="chip"><i class="large material-icons">play_for_work</i>捐贈同意書
-    </div>
-    </a>
-    </div>
-一份紀念透過贈與轉讓藝術作品所有權的文件。這個範本假定了雙方之間的完全贈與，其可以改編來應用於有多個受贈者或部分贈與的情況。
+</td>
+</tr>
+</table>
+
+
+
+[comment]: <> (<br>)
+
+[comment]: <> (<div class="col s13">)
+
+[comment]: <> (<a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">)
+
+[comment]: <> (  <div class="chip"><i class="large material-icons">play_for_work</i>捐贈同意書)
+
+[comment]: <> (    </div>)
+
+[comment]: <> (    </a>)
+
+[comment]: <> (    </div>)
+
+[comment]: <> (一份紀念透過贈與轉讓藝術作品所有權的文件。這個範本假定了雙方之間的完全贈與，其可以改編來應用於有多個受贈者或部分贈與的情況。)
 
 <br>
 <div class="col s13">
