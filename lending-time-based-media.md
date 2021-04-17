@@ -117,7 +117,7 @@ title: 媒體藝術借展
 </ul>
 
 
-有了這些資訊，你就可以 <a href="({{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls">製作一份經費預算表</a> 檢閱過，再決定是否商借此作品或到此截止。
+有了這些資訊，你就可以 <a href="{{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls">製作一份經費預算表</a> 檢閱過，再決定是否商借此作品或到此截止。
 
 ### 提案、考量及核准
 這時出借單位及借展單位需要一起針對某一特定的借展需求審慎考量。主要討論內容通常為作品性質及相關開銷。並不是所有的提案都會被接受，而成功被接受的提案通常都包含某種程度的談判交涉。最後的借展合約是一份列出雙方同意條款的文件。
@@ -404,7 +404,7 @@ Terms may be specified in the loan agreement:
 ## 經費
 
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls">
   <div class="chip"><i class="large material-icons">play_for_work</i>經費預算表 </div>
     </a>
     </div>
@@ -505,7 +505,7 @@ Terms may be specified in the loan agreement:
 
 借展合約為出借單位與借展單位之間的合約，其中載明借展標的、借展作品狀況說明及雙方應負擔之責任。合約送出時，建議附上一封信函，提示契約書中重要的條款。借展合約（或稱出借單位合約、借展單位合約、作品出借契約等等）至此才算完備。
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_loanagreement.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_loanagreement.doc">
   <div class="chip"><i class="large material-icons">play_for_work</i>借展合約    </div>
     </a>
     </div>
@@ -574,7 +574,7 @@ Terms may be specified in the loan agreement:
 場館設施報告概述機構設施、環境溫濕度與空氣品質、保全系統、人力配置、保險和借展經歷。場館設施報告範本可於本網站外部資源頁面下載。大部分的機構都已有登錄核可的館所設備報告書，此份文件的目的在於向出借單位確保此借展單位對博物館或美術館的文物、藝術品，具有專業和負保護責任的經歷。在作品借展的期，出借單位會要求借展單位提供場館設施報告，以評估借展方展場是否合宜。出借及借展機構再進一步溝通，來討論某一件作品的特殊需求，媒體藝術作品的安裝與維運需要特殊的技術和專業知識，因此，我們建議最好在制式的場館設施報告尾端加上針對媒體藝術展示的疑問的附文。這些指導方針的目的在於衡量借展機構在處理媒體藝術的特殊需求的適當性和專業程度。
 
 <div class="col s13">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_facilitiesreport.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_facilitiesreport.doc">
   <div class="chip"><i class="large material-icons">play_for_work</i>場館設施報告    </div>
     </a>
     </div>
@@ -929,49 +929,49 @@ Terms may be specified in the loan agreement:
 #### 借展狀況報告範本
 
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport.doc">
   <div class="chip"><i class="large material-icons">play_for_work</i>整體狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_equipment.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_equipment.doc">
   <div class="chip"><i class="large material-icons">play_for_work</i>設備狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_tape.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_tape.doc">
   <div class="chip"><i class="large material-icons">play_for_work</i>錄像（Video）狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_film.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_film.doc">
   <div class="chip"><i class="large material-icons">play_for_work</i>膠捲影像（Film）狀況報告
     </div>
     </a>
     </div>
 <br>
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_slide.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_slide.doc">
     <div class="chip"><i class="large material-icons">play_for_work</i>幻燈片狀況報告
       </div>
       </a>
       </div>
 <br>
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_harddiscdrive.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_harddiscdrive.doc">
 <div class="chip"><i class="large material-icons">play_for_work</i>硬碟狀況報告
         </div>
         </a>
         </div>
 <br>
 <div class="col s12">
-<a href="({{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_disc.doc">
+<a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_conditionreport_disc.doc">
 <div class="chip"><i class="large material-icons">play_for_work</i>光碟狀況報告
         </div>
         </a>
@@ -1052,7 +1052,7 @@ Terms may be specified in the loan agreement:
 
 ### 備用品和耗材
 
-* 輸入濾網、燈泡等耗材的細節。在安裝之前，請查明燈泡和濾網的使用時數期限，製造商擁有這些資料。然而，耗材的損耗度也取決於展間的落塵量和設備如何開和關。在 [預算計算表]({{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls)  中輸入預估費用，並確保手邊有備用品。
+* 輸入濾網、燈泡等耗材的細節。在安裝之前，請查明燈泡和濾網的使用時數期限，製造商擁有這些資料。然而，耗材的損耗度也取決於展間的落塵量和設備如何開和關。在 [預算計算表]{{ site.url }}/mattersinmediaart.org/downloads/loanbudgetcostassessmenttemplate.xls)  中輸入預估費用，並確保手邊有備用品。
 * 設備故障－如果發生這種情況，你手邊會有什麼樣的備品？通知出借單位的程序為何？借展單位有權利處理什麼呢？
 
 ### 關鍵品質／關鍵需求
