@@ -25,7 +25,7 @@ title: 關於媒體藝術事務
 
 本合作計畫啟動於2005年，為新藝術信託 (New Art Trust, NAT) 與其合作美術館－紐約現代藝術博物館 (the Museum of Modern Art, MoMA)、舊金山現代藝術博物館 (the San Francisco Museum of Modern Art, SFMOMA) 和泰德美術館 (Tate)－共同設計，期望協助媒體藝術作品之收藏與保存（例如錄像、電影、聲音及軟體驅動之裝置作品）。
 
-最初的設想是由新藝術信託的三個合作美術館共同建立一個計畫，而長程目標則是透過發展維護與保存作品的共同實踐，來確保我們對媒體藝術和藝術家的承諾。一直以來，本協會期盼這三所美術館能夠對新興的管理實踐達成共識，然後透過線上技術實踐的分享，能再廣邀更多藝術家和收藏家使用、改善並臻於完備。
+最初的設想是由新藝術信託的三個合作美術館建立共識的一個計畫，而長程目標則是透過發展維護與保存作品的共同實踐，來確保我們對媒體藝術和藝術家的承諾。一直以來，本聯盟期盼這三所美術館能夠對新興的管理實踐達成共識，然後透過線上技術實踐的分享，能再廣邀更多藝術家和收藏家使用、改善並臻於完備。
 
 </section>
 
@@ -35,9 +35,9 @@ title: 關於媒體藝術事務
 
 在我們更新網站的同時，我們非常樂於收到任何來自你的回饋。請撥冗填寫我們的問卷，以協助我們日後改善網站。
 
-媒體藝術事務（Matters in Media Art）網站遵循 [開放資源哲學](https://opensource.org/osd){:target="_blank"} 的基本原則。所有網站的原始碼和內容都能在 GitHub 主機上存取，GitHub 提供了一個軟體框架，讓所有人都可以針對 mattersinmediaart.org 網站的內容和/或設計及功能性提供建議、進行討論和編輯。
+媒體藝術事務網站遵循 [開放資源哲學](https://opensource.org/osd){:target="_blank"} 的基本原則。所有網站的原始碼和內容都能在 GitHub 主機上存取，GitHub 提供了一個軟體框架，讓所有人都可以針對 mattersinmediaart.org 網站的內容和/或設計及功能性提供建議、進行討論和編輯。
 
-這種開放原始碼的基礎，是我們選擇授權。所有 mattersinmediaart.org 網站上的開放原始碼，皆是在[MIT license](https://en.wikipedia.org/wiki/MIT_License){:target="_blank"}, 下授權，所有的著作內容（除非另有說明）都是在 [創用CC授權條款4.0版](http://creativecommons.org/licenses/by/4.0/){:target="_blank"} 許可下授權。雖然這兩種許可授權方式各異，但一般來說，這代表所有mattersinmediaart.org 網站的內容和原始碼都可以開放複製、分享、使用、重製和傳播。
+這種開放原始碼的基礎，是我們選擇授權。所有 mattersinmediaart.org 網站上的開放原始碼，皆是在[MIT 授權條款](https://zh.wikipedia.org/wiki/MIT許可證){:target="_blank"} 下授權，所有的著作內容（除非另有說明）都是在 [創用CC授權條款4.0版](https://creativecommons.org/licenses/by/4.0/deed.zh_TW){:target="_blank"} 許可下授權。雖然這兩種許可授權方式各異，但一般來說，這代表所有mattersinmediaart.org 網站的內容和原始碼都可以開放複製、分享、使用、重製和傳播。
 
 ### 貢獻
 
