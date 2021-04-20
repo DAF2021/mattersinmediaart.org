@@ -37,7 +37,7 @@ title: 關於媒體藝術事務
 
 媒體藝術事務（Matters in Media Art）網站遵循 [開放資源哲學](https://opensource.org/osd){:target="_blank"} 的基本原則。所有網站的原始碼和內容都能在 GitHub 主機上存取，GitHub 提供了一個軟體框架，讓所有人都可以針對 mattersinmediaart.org 網站的內容和/或設計及功能性提供建議、進行討論和編輯。
 
-這種開放原始碼的基礎，是我們選擇授權。所有 mattersinmediaart.org 網站上的開放原始碼，皆是在[MIT license](https://en.wikipedia.org/wiki/MIT_License){:target="_blank"}, 下授權，所有的著作內容（除非另有說明）都是在 [創用CC授權條款4.0版](http://creativecommons.org/licenses/by/4.0/){:target="_blank"} 許可下授權。雖然這兩種許可授權方式各異，但一般來說，這代表所 有mattersinmediaart.org 網站的內容和原始碼都可以開放複製、分享、使用、重製和傳播。
+這種開放原始碼的基礎，是我們選擇授權。所有 mattersinmediaart.org 網站上的開放原始碼，皆是在[MIT license](https://en.wikipedia.org/wiki/MIT_License){:target="_blank"}, 下授權，所有的著作內容（除非另有說明）都是在 [創用CC授權條款4.0版](http://creativecommons.org/licenses/by/4.0/){:target="_blank"} 許可下授權。雖然這兩種許可授權方式各異，但一般來說，這代表所有mattersinmediaart.org 網站的內容和原始碼都可以開放複製、分享、使用、重製和傳播。
 
 ### 貢獻
 
