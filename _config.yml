@@ -1,7 +1,7 @@
 # Site settings
 title: Matters in Media Art 媒體藝術事務
 email: info@matters-in-media-art.org
-description: 一個多階段的合作計畫，旨在為媒體藝術的保存提供指南。
+description: 一個多階段的合作計畫，旨在為媒體藝術的保存提供指南。此翻譯網站內容是由科技藝術典藏基礎計畫承擔的一個獨立計畫。<br/>原始内容由<a href="http://mattersinmediaart.org">Matters in Media Art</a>製作，版權於2015年，並在CC 4.0國際許可下授權。
 baseurl: "/mattersinmediaart.org" # the subpath of your site, e.g. /blog/
 url: "https://savemediaart-tw.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
