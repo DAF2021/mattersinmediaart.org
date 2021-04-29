@@ -364,7 +364,7 @@ title: "取得媒體藝術作品"
 在以下範本中，括號中的內容是非必選，或根據特定情況而可以更改，以及在彙編此份同意書時，為那些應該解決的特殊問題進行註解。在簽署契約之前，應移除所有括號並修改或刪除其中的內容。如果其中包含的內容是非必選的，則使用<span class="red-text">__紅色粗體字體__</span>，因為這些特別是用於媒體藝術。
 <br><br>
 <table>
-<tr>
+<tr style="padding-bottom: 1rem">
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
 <a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_copyrightlicense.rtf">
@@ -378,7 +378,7 @@ title: "取得媒體藝術作品"
 </td>
 </tr>
 
-<tr>
+<tr style="padding-bottom: 1rem">
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
 <a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_deedofgift.doc">
@@ -392,7 +392,7 @@ title: "取得媒體藝術作品"
 </td>
 </tr>
 
-<tr>
+<tr style="padding-bottom: 1rem">
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
 <a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_purchaseagreement.rtf">
@@ -405,10 +405,8 @@ title: "取得媒體藝術作品"
 一份藝術作品賣方與買方之間管制銷售條款的契約。此範本可改編來應用於有多個買方的情況。（即，有時被稱為共同所有權契約的聯合購藏約定，並必須與相關的共同所有權協議被共同擁有者完成審查。）
 </td>
 </tr>
-
-
 </table>
-
+<br><br>
 [comment]: <> (<br>)
 
 [comment]: <> (<div class="col s13">)
