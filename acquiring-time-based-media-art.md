@@ -362,9 +362,10 @@ title: "取得媒體藝術作品"
 ### 登錄範本
 
 在以下範本中，括號中的內容是非必選，或根據特定情況而可以更改，以及在彙編此份同意書時，為那些應該解決的特殊問題進行註解。在簽署契約之前，應移除所有括號並修改或刪除其中的內容。如果其中包含的內容是非必選的，則使用<span class="red-text">__紅色粗體字體__</span>，因為這些特別是用於媒體藝術。
+
 <br><br>
 <table>
-<tr style="padding-bottom: 1rem">
+<tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
 <a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_copyrightlicense.rtf">
@@ -373,12 +374,12 @@ title: "取得媒體藝術作品"
     </a>
     </div>
 </td>
-<td style="vertical-align: top; padding-top: 0px">
+<td style="vertical-align: top; padding-top: 0px; padding-bottom: 1rem">
 由於藝術作品的所有權不一定涵括擁有該作的著作權所有權，這份文件是由著作權持有者授權給藝術作品擁有者的授權狀，允許出版和/或為保存目的再製。此範本是著作權持有者（通常是藝術家）與收藏者（在此文件中為「博物館」）之間的契約，可以用作一般許可協議，也可用於媒體藝術的文件。
 </td>
 </tr>
 
-<tr style="padding-bottom: 1rem">
+<tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
 <a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_deedofgift.doc">
@@ -387,12 +388,12 @@ title: "取得媒體藝術作品"
 </a>
 </div>
 </td>
-<td style="vertical-align: top; padding-top: 0px;">
+<td style="vertical-align: top; padding-top: 0px; padding-bottom: 1rem">
 一份紀念透過贈與轉讓藝術作品所有權的文件。這個範本假定了雙方之間的完全贈與，其可以改編來應用於有多個受贈者或部分贈與的情況。
 </td>
 </tr>
 
-<tr style="padding-bottom: 1rem">
+<tr>
 <td style="width:160px; vertical-align: top">
 <div class="col s13">
 <a href="{{ site.url }}/mattersinmediaart.org/downloads/mattersmediaart_purchaseagreement.rtf">
@@ -401,12 +402,13 @@ title: "取得媒體藝術作品"
 </a>
 </div>
 </td>
-<td style="vertical-align: top; padding-top: 0px;">
+<td style="vertical-align: top; padding-top: 0px; padding-bottom: 1rem">
 一份藝術作品賣方與買方之間管制銷售條款的契約。此範本可改編來應用於有多個買方的情況。（即，有時被稱為共同所有權契約的聯合購藏約定，並必須與相關的共同所有權協議被共同擁有者完成審查。）
 </td>
 </tr>
 </table>
 <br><br>
+
 [comment]: <> (<br>)
 
 [comment]: <> (<div class="col s13">)
