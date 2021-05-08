@@ -1,0 +1,13 @@
+### 有修改、與英文不同的部份
+* Mediainfo報告 - 排版由空格更改為表格
+* 中文版Credit line
+* 中文時凸排明顯，改為表格排版
+* 增加關於中文化團隊資訊
+* 網址階層不同，_config.yaml有修改，baseurl為/mattersinmediaart.org，url為https://savemediaart-tw.github.io
+
+### 英文版已經有的問題，無法處理的問題
+* 圖片連結交效
+
+### 英文版小bug、主動修改部份
+* 去除多餘標籤、排版標籤錯誤、markdown與html混用時造成的問題
+* 間距不一致部份進行css調整
