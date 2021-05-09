@@ -38,11 +38,6 @@ published: true
 
 </section>
 
-
-
-
-
-
 <section id="Know-Your-Collection" class="section scrollspy" markdown="1">
 
 ## 了解你的收藏
@@ -65,12 +60,6 @@ published: true
         </div>
         <br><br>
   </div> <!-- end of card -->
-
-
-
-
-
-
 
 
 <br><br>
@@ -135,12 +124,6 @@ published: true
 
 </section>
 
-
-
-
-
-
-
 <section id="Assess-Your-Skills" class="section scrollspy" markdown="1">
 
 ## 評估你的技能
@@ -190,8 +173,6 @@ published: true
 </li>
 </ul>
 
-
-
 <div id="roles-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
@@ -212,12 +193,6 @@ published: true
 </div>
 
 </section>
-
-
-
-
-
-
 
 <section id="Calculate-Your-Budget" class="section scrollspy" markdown="1">
 
@@ -340,14 +315,6 @@ published: true
 
 </section>
 
-
-
-
-
-
-
-
-
 <section id="Review-Collection-Management-Systems" class="section scrollspy" markdown="1">
 
 ## 檢閱藏品管理系統
@@ -371,7 +338,6 @@ published: true
 <h2 class="title"></h2>
 「我曾經使用過電子表單，但因為物件太多，變得很難使用，而且那是為了計算和數據資料處理而設計的，而非保存分散的物件紀錄。我現在有一個資料庫，可以容納更多資料，並且更易於瀏覽和搜尋。」
 </div>
-
 
 <div markdown="1">
 <h2 class="title"></h2>
@@ -487,13 +453,6 @@ published: true
 </section>
 
 
-
-
-
-
-
-
-
 <section id="Design-Your-Storage" class="section scrollspy" markdown="1">
 ## 設計你的儲存環境
 
@@ -521,7 +480,6 @@ published: true
   </div>
 </div>
 </div>
-
 
 以數位保存為目的，對你現有收藏基礎架構界定範圍時，了解標準規格的儲存設置和適用於數位保存的設置之間的區別將很有幫助。標準規格儲存系統是為經常使用的數位內容而設計，一般還包括備份過程，但它們通常無法達到以長期保存數據資料為目的的嚴格要求。例如，在普通的機構資訊系統設置中，備份磁帶在幾個月後會被清除和重新使用是標準做法。經常使用的儲存空間也不大可能有一套系統來識別資訊是否被更改或丟失，當數據資料一直在變化時，無法輕易地分辨有意的更改和意外的更改之間的差異。相對的，保存維護藏品系統需要主動監視數據資料，以便檢測到不必要的更改，比如破壞或損壞。高度的冗餘指在多地點保存備份，使能在出現問題時恢復數據資料，理想情況下，還會有一個災害復原計畫。
 
@@ -579,16 +537,6 @@ published: true
 
 災難復原：為災難性情況（例如：發生火災、淹水或地震）維護數據資料備份時，其目的僅僅是能夠檢索、重建和存取數據，按此說法，便利存取就不是優先事項。異地儲放 LTO磁帶是用於災難性情形復原備份的合適媒材例子之一。
 </section>
-
-
-
-
-
-
-
-
-
-
 
 <section id="Implement-Fixity" class="section scrollspy" markdown="1">
 
@@ -662,17 +610,6 @@ published: true
 </section>
 
 
-
-
-
-
-
-
-
-
-
-
-
 <section id="Provide-Access" class="section scrollspy" markdown="1">
 
 ## 提供和限制存取
@@ -699,15 +636,6 @@ published: true
 </div>
 
 </section>
-
-
-
-
-
-
-
-
-
 
 <section id="Keep-up-with-Technology" class="section scrollspy" markdown="1">
 
