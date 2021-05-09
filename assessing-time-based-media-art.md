@@ -508,6 +508,10 @@ title: "媒體藝術文件化"
 </ul>
 <br>
 
+{% comment %}
+{% 以下表格在中文化時有做額外style排版調整，如width:100px %}
+{% endcomment %}
+
 #### 評估工作環境之設置
 
 <table class="assessment bordered highlight">
@@ -743,6 +747,10 @@ PC Users:
 ##### 檔案包裝 (Wrapper) 和串流的衝突
 
 如果檔案包裝 (Wrapper) 和檔案串流之間的詮釋資料不相容，在影像串流重播時，可能在影像的畫面比例或色彩表現上出現問題。例如在這份 MediaInfo 報告中的「影像」類別所顯示：
+
+{% comment %}
+{% 以下表格為中文化時重新排版為table html %}
+{% endcomment %}
 
 <div class="card-content grey lighten-3 text">
 <table class="highlight" style="padding: 6px 5px !important; font-weight: lighter; font-size: 17px">
