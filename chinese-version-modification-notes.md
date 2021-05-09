@@ -5,6 +5,8 @@
 * 增加關於中文化團隊資訊
 * 網址階層不同，_config.yaml有修改，baseurl為/mattersinmediaart.org，url為https://savemediaart-tw.github.io
 * 原始碼中加入的為補充說明中文化額外加入或更動內容{% comment %}{% 此類註解說明中文化時所做的更動 %}{% endcomment %}
+* 中文化版本中，外部連結設定為新啟新視窗
+
 ### 英文版已經有的問題，無法處理的問題
 * 圖片連結交效
 
