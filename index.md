@@ -41,8 +41,6 @@ title: Matters in Media Art | 媒體藝術事務
 </div>
 
 
-
-
 <!-- <div class="row" markdown="1">
 
 <div class="col s6 m3 center" markdown="1">
