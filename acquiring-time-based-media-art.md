@@ -358,7 +358,6 @@ title: "取得媒體藝術作品"
 
 <section id="accessioning-templates" class="section scrollspy" markdown="1">
 
-
 ### 登錄範本
 
 在以下範本中，括號中的內容是非必選，或根據特定情況而可以更改，以及在彙編此份同意書時，為那些應該解決的特殊問題進行註解。在簽署契約之前，應移除所有括號並修改或刪除其中的內容。如果其中包含的內容是非必選的，則使用<span class="red-text">__紅色粗體字體__</span>，因為這些特別是用於媒體藝術。
