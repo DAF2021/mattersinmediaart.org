@@ -125,9 +125,6 @@ George Gawlinski
 
 最後，我們要感謝 Pam 和 Dick Kramlich 以及新藝術信託的董事們，他們對媒體藝術的承諾使這個計畫得以落實。
 
-{% comment %}
-{% 『開始」加入繁體中文翻譯計畫團隊 %}
-{% endcomment %}
 
 ### 繁體中文翻譯計畫團隊
 * 臺灣數位藝術基金會 科技藝術典藏基礎計畫｜Save Media Art Project, Taiwan Digital Art Foundation
@@ -139,9 +136,5 @@ George Gawlinski
 * 網站維運：臺灣數位藝術基金會
 * 贊助單位：國家文藝基金會 
 ![國家文藝基金會LOGO](img/ncafroc.jpg){:style="width:132px; padding-left: 8px; vertical-align: text-top"}
-
-{% comment %}
-{% 『結束」加入繁體中文翻譯計畫團隊 %}
-{% endcomment %}
 
 </section>
