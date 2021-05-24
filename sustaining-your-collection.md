@@ -363,7 +363,7 @@ published: true
 
 * 允許多個使用者更新資訊，並維持為最新版本
 
-使用者和物件的數量越多，工作流程越複雜，則專用資料庫（即藏品管理系統）就越必要。維護藏品清單的軟體類型從Excel電子表單、Filemaker之類的資料庫、開源藏品管理軟體像是 <a target="_blank" href="http://www.collectiveaccess.org/about">CollectiveAccess</a> 或 <a target="_blank" href="http://omeka.org/about/">Omeka</a> 到博物館採用的藏品管理系統，例如： <a target="_blank" href="www.gallerysystems.com/products-and-services/tms/">TMS 藏品管理系統</a>、Mimsy或機構自行開發的訂製系統。
+使用者和物件的數量越多，工作流程越複雜，則專用資料庫（即藏品管理系統）就越必要。維護藏品清單的軟體類型從Excel電子表單、Filemaker之類的資料庫、開源藏品管理軟體像是 <a target="_blank" href="http://www.collectiveaccess.org/about">CollectiveAccess</a> 或 <a target="_blank" href="http://omeka.org/about/">Omeka</a> 到博物館採用的藏品管理系統，例如： <a target="_blank" href="https://www.gallerysystems.com/products-and-services/tms/">TMS 藏品管理系統</a>、Mimsy或機構自行開發的訂製系統。
 
 要找到一個同時涵括上述藏品管理作業和數位保存的系統並不常見。因此，通常情況下會使用不同的系統和工具來滿足這兩項不同的核心需求，例如，除了使用藏品管理系統，也使用數位資產管理系統或數位檔案資料庫。但是在建構或使用藏品管理系統以外的任何專用系統之前，重要的是思考該專用系統如何與現有的藏品管理系統整合。
 
