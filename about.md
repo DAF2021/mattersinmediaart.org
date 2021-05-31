@@ -127,13 +127,13 @@ George Gawlinski
 
 
 ### 繁體中文翻譯計畫團隊
-* 臺灣數位藝術基金會 科技藝術典藏基礎計畫｜Save Media Art Project, Taiwan Digital Art Foundation
+* 財團法人數位藝術基金會 科技藝術典藏基礎計畫｜Save Media Art Project, Digital Art Foundation, Taiwan
 * 計畫主持人：陳禹先
 * 計畫國際交流主任：林子荃
 * 翻譯：王幸慈、彭庭軒
 * 同行審查：陳娟娟、施登騰
 * 網站程式：曾能鴻
-* 網站維運：臺灣數位藝術基金會
+* 網站維運：財團法人數位藝術基金會
 * 贊助單位：國家文藝基金會 
 ![國家文藝基金會LOGO](img/ncafroc.jpg){:style="width:132px; padding-left: 8px; vertical-align: text-top"}
 
